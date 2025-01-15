@@ -1,0 +1,350 @@
+[
+  {
+    "id": 1,
+    "name": "Gentle Face Wash",
+    "category": "Beauty & Skincare",
+    "subCategory": "face wash",
+    "brand": "FreshGlow",
+    "genericName": "Face Cleanser",
+    "sizes": ["100ml", "200ml"],
+    "ingredients": ["Water", "Glycerin", "Aloe Vera"],
+    "skinType": "All Skin Types",
+    "inBox": "1 Face Wash Tube",
+    "detailsAboutThisItem": [
+      "Cleanses gently without drying",
+      "Suitable for all skin types",
+      "Infused with aloe vera for soothing effect"
+    ],
+    "description": "A gentle face wash that cleanses without drying out the skin.",
+    "specialPromotionalImages": ["promo1.jpg", "promo2.jpg"],
+    "images": [
+      "main1.jpg",
+      "main2.jpg",
+      "main3.jpg",
+      "main4.jpg",
+      "main5.jpg",
+      "main6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u1",
+          "name": "Alice",
+          "date": "2025-01-10",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Amazing Face Wash",
+          "body": "This face wash is very gentle and leaves my skin feeling fresh."
+        }
+      }
+    ],
+    "price": "10 USD",
+    "availability": "In Stock",
+    "warranty": "6 months",
+    "customerServiceContact": "service@freshglow.com",
+    "shippingDetails": {
+      "cost": "2 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "10cm",
+      "width": "5cm",
+      "height": "3cm",
+      "weight": "150g"
+    },
+    "additionalFeatures": ["Paraben-free", "Cruelty-free"],
+    "discountsOrOffers": "10% off for first purchase"
+  },
+  {
+    "id": 2,
+    "name": "Herbal Soap",
+    "category": "Beauty & Skincare",
+    "subCategory": "soap",
+    "brand": "Nature's Essence",
+    "genericName": "Herbal Soap",
+    "sizes": ["75g", "150g"],
+    "ingredients": ["Neem", "Tulsi", "Turmeric"],
+    "skinType": "Oily Skin",
+    "inBox": "1 Soap Bar",
+    "detailsAboutThisItem": [
+      "Natural ingredients",
+      "Good for oily skin",
+      "Helps control acne"
+    ],
+    "description": "An herbal soap made with natural ingredients to help control acne.",
+    "specialPromotionalImages": ["promo3.jpg", "promo4.jpg"],
+    "images": [
+      "main1.jpg",
+      "main2.jpg",
+      "main3.jpg",
+      "main4.jpg",
+      "main5.jpg",
+      "main6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u2",
+          "name": "Bob",
+          "date": "2025-01-12",
+          "country": "India"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Good Soap",
+          "body": "This soap has helped reduce my acne."
+        }
+      }
+    ],
+    "price": "3 USD",
+    "availability": "In Stock",
+    "warranty": "3 months",
+    "customerServiceContact": "support@naturesessence.com",
+    "shippingDetails": {
+      "cost": "1 USD",
+      "estimatedDelivery": "3-5 days"
+    },
+    "productDimensions": {
+      "length": "8cm",
+      "width": "5cm",
+      "height": "2cm",
+      "weight": "80g"
+    },
+    "additionalFeatures": ["Natural", "Handmade"],
+    "discountsOrOffers": "Buy 2, Get 1 Free"
+  },
+  {
+    "id": 3,
+    "name": "Moisturizing Lotion",
+    "category": "Beauty & Skincare",
+    "subCategory": "lotion",
+    "brand": "HydraCare",
+    "genericName": "Body Lotion",
+    "sizes": ["200ml", "500ml"],
+    "ingredients": ["Shea Butter", "Vitamin E", "Jojoba Oil"],
+    "skinType": "Dry Skin",
+    "inBox": "1 Lotion Bottle",
+    "detailsAboutThisItem": [
+      "Deeply moisturizes",
+      "Ideal for dry skin",
+      "Non-greasy formula"
+    ],
+    "description": "A moisturizing lotion with a non-greasy formula, perfect for dry skin.",
+    "specialPromotionalImages": ["promo5.jpg", "promo6.jpg"],
+    "images": [
+      "main1.jpg",
+      "main2.jpg",
+      "main3.jpg",
+      "main4.jpg",
+      "main5.jpg",
+      "main6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Charlie",
+          "date": "2025-01-13",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Best Lotion Ever",
+          "body": "This lotion keeps my skin hydrated all day."
+        }
+      }
+    ],
+    "price": "15 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "contact@hydracare.com",
+    "shippingDetails": {
+      "cost": "3 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "15cm",
+      "width": "7cm",
+      "height": "4cm",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Dermatologist-tested", "Hypoallergenic"],
+    "discountsOrOffers": "15% off on subscription"
+  },
+  {
+    "id": 4,
+    "name": "Revitalizing Face Wash",
+    "category": "Beauty & Skincare",
+    "subCategory": "face wash",
+    "brand": "GlowUp",
+    "genericName": "Face Cleanser",
+    "sizes": ["150ml", "300ml"],
+    "ingredients": ["Cucumber Extract", "Green Tea", "Vitamin C"],
+    "skinType": "Normal to Oily Skin",
+    "inBox": "1 Face Wash Tube",
+    "detailsAboutThisItem": [
+      "Energizes and refreshes the skin",
+      "Suitable for normal to oily skin",
+      "Contains antioxidants for a healthy glow"
+    ],
+    "description": "A revitalizing face wash that energizes and refreshes the skin.",
+    "specialPromotionalImages": ["promo7.jpg", "promo8.jpg"],
+    "images": [
+      "facewash1.jpg",
+      "facewash2.jpg",
+      "facewash3.jpg",
+      "facewash4.jpg",
+      "facewash5.jpg",
+      "facewash6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u4",
+          "name": "Diana",
+          "date": "2025-01-15",
+          "country": "Canada"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Refreshing Face Wash",
+          "body": "Leaves my skin feeling fresh and clean."
+        }
+      }
+    ],
+    "price": "12 USD",
+    "availability": "In Stock",
+    "warranty": "6 months",
+    "customerServiceContact": "support@glowup.com",
+    "shippingDetails": {
+      "cost": "2 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "12cm",
+      "width": "6cm",
+      "height": "4cm",
+      "weight": "160g"
+    },
+    "additionalFeatures": ["Sulfate-free", "Vegan"],
+    "discountsOrOffers": "10% off on second purchase"
+  },
+  {
+    "id": 5,
+    "name": "Organic Soap",
+    "category": "Beauty & Skincare",
+    "subCategory": "soap",
+    "brand": "PureNature",
+    "genericName": "Organic Soap",
+    "sizes": ["100g", "200g"],
+    "ingredients": ["Lavender Oil", "Olive Oil", "Coconut Oil"],
+    "skinType": "Sensitive Skin",
+    "inBox": "1 Soap Bar",
+    "detailsAboutThisItem": [
+      "Made with organic ingredients",
+      "Gentle on sensitive skin",
+      "Calming lavender scent"
+    ],
+    "description": "An organic soap that is gentle on sensitive skin and has a calming lavender scent.",
+    "specialPromotionalImages": ["promo9.jpg", "promo10.jpg"],
+    "images": [
+      "soap1.jpg",
+      "soap2.jpg",
+      "soap3.jpg",
+      "soap4.jpg",
+      "soap5.jpg",
+      "soap6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u5",
+          "name": "Emma",
+          "date": "2025-01-17",
+          "country": "Australia"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Gentle and Soothing",
+          "body": "This soap is very gentle and soothing for my sensitive skin."
+        }
+      }
+    ],
+    "price": "5 USD",
+    "availability": "In Stock",
+    "warranty": "3 months",
+    "customerServiceContact": "care@purenature.com",
+    "shippingDetails": {
+      "cost": "1.5 USD",
+      "estimatedDelivery": "4-6 days"
+    },
+    "productDimensions": {
+      "length": "9cm",
+      "width": "5.5cm",
+      "height": "2.5cm",
+      "weight": "90g"
+    },
+    "additionalFeatures": ["Handcrafted", "Eco-friendly"],
+    "discountsOrOffers": "Buy 3, Get 20% off"
+  },
+  {
+    "id": 6,
+    "name": "Ultra Hydrating Lotion",
+    "category": "Beauty & Skincare",
+    "subCategory": "lotion",
+    "brand": "AquaBoost",
+    "genericName": "Hydrating Body Lotion",
+    "sizes": ["250ml", "600ml"],
+    "ingredients": ["Hyaluronic Acid", "Aloe Vera", "Coconut Milk"],
+    "skinType": "Very Dry Skin",
+    "inBox": "1 Lotion Bottle",
+    "detailsAboutThisItem": [
+      "Provides intense hydration",
+      "Ideal for very dry skin",
+      "Non-greasy, fast-absorbing formula"
+    ],
+    "description": "An ultra hydrating lotion that provides intense hydration for very dry skin.",
+    "specialPromotionalImages": ["promo11.jpg", "promo12.jpg"],
+    "images": [
+      "lotion1.jpg",
+      "lotion2.jpg",
+      "lotion3.jpg",
+      "lotion4.jpg",
+      "lotion5.jpg",
+      "lotion6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Frank",
+          "date": "2025-01-20",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Hydration Savior",
+          "body": "This lotion keeps my skin hydrated and soft all day."
+        }
+      }
+    ],
+    "price": "18 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "info@aquaboost.com",
+    "shippingDetails": {
+      "cost": "3 USD",
+      "estimatedDelivery": "6-8 days"
+    },
+    "productDimensions": {
+      "length": "16cm",
+      "width": "7.5cm",
+      "height": "5cm",
+      "weight": "320g"
+    },
+    "additionalFeatures": ["Dermatologist-tested", "Fragrance-free"],
+    "discountsOrOffers": "15% off on bulk orders"
+  }
+]

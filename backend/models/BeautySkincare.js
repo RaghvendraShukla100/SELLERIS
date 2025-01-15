@@ -1,5 +1,6 @@
-const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
+import mongoose from "mongoose";
+
+const { Schema } = mongoose;
 
 const beautySkincareSchema = new Schema({
   id: { type: Number, required: true },
@@ -7,6 +8,7 @@ const beautySkincareSchema = new Schema({
   category: { type: String, required: true },
   subCategory: { type: String, required: true },
   brand: { type: String, required: true },
+  genericName: { type: String, required: true },
   sizes: [String],
   ingredients: [String],
   skinType: String,
@@ -14,12 +16,7 @@ const beautySkincareSchema = new Schema({
   detailsAboutThisItem: [String],
   description: String,
   specialPromotionalImages: [String],
-  images: [
-    {
-      type: String,
-      links: [String],
-    },
-  ],
+  images: [String],
   reviews: [
     {
       user: {
@@ -54,4 +51,4 @@ const beautySkincareSchema = new Schema({
 });
 
 const BeautySkincare = mongoose.model("BeautySkincare", beautySkincareSchema);
-module.exports = BeautySkincare;
+export default BeautySkincare;

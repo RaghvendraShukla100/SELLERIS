@@ -1,5 +1,6 @@
-const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
+import mongoose from "mongoose";
+
+const { Schema } = mongoose;
 
 const homeDecorSchema = new Schema({
   id: { type: Number, required: true },
@@ -7,6 +8,7 @@ const homeDecorSchema = new Schema({
   category: { type: String, required: true },
   subCategory: { type: String, required: true },
   brand: { type: String, required: true },
+  genericName: { type: String, required: true },
   sizes: [String],
   colors: [String],
   material: String,
@@ -55,4 +57,4 @@ const homeDecorSchema = new Schema({
 });
 
 const HomeDecor = mongoose.model("HomeDecor", homeDecorSchema);
-module.exports = HomeDecor;
+export default HomeDecor;

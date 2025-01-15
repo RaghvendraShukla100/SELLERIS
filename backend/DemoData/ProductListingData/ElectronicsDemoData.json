@@ -1,0 +1,852 @@
+[
+  {
+    "id": 1,
+    "name": "SmartPhone Pro",
+    "category": "Electronics",
+    "subCategory": "mobile",
+    "brand": "TechBrand",
+    "genericName": "Smartphone",
+    "os": "Android 12",
+    "RAM": ["6GB", "8GB"],
+    "ROM": ["128GB", "256GB"],
+    "displaySize": "6.5 inches",
+    "displayResolution": "2400 x 1080",
+    "inBox": "Phone, Charger, USB Cable, User Manual",
+    "detailsAboutThisItem": [
+      "High-resolution display",
+      "Fast charging",
+      "Triple camera setup"
+    ],
+    "description": "A high-end smartphone with advanced features and excellent performance.",
+    "specialPromotionalImages": ["promo1.jpg", "promo2.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "black1.jpg",
+          "black2.jpg",
+          "black3.jpg",
+          "black4.jpg",
+          "black5.jpg",
+          "black6.jpg"
+        ]
+      },
+      {
+        "color": "Blue",
+        "links": [
+          "blue1.jpg",
+          "blue2.jpg",
+          "blue3.jpg",
+          "blue4.jpg",
+          "blue5.jpg",
+          "blue6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u1",
+          "name": "Alice",
+          "date": "2025-01-10",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great Phone",
+          "body": "This phone has all the features I need and performs excellently."
+        }
+      }
+    ],
+    "price": "800 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@techbrand.com",
+    "shippingDetails": {
+      "cost": "10 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "16cm",
+      "width": "7.5cm",
+      "height": "0.8cm",
+      "weight": "180g"
+    },
+    "additionalFeatures": ["5G support", "Face recognition"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 2,
+    "name": "UltraBook X",
+    "category": "Electronics",
+    "subCategory": "laptop",
+    "brand": "ComputeX",
+    "genericName": "Laptop",
+    "os": "Windows 11",
+    "RAM": ["8GB", "16GB"],
+    "ROM": ["256GB SSD", "512GB SSD"],
+    "displaySize": "15.6 inches",
+    "displayResolution": "1920 x 1080",
+    "inBox": "Laptop, Charger, User Manual",
+    "detailsAboutThisItem": [
+      "Lightweight and portable",
+      "Powerful performance",
+      "Long battery life"
+    ],
+    "description": "A sleek and powerful laptop designed for professionals and everyday use.",
+    "specialPromotionalImages": ["promo3.jpg", "promo4.jpg"],
+    "images": [
+      {
+        "color": "Silver",
+        "links": [
+          "silver1.jpg",
+          "silver2.jpg",
+          "silver3.jpg",
+          "silver4.jpg",
+          "silver5.jpg",
+          "silver6.jpg"
+        ]
+      },
+      {
+        "color": "Black",
+        "links": [
+          "black1.jpg",
+          "black2.jpg",
+          "black3.jpg",
+          "black4.jpg",
+          "black5.jpg",
+          "black6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u2",
+          "name": "Bob",
+          "date": "2025-01-12",
+          "country": "India"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Excellent Laptop",
+          "body": "This laptop is very powerful and perfect for my work."
+        }
+      }
+    ],
+    "price": "1000 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@computex.com",
+    "shippingDetails": {
+      "cost": "15 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "35cm",
+      "width": "24cm",
+      "height": "2cm",
+      "weight": "1.5kg"
+    },
+    "additionalFeatures": ["Fingerprint scanner", "Backlit keyboard"],
+    "discountsOrOffers": "15% off on second purchase"
+  },
+  {
+    "id": 3,
+    "name": "SmartTV 4K",
+    "category": "Electronics",
+    "subCategory": "tv",
+    "brand": "VisionTech",
+    "genericName": "Smart TV",
+    "os": "Android TV",
+    "RAM": ["2GB"],
+    "ROM": ["16GB"],
+    "displaySize": "55 inches",
+    "displayResolution": "3840 x 2160",
+    "inBox": "TV, Remote, Stand, User Manual",
+    "detailsAboutThisItem": [
+      "4K Ultra HD resolution",
+      "Built-in streaming apps",
+      "Voice control"
+    ],
+    "description": "A 4K Ultra HD smart TV with brilliant picture quality and smart features.",
+    "specialPromotionalImages": ["promo5.jpg", "promo6.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "tv1.jpg",
+          "tv2.jpg",
+          "tv3.jpg",
+          "tv4.jpg",
+          "tv5.jpg",
+          "tv6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Charlie",
+          "date": "2025-01-13",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Amazing Picture Quality",
+          "body": "This TV has amazing picture quality and great smart features."
+        }
+      }
+    ],
+    "price": "700 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@visiontech.com",
+    "shippingDetails": {
+      "cost": "20 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "123cm",
+      "width": "71cm",
+      "height": "7cm",
+      "weight": "15kg"
+    },
+    "additionalFeatures": ["HDR support", "Voice remote"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+  {
+    "id": 4,
+    "name": "Gaming Laptop G-Series",
+    "category": "Electronics",
+    "subCategory": "laptop",
+    "brand": "GameTech",
+    "genericName": "Gaming Laptop",
+    "os": "Windows 11",
+    "RAM": ["16GB", "32GB"],
+    "ROM": ["1TB SSD"],
+    "displaySize": "17.3 inches",
+    "displayResolution": "2560 x 1440",
+    "inBox": "Laptop, Charger, User Manual",
+    "detailsAboutThisItem": [
+      "High-performance graphics",
+      "RGB keyboard",
+      "Advanced cooling system"
+    ],
+    "description": "A gaming laptop with high-performance graphics and advanced features for an immersive gaming experience.",
+    "specialPromotionalImages": ["promo7.jpg", "promo8.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "gaming1.jpg",
+          "gaming2.jpg",
+          "gaming3.jpg",
+          "gaming4.jpg",
+          "gaming5.jpg",
+          "gaming6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u4",
+          "name": "Diana",
+          "date": "2025-01-15",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Perfect for Gaming",
+          "body": "This laptop handles all my games with ease and has a fantastic display."
+        }
+      }
+    ],
+    "price": "1500 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@gametech.com",
+    "shippingDetails": {
+      "cost": "25 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "39cm",
+      "width": "26cm",
+      "height": "3cm",
+      "weight": "2.5kg"
+    },
+    "additionalFeatures": [
+      "Customizable RGB lighting",
+      "High-refresh-rate display"
+    ],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 5,
+    "name": "EcoSmart LED TV",
+    "category": "Electronics",
+    "subCategory": "tv",
+    "brand": "EcoVision",
+    "genericName": "LED TV",
+    "os": "WebOS",
+    "RAM": ["2GB"],
+    "ROM": ["16GB"],
+    "displaySize": "50 inches",
+    "displayResolution": "3840 x 2160",
+    "inBox": "TV, Remote, Stand, User Manual",
+    "detailsAboutThisItem": [
+      "Energy-efficient LED",
+      "4K Ultra HD resolution",
+      "Smart TV features"
+    ],
+    "description": "An energy-efficient LED TV with 4K Ultra HD resolution and smart features.",
+    "specialPromotionalImages": ["promo9.jpg", "promo10.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "ledtv1.jpg",
+          "ledtv2.jpg",
+          "ledtv3.jpg",
+          "ledtv4.jpg",
+          "ledtv5.jpg",
+          "ledtv6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u5",
+          "name": "Ethan",
+          "date": "2025-01-17",
+          "country": "Germany"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Great TV",
+          "body": "The picture quality is amazing and it's very energy-efficient."
+        }
+      }
+    ],
+    "price": "600 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@ecovision.com",
+    "shippingDetails": {
+      "cost": "20 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "112cm",
+      "width": "65cm",
+      "height": "8cm",
+      "weight": "13kg"
+    },
+    "additionalFeatures": ["HDR support", "Built-in Wi-Fi"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 6,
+    "name": "Pro Laptop",
+    "category": "Electronics",
+    "subCategory": "laptop",
+    "brand": "TechPro",
+    "genericName": "Laptop",
+    "os": "macOS",
+    "RAM": ["16GB", "32GB"],
+    "ROM": ["512GB SSD", "1TB SSD"],
+    "displaySize": "14 inches",
+    "displayResolution": "2560 x 1600",
+    "inBox": "Laptop, Charger, User Manual",
+    "detailsAboutThisItem": [
+      "Retina display",
+      "High-performance CPU",
+      "Long battery life"
+    ],
+    "description": "A high-performance laptop with a Retina display and long battery life, perfect for professionals.",
+    "specialPromotionalImages": ["promo11.jpg", "promo12.jpg"],
+    "images": [
+      {
+        "color": "Silver",
+        "links": [
+          "prolaptop1.jpg",
+          "prolaptop2.jpg",
+          "prolaptop3.jpg",
+          "prolaptop4.jpg",
+          "prolaptop5.jpg",
+          "prolaptop6.jpg"
+        ]
+      },
+      {
+        "color": "Space Gray",
+        "links": [
+          "spacelaptop1.jpg",
+          "spacelaptop2.jpg",
+          "spacelaptop3.jpg",
+          "spacelaptop4.jpg",
+          "spacelaptop5.jpg",
+          "spacelaptop6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Sophia",
+          "date": "2025-01-18",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Top-notch Performance",
+          "body": "This laptop handles all my professional tasks with ease and has a stunning display."
+        }
+      }
+    ],
+    "price": "1400 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@techpro.com",
+    "shippingDetails": {
+      "cost": "20 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "31cm",
+      "width": "22cm",
+      "height": "1.5cm",
+      "weight": "1.2kg"
+    },
+    "additionalFeatures": ["Touch ID", "USB-C ports"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 7,
+    "name": "Ultra Gaming Monitor",
+    "category": "Electronics",
+    "subCategory": "tv",
+    "brand": "GameVision",
+    "genericName": "Gaming Monitor",
+    "os": "N/A",
+    "RAM": ["N/A"],
+    "ROM": ["N/A"],
+    "displaySize": "27 inches",
+    "displayResolution": "2560 x 1440",
+    "inBox": "Monitor, Stand, HDMI Cable, User Manual",
+    "detailsAboutThisItem": [
+      "High-refresh-rate display",
+      "Low input lag",
+      "Advanced color accuracy"
+    ],
+    "description": "A high-performance gaming monitor with a high-refresh-rate display and advanced color accuracy.",
+    "specialPromotionalImages": ["promo13.jpg", "promo14.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "gamingmonitor1.jpg",
+          "gamingmonitor2.jpg",
+          "gamingmonitor3.jpg",
+          "gamingmonitor4.jpg",
+          "gamingmonitor5.jpg",
+          "gamingmonitor6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u7",
+          "name": "Liam",
+          "date": "2025-01-19",
+          "country": "Australia"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Best Gaming Monitor",
+          "body": "This monitor offers excellent performance and makes my gaming experience much better."
+        }
+      }
+    ],
+    "price": "400 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@gamevision.com",
+    "shippingDetails": {
+      "cost": "15 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "61cm",
+      "width": "36cm",
+      "height": "5cm",
+      "weight": "4.5kg"
+    },
+    "additionalFeatures": ["G-Sync support", "HDR support"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+  {
+    "id": 8,
+    "name": "SuperTab Tablet",
+    "category": "Electronics",
+    "subCategory": "mobile",
+    "brand": "TabPro",
+    "genericName": "Tablet",
+    "os": "iPadOS",
+    "RAM": ["4GB", "8GB"],
+    "ROM": ["64GB", "128GB"],
+    "displaySize": "10.5 inches",
+    "displayResolution": "2224 x 1668",
+    "inBox": "Tablet, Charger, USB Cable, User Manual",
+    "detailsAboutThisItem": [
+      "High-resolution display",
+      "Long battery life",
+      "Supports Apple Pencil"
+    ],
+    "description": "A high-performance tablet with a high-resolution display, perfect for productivity and entertainment.",
+    "specialPromotionalImages": ["promo15.jpg", "promo16.jpg"],
+    "images": [
+      {
+        "color": "Space Gray",
+        "links": [
+          "tablet1.jpg",
+          "tablet2.jpg",
+          "tablet3.jpg",
+          "tablet4.jpg",
+          "tablet5.jpg",
+          "tablet6.jpg"
+        ]
+      },
+      {
+        "color": "Silver",
+        "links": [
+          "tablet7.jpg",
+          "tablet8.jpg",
+          "tablet9.jpg",
+          "tablet10.jpg",
+          "tablet11.jpg",
+          "tablet12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u8",
+          "name": "Mia",
+          "date": "2025-01-20",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Perfect Tablet",
+          "body": "This tablet is perfect for my work and entertainment needs. The display is stunning."
+        }
+      }
+    ],
+    "price": "600 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@tabpro.com",
+    "shippingDetails": {
+      "cost": "10 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "25cm",
+      "width": "17.5cm",
+      "height": "0.6cm",
+      "weight": "500g"
+    },
+    "additionalFeatures": ["Face ID", "USB-C port"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+
+  {
+    "id": 9,
+    "name": "SmartPhone Ultra",
+    "category": "Electronics",
+    "subCategory": "mobile",
+    "brand": "HighTech",
+    "genericName": "Smartphone",
+    "os": "Android 12",
+    "RAM": ["8GB", "12GB"],
+    "ROM": ["256GB", "512GB"],
+    "displaySize": "6.8 inches",
+    "displayResolution": "3200 x 1440",
+    "inBox": "Phone, Charger, USB Cable, Earphones, User Manual",
+    "detailsAboutThisItem": [
+      "High-resolution AMOLED display",
+      "Fast wireless charging",
+      "Quad camera setup"
+    ],
+    "description": "A flagship smartphone with top-of-the-line features and exceptional performance.",
+    "specialPromotionalImages": ["promo17.jpg", "promo18.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "black1.jpg",
+          "black2.jpg",
+          "black3.jpg",
+          "black4.jpg",
+          "black5.jpg",
+          "black6.jpg"
+        ]
+      },
+      {
+        "color": "Silver",
+        "links": [
+          "silver1.jpg",
+          "silver2.jpg",
+          "silver3.jpg",
+          "silver4.jpg",
+          "silver5.jpg",
+          "silver6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u9",
+          "name": "Ava",
+          "date": "2025-01-20",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Outstanding Performance",
+          "body": "This smartphone exceeds my expectations in every way."
+        }
+      }
+    ],
+    "price": "900 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@hightech.com",
+    "shippingDetails": {
+      "cost": "10 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "16.5cm",
+      "width": "7.8cm",
+      "height": "0.8cm",
+      "weight": "190g"
+    },
+    "additionalFeatures": ["5G support", "Water-resistant"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 10,
+    "name": "ZenBook Laptop",
+    "category": "Electronics",
+    "subCategory": "laptop",
+    "brand": "ZenTech",
+    "genericName": "Laptop",
+    "os": "Windows 11",
+    "RAM": ["16GB", "32GB"],
+    "ROM": ["512GB SSD", "1TB SSD"],
+    "displaySize": "14 inches",
+    "displayResolution": "2880 x 1800",
+    "inBox": "Laptop, Charger, User Manual",
+    "detailsAboutThisItem": [
+      "High-resolution display",
+      "Ultra-light and portable",
+      "Long battery life"
+    ],
+    "description": "A high-performance laptop with a stunning display, perfect for both work and entertainment.",
+    "specialPromotionalImages": ["promo19.jpg", "promo20.jpg"],
+    "images": [
+      {
+        "color": "Silver",
+        "links": [
+          "zenbook1.jpg",
+          "zenbook2.jpg",
+          "zenbook3.jpg",
+          "zenbook4.jpg",
+          "zenbook5.jpg",
+          "zenbook6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u10",
+          "name": "Mason",
+          "date": "2025-01-21",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Incredible Display",
+          "body": "The display on this laptop is absolutely stunning and the performance is top-notch."
+        }
+      }
+    ],
+    "price": "1200 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@zentech.com",
+    "shippingDetails": {
+      "cost": "15 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "32cm",
+      "width": "21cm",
+      "height": "1.4cm",
+      "weight": "1.1kg"
+    },
+    "additionalFeatures": ["Touchscreen", "Backlit keyboard"],
+    "discountsOrOffers": "10% off on second purchase"
+  },
+  {
+    "id": 11,
+    "name": "CrystalClear LED TV",
+    "category": "Electronics",
+    "subCategory": "tv",
+    "brand": "ClearVision",
+    "genericName": "LED TV",
+    "os": "Tizen",
+    "RAM": ["3GB"],
+    "ROM": ["32GB"],
+    "displaySize": "65 inches",
+    "displayResolution": "3840 x 2160",
+    "inBox": "TV, Remote, Stand, User Manual",
+    "detailsAboutThisItem": [
+      "Ultra HD 4K resolution",
+      "Smart TV functionality",
+      "High dynamic range (HDR)"
+    ],
+    "description": "An Ultra HD 4K LED TV with smart features and high dynamic range for an exceptional viewing experience.",
+    "specialPromotionalImages": ["promo21.jpg", "promo22.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "ledtv1.jpg",
+          "ledtv2.jpg",
+          "ledtv3.jpg",
+          "ledtv4.jpg",
+          "ledtv5.jpg",
+          "ledtv6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u11",
+          "name": "Olivia",
+          "date": "2025-01-22",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Fantastic Picture Quality",
+          "body": "The picture quality is stunning and the smart features are very convenient."
+        }
+      }
+    ],
+    "price": "1000 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@clearvision.com",
+    "shippingDetails": {
+      "cost": "20 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "145cm",
+      "width": "83cm",
+      "height": "9cm",
+      "weight": "20kg"
+    },
+    "additionalFeatures": ["Built-in Wi-Fi", "Voice control"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 12,
+    "name": "ProTablet X",
+    "category": "Electronics",
+    "subCategory": "mobile",
+    "brand": "TabX",
+    "genericName": "Tablet",
+    "os": "Android 12",
+    "RAM": ["6GB", "8GB"],
+    "ROM": ["128GB", "256GB"],
+    "displaySize": "11 inches",
+    "displayResolution": "2560 x 1600",
+    "inBox": "Tablet, Charger, USB Cable, User Manual",
+    "detailsAboutThisItem": [
+      "High-resolution display",
+      "Long battery life",
+      "Supports stylus"
+    ],
+    "description": "A high-performance tablet with a high-resolution display, perfect for productivity and creativity.",
+    "specialPromotionalImages": ["promo23.jpg", "promo24.jpg"],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "tablet1.jpg",
+          "tablet2.jpg",
+          "tablet3.jpg",
+          "tablet4.jpg",
+          "tablet5.jpg",
+          "tablet6.jpg"
+        ]
+      },
+      {
+        "color": "White",
+        "links": [
+          "tablet7.jpg",
+          "tablet8.jpg",
+          "tablet9.jpg",
+          "tablet10.jpg",
+          "tablet11.jpg",
+          "tablet12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u12",
+          "name": "Noah",
+          "date": "2025-01-23",
+          "country": "Australia"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Perfect for Work and Play",
+          "body": "This tablet is perfect for both work and entertainment. The display is fantastic."
+        }
+      }
+    ],
+    "price": "700 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@tabx.com",
+    "shippingDetails": {
+      "cost": "10 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "27cm",
+      "width": "18cm",
+      "height": "0.7cm",
+      "weight": "550g"
+    },
+    "additionalFeatures": ["Face recognition", "USB-C port"],
+    "discountsOrOffers": "10% off on first purchase"
+  }
+]

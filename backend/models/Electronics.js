@@ -1,5 +1,6 @@
-const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
+import mongoose from "mongoose";
+
+const { Schema } = mongoose;
 
 const electronicsSchema = new Schema({
   id: { type: Number, required: true },
@@ -7,6 +8,7 @@ const electronicsSchema = new Schema({
   category: { type: String, required: true },
   subCategory: { type: String, required: true },
   brand: { type: String, required: true },
+  genericName: { type: String, required: true },
   os: String,
   RAM: [String],
   ROM: [String],
@@ -56,4 +58,4 @@ const electronicsSchema = new Schema({
 });
 
 const Electronics = mongoose.model("Electronics", electronicsSchema);
-module.exports = Electronics;
+export default Electronics;

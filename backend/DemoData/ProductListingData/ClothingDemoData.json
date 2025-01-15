@@ -1,0 +1,388 @@
+[
+  {
+    "id": 1,
+    "name": "Men's T-Shirt",
+    "category": "Clothing",
+    "subCategory": "Men",
+    "productType": "Top",
+    "brand": "Brand A",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Red", "Blue"],
+    "material": "Cotton",
+    "fit": "Regular",
+    "inBox": "1 x T-Shirt",
+    "detailsAboutThisItem": ["Soft fabric", "Durable stitching"],
+    "description": "Comfortable cotton t-shirt for men.",
+    "specialPromotionalImages": ["promo1.jpg"],
+    "images": [
+      { "color": "Red", "links": ["red1.jpg", "red2.jpg"] },
+      { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u1",
+          "name": "John Doe",
+          "date": "2025-01-10",
+          "country": "USA"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Good quality",
+          "body": "Very comfortable and fits well."
+        }
+      }
+    ],
+    "price": "$19.99",
+    "availability": "In stock",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandA.com",
+    "shippingDetails": { "cost": "$5", "estimatedDelivery": "3-5 days" },
+    "productDimensions": {
+      "length": "28 in",
+      "chest": "40 in",
+      "sleeveLength": "8 in",
+      "weight": "200g"
+    },
+    "additionalFeatures": ["Breathable fabric"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 2,
+    "name": "Women's Dress",
+    "category": "Clothing",
+    "subCategory": "Women",
+    "productType": "Dress",
+    "brand": "Brand B",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["Black", "White"],
+    "material": "Polyester",
+    "fit": "Slim",
+    "inBox": "1 x Dress",
+    "detailsAboutThisItem": ["Elegant design", "Comfortable fit"],
+    "description": "Stylish dress for women.",
+    "specialPromotionalImages": ["promo2.jpg"],
+    "images": [
+      { "color": "Black", "links": ["black1.jpg", "black2.jpg"] },
+      { "color": "White", "links": ["white1.jpg", "white2.jpg"] }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u2",
+          "name": "Jane Smith",
+          "date": "2025-01-12",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Loved it",
+          "body": "The dress is perfect for any occasion."
+        }
+      }
+    ],
+    "price": "$49.99",
+    "availability": "In stock",
+    "warranty": "6 months",
+    "customerServiceContact": "support@brandB.com",
+    "shippingDetails": { "cost": "$8", "estimatedDelivery": "5-7 days" },
+    "productDimensions": {
+      "length": "36 in",
+      "chest": "38 in",
+      "sleeveLength": "Sleeveless",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Wrinkle-free fabric"],
+    "discountsOrOffers": "Buy 1 get 1 50% off"
+  },
+  {
+    "id": 3,
+    "name": "Kids' Hoodie",
+    "category": "Clothing",
+    "subCategory": "Kids",
+    "productType": "Hoodie",
+    "brand": "Brand C",
+    "sizes": ["XS", "S", "M"],
+    "colors": ["Green", "Yellow"],
+    "material": "Fleece",
+    "fit": "Loose",
+    "inBox": "1 x Hoodie",
+    "detailsAboutThisItem": ["Warm and cozy", "Easy to wash"],
+    "description": "Comfortable hoodie for kids.",
+    "specialPromotionalImages": ["promo3.jpg"],
+    "images": [
+      { "color": "Green", "links": ["green1.jpg", "green2.jpg"] },
+      { "color": "Yellow", "links": ["yellow1.jpg", "yellow2.jpg"] }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Emma Brown",
+          "date": "2025-01-15",
+          "country": "Canada"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Nice and warm",
+          "body": "My kids love these hoodies."
+        }
+      }
+    ],
+    "price": "$29.99",
+    "availability": "In stock",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "18 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "15% off on orders over $50"
+  },
+  {
+    "id": 4,
+    "name": "Men's Jeans",
+    "category": "Clothing",
+    "subCategory": "Men",
+    "productType": "Bottom",
+    "brand": "Brand D",
+    "sizes": ["30", "32", "34", "36"],
+    "colors": ["Blue", "Black"],
+    "material": "Denim",
+    "fit": "Slim",
+    "inBox": "1 x Jeans",
+    "detailsAboutThisItem": ["Durable fabric", "Comfortable fit"],
+    "description": "Stylish slim-fit jeans for men.",
+    "specialPromotionalImages": ["promo4.jpg"],
+    "images": [
+      { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] },
+      { "color": "Black", "links": ["black1.jpg", "black2.jpg"] }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u4",
+          "name": "Mike Johnson",
+          "date": "2025-01-20",
+          "country": "Australia"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great jeans",
+          "body": "Perfect fit and very durable."
+        }
+      }
+    ],
+    "price": "$39.99",
+    "availability": "In stock",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandD.com",
+    "shippingDetails": { "cost": "$7", "estimatedDelivery": "5-7 days" },
+    "productDimensions": {
+      "length": "42 in",
+      "chest": "N/A",
+      "sleeveLength": "N/A",
+      "weight": "500g"
+    },
+    "additionalFeatures": ["Stretchable fabric"],
+    "discountsOrOffers": "20% off on second pair"
+  },
+  [
+    {
+      "id": 3,
+      "name": "Kids' Hoodie",
+      "category": "Clothing",
+      "subCategory": "Kids",
+      "productType": "Top",
+      "brand": "Brand C",
+      "sizes": ["S", "M", "L"],
+      "colors": ["Green", "Yellow"],
+      "material": "Fleece",
+      "fit": "Regular",
+      "inBox": "1 x Hoodie",
+      "detailsAboutThisItem": ["Warm and cozy", "Durable fabric"],
+      "description": "Comfortable fleece hoodie for kids.",
+      "specialPromotionalImages": ["promo3.jpg"],
+      "images": [
+        { "color": "Green", "links": ["green1.jpg", "green2.jpg"] },
+        { "color": "Yellow", "links": ["yellow1.jpg", "yellow2.jpg"] }
+      ],
+      "reviews": [
+        {
+          "user": {
+            "id": "u3",
+            "name": "Alice Brown",
+            "date": "2025-01-15",
+            "country": "Canada"
+          },
+          "rating": 4,
+          "comment": {
+            "heading": "Great for kids",
+            "body": "My child loves it and wears it all the time."
+          }
+        }
+      ],
+      "price": "$29.99",
+      "availability": "In stock",
+      "warranty": "1 year",
+      "customerServiceContact": "support@brandC.com",
+      "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+      "productDimensions": {
+        "length": "20 in",
+        "chest": "30 in",
+        "sleeveLength": "15 in",
+        "weight": "250g"
+      },
+      "additionalFeatures": ["Machine washable"],
+      "discountsOrOffers": "15% off on orders over $50"
+    },
+    {
+      "id": 4,
+      "name": "Men's Jeans",
+      "category": "Clothing",
+      "subCategory": "Men",
+      "productType": "Bottom",
+      "brand": "Brand D",
+      "sizes": ["32", "34", "36", "38"],
+      "colors": ["Blue", "Black"],
+      "material": "Denim",
+      "fit": "Slim",
+      "inBox": "1 x Jeans",
+      "detailsAboutThisItem": ["Stretchable fabric", "Classic fit"],
+      "description": "Stylish slim-fit jeans for men.",
+      "specialPromotionalImages": ["promo4.jpg"],
+      "images": [
+        { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] },
+        { "color": "Black", "links": ["black1.jpg", "black2.jpg"] }
+      ],
+      "reviews": [
+        {
+          "user": {
+            "id": "u4",
+            "name": "David Johnson",
+            "date": "2025-01-18",
+            "country": "Australia"
+          },
+          "rating": 5,
+          "comment": {
+            "heading": "Perfect fit",
+            "body": "These jeans fit perfectly and are very comfortable."
+          }
+        }
+      ],
+      "price": "$39.99",
+      "availability": "In stock",
+      "warranty": "1 year",
+      "customerServiceContact": "support@brandD.com",
+      "shippingDetails": { "cost": "$7", "estimatedDelivery": "3-5 days" },
+      "productDimensions": {
+        "length": "40 in",
+        "waist": "32 in",
+        "hip": "38 in",
+        "weight": "500g"
+      },
+      "additionalFeatures": ["Fade-resistant"],
+      "discountsOrOffers": "Free shipping on orders over $75"
+    },
+    {
+      "id": 5,
+      "name": "Women's Blouse",
+      "category": "Clothing",
+      "subCategory": "Women",
+      "productType": "Top",
+      "brand": "Brand E",
+      "sizes": ["S", "M", "L", "XL"],
+      "colors": ["White", "Pink"],
+      "material": "Silk",
+      "fit": "Loose",
+      "inBox": "1 x Blouse",
+      "detailsAboutThisItem": ["Elegant design", "Soft and smooth fabric"],
+      "description": "Chic silk blouse for women.",
+      "specialPromotionalImages": ["promo5.jpg"],
+      "images": [
+        { "color": "White", "links": ["white1.jpg", "white2.jpg"] },
+        { "color": "Pink", "links": ["pink1.jpg", "pink2.jpg"] }
+      ],
+      "reviews": [
+        {
+          "user": {
+            "id": "u5",
+            "name": "Emma Wilson",
+            "date": "2025-01-20",
+            "country": "France"
+          },
+          "rating": 4,
+          "comment": {
+            "heading": "Lovely blouse",
+            "body": "The blouse looks beautiful and feels great."
+          }
+        }
+      ],
+      "price": "$59.99",
+      "availability": "In stock",
+      "warranty": "6 months",
+      "customerServiceContact": "support@brandE.com",
+      "shippingDetails": { "cost": "$9", "estimatedDelivery": "5-7 days" },
+      "productDimensions": {
+        "length": "26 in",
+        "chest": "36 in",
+        "sleeveLength": "24 in",
+        "weight": "150g"
+      },
+      "additionalFeatures": ["Dry-clean only"],
+      "discountsOrOffers": "20% off on second purchase"
+    },
+    {
+      "id": 6,
+      "name": "Kids' Joggers",
+      "category": "Clothing",
+      "subCategory": "Kids",
+      "productType": "Bottom",
+      "brand": "Brand F",
+      "sizes": ["S", "M", "L"],
+      "colors": ["Gray", "Navy"],
+      "material": "Cotton Blend",
+      "fit": "Regular",
+      "inBox": "1 x Joggers",
+      "detailsAboutThisItem": ["Comfortable fit", "Elastic waistband"],
+      "description": "Soft and comfortable joggers for kids.",
+      "specialPromotionalImages": ["promo6.jpg"],
+      "images": [
+        { "color": "Gray", "links": ["gray1.jpg", "gray2.jpg"] },
+        { "color": "Navy", "links": ["navy1.jpg", "navy2.jpg"] }
+      ],
+      "reviews": [
+        {
+          "user": {
+            "id": "u6",
+            "name": "Chris Lee",
+            "date": "2025-01-22",
+            "country": "Germany"
+          },
+          "rating": 5,
+          "comment": {
+            "heading": "Great quality",
+            "body": "These joggers are perfect for my kids."
+          }
+        }
+      ],
+      "price": "$24.99",
+      "availability": "In stock",
+      "warranty": "1 year",
+      "customerServiceContact": "support@brandF.com",
+      "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+      "productDimensions": {
+        "length": "30 in",
+        "waist": "25 in",
+        "hip": "30 in",
+        "weight": "300g"
+      },
+      "additionalFeatures": ["Machine washable"],
+      "discountsOrOffers": "10% off on orders over $50"
+    }
+  ]
+]

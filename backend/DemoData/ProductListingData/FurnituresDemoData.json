@@ -1,0 +1,724 @@
+[
+  {
+    "id": 1,
+    "name": "Modern Sofa",
+    "category": "Furniture",
+    "subCategory": "sofa",
+    "brand": "ComfortLife",
+    "genericName": "Living Room Sofa",
+    "sizes": ["3-seater", "4-seater"],
+    "colors": ["Grey", "Blue", "Beige"],
+    "material": "Fabric",
+    "frameMaterial": "Wood",
+    "cushionMaterial": "Foam",
+    "inBox": "1 Sofa",
+    "detailsAboutThisItem": [
+      "Comfortable and stylish",
+      "Durable frame",
+      "Easy to clean"
+    ],
+    "description": "A modern sofa that adds comfort and style to your living room.",
+    "specialPromotionalImages": ["promo1.jpg", "promo2.jpg"],
+    "images": [
+      "grey1.jpg",
+      "grey2.jpg",
+      "grey3.jpg",
+      "grey4.jpg",
+      "grey5.jpg",
+      "grey6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u1",
+          "name": "Alice",
+          "date": "2025-01-10",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Super Comfortable",
+          "body": "This sofa is incredibly comfortable and looks great in my living room."
+        }
+      }
+    ],
+    "price": "400 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@comfortlife.com",
+    "shippingDetails": {
+      "cost": "50 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "220cm",
+      "width": "90cm",
+      "height": "85cm",
+      "weight": "50kg"
+    },
+    "additionalFeatures": ["Stain-resistant", "Removable cushion covers"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+  {
+    "id": 2,
+    "name": "Ergonomic Chair",
+    "category": "Furniture",
+    "subCategory": "chair",
+    "brand": "OfficeComfort",
+    "genericName": "Office Chair",
+    "sizes": ["Standard", "Large"],
+    "colors": ["Black", "Red", "White"],
+    "material": "Mesh",
+    "frameMaterial": "Metal",
+    "cushionMaterial": "Memory Foam",
+    "inBox": "1 Office Chair",
+    "detailsAboutThisItem": [
+      "Ergonomic design",
+      "Adjustable height and recline",
+      "Breathable mesh back"
+    ],
+    "description": "An ergonomic office chair designed for maximum comfort during long working hours.",
+    "specialPromotionalImages": ["promo3.jpg", "promo4.jpg"],
+    "images": [
+      "black1.jpg",
+      "black2.jpg",
+      "black3.jpg",
+      "black4.jpg",
+      "black5.jpg",
+      "black6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u2",
+          "name": "Bob",
+          "date": "2025-01-12",
+          "country": "India"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Great Chair",
+          "body": "This chair provides excellent support for my back and is very comfortable."
+        }
+      }
+    ],
+    "price": "150 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@officecomfort.com",
+    "shippingDetails": {
+      "cost": "20 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "65cm",
+      "width": "65cm",
+      "height": "120cm",
+      "weight": "15kg"
+    },
+    "additionalFeatures": ["Swivel base", "Lumbar support"],
+    "discountsOrOffers": "10% off on second purchase"
+  },
+  {
+    "id": 3,
+    "name": "Dining Table",
+    "category": "Furniture",
+    "subCategory": "table",
+    "brand": "HomeDining",
+    "genericName": "Dining Table",
+    "sizes": ["4-seater", "6-seater"],
+    "colors": ["Brown", "Black"],
+    "material": "Wood",
+    "frameMaterial": "Metal",
+    "cushionMaterial": "N/A",
+    "inBox": "1 Dining Table",
+    "detailsAboutThisItem": [
+      "Sturdy and durable",
+      "Elegant design",
+      "Easy to assemble"
+    ],
+    "description": "A dining table with an elegant design and sturdy construction, perfect for family meals.",
+    "specialPromotionalImages": ["promo5.jpg", "promo6.jpg"],
+    "images": [
+      "brown1.jpg",
+      "brown2.jpg",
+      "brown3.jpg",
+      "brown4.jpg",
+      "brown5.jpg",
+      "brown6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Charlie",
+          "date": "2025-01-13",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Perfect Dining Table",
+          "body": "This dining table is perfect for my family and looks great in our dining room."
+        }
+      }
+    ],
+    "price": "250 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@homedining.com",
+    "shippingDetails": {
+      "cost": "30 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "180cm",
+      "width": "90cm",
+      "height": "75cm",
+      "weight": "40kg"
+    },
+    "additionalFeatures": ["Scratch-resistant surface", "Expandable"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+  {
+    "id": 4,
+    "name": "Wooden Cupboard",
+    "category": "Furniture",
+    "subCategory": "cupboards",
+    "brand": "StorageSolutions",
+    "genericName": "Storage Cupboard",
+    "sizes": ["Small", "Large"],
+    "colors": ["Brown", "White"],
+    "material": "Wood",
+    "frameMaterial": "Wood",
+    "cushionMaterial": "N/A",
+    "inBox": "1 Cupboard",
+    "detailsAboutThisItem": [
+      "Spacious and sturdy",
+      "Modern design",
+      "Easy to assemble"
+    ],
+    "description": "A spacious wooden cupboard with a modern design, perfect for storing your essentials.",
+    "specialPromotionalImages": ["promo7.jpg", "promo8.jpg"],
+    "images": [
+      "brown1.jpg",
+      "brown2.jpg",
+      "brown3.jpg",
+      "brown4.jpg",
+      "brown5.jpg",
+      "brown6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u4",
+          "name": "Diana",
+          "date": "2025-01-15",
+          "country": "Canada"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Spacious Cupboard",
+          "body": "This cupboard is very spacious and perfect for storing all my essentials."
+        }
+      }
+    ],
+    "price": "200 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@storagesolutions.com",
+    "shippingDetails": {
+      "cost": "40 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "100cm",
+      "width": "50cm",
+      "height": "200cm",
+      "weight": "60kg"
+    },
+    "additionalFeatures": ["Lockable doors", "Adjustable shelves"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+
+  {
+    "id": 5,
+    "name": "Luxury Recliner Sofa",
+    "category": "Furniture",
+    "subCategory": "sofa",
+    "brand": "ReclineRelax",
+    "genericName": "Recliner Sofa",
+    "sizes": ["2-seater", "3-seater"],
+    "colors": ["Brown", "Black", "Tan"],
+    "material": "Leather",
+    "frameMaterial": "Metal",
+    "cushionMaterial": "Foam",
+    "inBox": "1 Recliner Sofa",
+    "detailsAboutThisItem": [
+      "Luxurious leather upholstery",
+      "Reclining feature",
+      "Easy to clean"
+    ],
+    "description": "A luxurious recliner sofa that combines comfort with style.",
+    "specialPromotionalImages": ["promo9.jpg", "promo10.jpg"],
+    "images": [
+      "brown1.jpg",
+      "brown2.jpg",
+      "brown3.jpg",
+      "brown4.jpg",
+      "brown5.jpg",
+      "brown6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u5",
+          "name": "Emily",
+          "date": "2025-01-16",
+          "country": "Australia"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Ultimate Comfort",
+          "body": "This recliner sofa is perfect for relaxing and unwinding after a long day."
+        }
+      }
+    ],
+    "price": "600 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@reclinerelax.com",
+    "shippingDetails": {
+      "cost": "60 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "230cm",
+      "width": "95cm",
+      "height": "90cm",
+      "weight": "70kg"
+    },
+    "additionalFeatures": ["Stain-resistant", "Reclining mechanism"],
+    "discountsOrOffers": "15% off on second purchase"
+  },
+  {
+    "id": 6,
+    "name": "Accent Armchair",
+    "category": "Furniture",
+    "subCategory": "chair",
+    "brand": "ChicSeating",
+    "genericName": "Armchair",
+    "sizes": ["Standard"],
+    "colors": ["Teal", "Grey", "Yellow"],
+    "material": "Velvet",
+    "frameMaterial": "Wood",
+    "cushionMaterial": "Foam",
+    "inBox": "1 Armchair",
+    "detailsAboutThisItem": [
+      "Elegant design",
+      "Comfortable seating",
+      "Sturdy frame"
+    ],
+    "description": "An accent armchair with an elegant design, perfect for adding a pop of color to any room.",
+    "specialPromotionalImages": ["promo11.jpg", "promo12.jpg"],
+    "images": [
+      "teal1.jpg",
+      "teal2.jpg",
+      "teal3.jpg",
+      "teal4.jpg",
+      "teal5.jpg",
+      "teal6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "John",
+          "date": "2025-01-17",
+          "country": "UK"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Stylish and Comfortable",
+          "body": "This armchair is stylish and adds a touch of elegance to my living room."
+        }
+      }
+    ],
+    "price": "180 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@chicseating.com",
+    "shippingDetails": {
+      "cost": "25 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "80cm",
+      "width": "85cm",
+      "height": "100cm",
+      "weight": "20kg"
+    },
+    "additionalFeatures": ["Non-slip feet", "Easy to clean"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 7,
+    "name": "Contemporary Coffee Table",
+    "category": "Furniture",
+    "subCategory": "table",
+    "brand": "ModernLiving",
+    "genericName": "Coffee Table",
+    "sizes": ["Standard"],
+    "colors": ["Black", "White"],
+    "material": "Glass",
+    "frameMaterial": "Metal",
+    "cushionMaterial": "N/A",
+    "inBox": "1 Coffee Table",
+    "detailsAboutThisItem": [
+      "Sleek and modern design",
+      "Tempered glass top",
+      "Easy to assemble"
+    ],
+    "description": "A contemporary coffee table with a sleek design, perfect for modern living rooms.",
+    "specialPromotionalImages": ["promo13.jpg", "promo14.jpg"],
+    "images": [
+      "black1.jpg",
+      "black2.jpg",
+      "black3.jpg",
+      "black4.jpg",
+      "black5.jpg",
+      "black6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u7",
+          "name": "Sophia",
+          "date": "2025-01-18",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Sleek and Stylish",
+          "body": "This coffee table is perfect for my modern living room and looks very stylish."
+        }
+      }
+    ],
+    "price": "220 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@modernliving.com",
+    "shippingDetails": {
+      "cost": "30 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "120cm",
+      "width": "60cm",
+      "height": "45cm",
+      "weight": "30kg"
+    },
+    "additionalFeatures": ["Scratch-resistant surface", "Sturdy construction"],
+    "discountsOrOffers": "10% off on second purchase"
+  },
+  {
+    "id": 8,
+    "name": "Large Wooden Wardrobe",
+    "category": "Furniture",
+    "subCategory": "cupboards",
+    "brand": "ClassicStorage",
+    "genericName": "Wardrobe",
+    "sizes": ["Large"],
+    "colors": ["Mahogany", "Oak"],
+    "material": "Wood",
+    "frameMaterial": "Wood",
+    "cushionMaterial": "N/A",
+    "inBox": "1 Wardrobe",
+    "detailsAboutThisItem": [
+      "Spacious and elegant",
+      "Durable wood construction",
+      "Multiple storage compartments"
+    ],
+    "description": "A large wooden wardrobe with multiple compartments for organized storage.",
+    "specialPromotionalImages": ["promo15.jpg", "promo16.jpg"],
+    "images": [
+      "mahogany1.jpg",
+      "mahogany2.jpg",
+      "mahogany3.jpg",
+      "mahogany4.jpg",
+      "mahogany5.jpg",
+      "mahogany6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u8",
+          "name": "Liam",
+          "date": "2025-01-19",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Spacious and Sturdy",
+          "body": "This wardrobe is very spacious and sturdy, perfect for storing all my clothes."
+        }
+      }
+    ],
+    "price": "500 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@classicstorage.com",
+    "shippingDetails": {
+      "cost": "50 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "120cm",
+      "width": "60cm",
+      "height": "200cm",
+      "weight": "70kg"
+    },
+    "additionalFeatures": ["Lockable doors", "Adjustable shelves"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+
+  {
+    "id": 9,
+    "name": "Convertible Sofa Bed",
+    "category": "Furniture",
+    "subCategory": "sofa",
+    "brand": "DreamSleep",
+    "genericName": "Sofa Bed",
+    "sizes": ["Standard"],
+    "colors": ["Blue", "Grey", "Black"],
+    "material": "Fabric",
+    "frameMaterial": "Metal",
+    "cushionMaterial": "Memory Foam",
+    "inBox": "1 Sofa Bed",
+    "detailsAboutThisItem": [
+      "Easily converts from sofa to bed",
+      "Space-saving design",
+      "Comfortable memory foam mattress"
+    ],
+    "description": "A versatile sofa bed that easily converts from a sofa to a bed, perfect for small spaces.",
+    "specialPromotionalImages": ["promo17.jpg", "promo18.jpg"],
+    "images": [
+      "sofabed1.jpg",
+      "sofabed2.jpg",
+      "sofabed3.jpg",
+      "sofabed4.jpg",
+      "sofabed5.jpg",
+      "sofabed6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u9",
+          "name": "Ava",
+          "date": "2025-01-20",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Perfect for Guests",
+          "body": "This sofa bed is comfortable and perfect for when I have guests over."
+        }
+      }
+    ],
+    "price": "450 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@dreamsleep.com",
+    "shippingDetails": {
+      "cost": "50 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "200cm",
+      "width": "85cm",
+      "height": "90cm",
+      "weight": "60kg"
+    },
+    "additionalFeatures": ["Foldable", "Removable covers"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 10,
+    "name": "Rocking Chair",
+    "category": "Furniture",
+    "subCategory": "chair",
+    "brand": "RelaxRock",
+    "genericName": "Rocking Chair",
+    "sizes": ["Standard"],
+    "colors": ["Brown", "Beige"],
+    "material": "Wood",
+    "frameMaterial": "Wood",
+    "cushionMaterial": "Foam",
+    "inBox": "1 Rocking Chair",
+    "detailsAboutThisItem": [
+      "Comfortable and sturdy",
+      "Smooth rocking motion",
+      "Stylish design"
+    ],
+    "description": "A comfortable and sturdy rocking chair with a smooth rocking motion, perfect for relaxing.",
+    "specialPromotionalImages": ["promo19.jpg", "promo20.jpg"],
+    "images": [
+      "rockingchair1.jpg",
+      "rockingchair2.jpg",
+      "rockingchair3.jpg",
+      "rockingchair4.jpg",
+      "rockingchair5.jpg",
+      "rockingchair6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u10",
+          "name": "Mason",
+          "date": "2025-01-21",
+          "country": "Canada"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Great Chair",
+          "body": "This rocking chair is very comfortable and looks great in my living room."
+        }
+      }
+    ],
+    "price": "200 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@relaxrock.com",
+    "shippingDetails": {
+      "cost": "30 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "90cm",
+      "width": "60cm",
+      "height": "110cm",
+      "weight": "25kg"
+    },
+    "additionalFeatures": ["Ergonomic design", "Easy to assemble"],
+    "discountsOrOffers": "10% off on second purchase"
+  },
+  {
+    "id": 11,
+    "name": "Expandable Dining Table",
+    "category": "Furniture",
+    "subCategory": "table",
+    "brand": "FlexiDining",
+    "genericName": "Expandable Table",
+    "sizes": ["Standard"],
+    "colors": ["White", "Black"],
+    "material": "Wood",
+    "frameMaterial": "Metal",
+    "cushionMaterial": "N/A",
+    "inBox": "1 Dining Table",
+    "detailsAboutThisItem": [
+      "Expandable design",
+      "Durable construction",
+      "Easy to assemble"
+    ],
+    "description": "An expandable dining table that can be extended to accommodate more guests, perfect for dining rooms.",
+    "specialPromotionalImages": ["promo21.jpg", "promo22.jpg"],
+    "images": [
+      "expandable1.jpg",
+      "expandable2.jpg",
+      "expandable3.jpg",
+      "expandable4.jpg",
+      "expandable5.jpg",
+      "expandable6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u11",
+          "name": "Olivia",
+          "date": "2025-01-22",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Versatile Table",
+          "body": "This table is perfect for dinner parties and can be easily expanded when needed."
+        }
+      }
+    ],
+    "price": "350 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@flexidining.com",
+    "shippingDetails": {
+      "cost": "40 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "150cm",
+      "width": "80cm",
+      "height": "75cm",
+      "weight": "45kg"
+    },
+    "additionalFeatures": ["Scratch-resistant surface", "Expandable sections"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+  {
+    "id": 12,
+    "name": "Compact Wooden Cupboard",
+    "category": "Furniture",
+    "subCategory": "cupboards",
+    "brand": "SpaceSaver",
+    "genericName": "Storage Cupboard",
+    "sizes": ["Small"],
+    "colors": ["White", "Oak"],
+    "material": "Wood",
+    "frameMaterial": "Wood",
+    "cushionMaterial": "N/A",
+    "inBox": "1 Cupboard",
+    "detailsAboutThisItem": [
+      "Compact design",
+      "Sturdy construction",
+      "Easy to assemble"
+    ],
+    "description": "A compact wooden cupboard with a sturdy construction, perfect for small spaces and additional storage.",
+    "specialPromotionalImages": ["promo23.jpg", "promo24.jpg"],
+    "images": [
+      "compactcupboard1.jpg",
+      "compactcupboard2.jpg",
+      "compactcupboard3.jpg",
+      "compactcupboard4.jpg",
+      "compactcupboard5.jpg",
+      "compactcupboard6.jpg"
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u12",
+          "name": "Noah",
+          "date": "2025-01-23",
+          "country": "Australia"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Great for Small Spaces",
+          "body": "This cupboard is perfect for small spaces and provides ample storage."
+        }
+      }
+    ],
+    "price": "150 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@spacesaver.com",
+    "shippingDetails": {
+      "cost": "25 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "80cm",
+      "width": "40cm",
+      "height": "120cm",
+      "weight": "30kg"
+    },
+    "additionalFeatures": ["Lockable doors", "Adjustable shelves"],
+    "discountsOrOffers": "10% off on first purchase"
+  }
+]

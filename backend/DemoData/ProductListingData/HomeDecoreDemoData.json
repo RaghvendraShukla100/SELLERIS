@@ -1,0 +1,870 @@
+[
+  {
+    "id": 1,
+    "name": "Elegant Curtains",
+    "category": "Home Decor",
+    "subCategory": "curtains",
+    "brand": "CurtainElegance",
+    "genericName": "Window Curtains",
+    "sizes": ["84 inches", "96 inches"],
+    "colors": ["Beige", "Blue", "Grey"],
+    "material": "Polyester",
+    "fit": "Standard",
+    "inBox": "2 Curtain Panels",
+    "detailsAboutThisItem": [
+      "Energy-efficient",
+      "Noise-reducing",
+      "Machine washable"
+    ],
+    "description": "Elegant curtains that provide privacy and style to your home.",
+    "specialPromotionalImages": ["promo1.jpg", "promo2.jpg"],
+    "images": [
+      {
+        "color": "Beige",
+        "links": [
+          "beige1.jpg",
+          "beige2.jpg",
+          "beige3.jpg",
+          "beige4.jpg",
+          "beige5.jpg",
+          "beige6.jpg"
+        ]
+      },
+      {
+        "color": "Blue",
+        "links": [
+          "blue1.jpg",
+          "blue2.jpg",
+          "blue3.jpg",
+          "blue4.jpg",
+          "blue5.jpg",
+          "blue6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u1",
+          "name": "Alice",
+          "date": "2025-01-10",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Beautiful Curtains",
+          "body": "These curtains have transformed my living room."
+        }
+      }
+    ],
+    "price": "50 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@curtainelegance.com",
+    "shippingDetails": {
+      "cost": "5 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "213cm",
+      "width": "140cm",
+      "height": "0.2cm",
+      "weight": "900g"
+    },
+    "additionalFeatures": ["Thermal-insulated", "Light-blocking"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+  {
+    "id": 2,
+    "name": "Abstract Painting",
+    "category": "Home Decor",
+    "subCategory": "paintings",
+    "brand": "ArtisticVisions",
+    "genericName": "Canvas Painting",
+    "sizes": ["24 x 36 inches", "30 x 40 inches"],
+    "colors": ["Multicolor"],
+    "material": "Canvas",
+    "fit": "Framed",
+    "inBox": "1 Canvas Painting",
+    "detailsAboutThisItem": [
+      "High-quality canvas",
+      "Ready to hang",
+      "Fade-resistant colors"
+    ],
+    "description": "A stunning abstract painting that adds a modern touch to any room.",
+    "specialPromotionalImages": ["promo3.jpg", "promo4.jpg"],
+    "images": [
+      {
+        "color": "Multicolor",
+        "links": [
+          "painting1.jpg",
+          "painting2.jpg",
+          "painting3.jpg",
+          "painting4.jpg",
+          "painting5.jpg",
+          "painting6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u2",
+          "name": "Bob",
+          "date": "2025-01-12",
+          "country": "India"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Beautiful Art",
+          "body": "The colors are vibrant and it looks great on my wall."
+        }
+      }
+    ],
+    "price": "120 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@artisticvisions.com",
+    "shippingDetails": {
+      "cost": "10 USD",
+      "estimatedDelivery": "10-15 days"
+    },
+    "productDimensions": {
+      "length": "91cm",
+      "width": "61cm",
+      "height": "3cm",
+      "weight": "1.5kg"
+    },
+    "additionalFeatures": ["Hand-painted", "Gallery-wrapped"],
+    "discountsOrOffers": "15% off on second purchase"
+  },
+  {
+    "id": 3,
+    "name": "Vintage Wall Clock",
+    "category": "Home Decor",
+    "subCategory": "clocks",
+    "brand": "TimelessTick",
+    "genericName": "Wall Clock",
+    "sizes": ["12 inches", "16 inches"],
+    "colors": ["Brown", "Black"],
+    "material": "Wood",
+    "fit": "Wall-mounted",
+    "inBox": "1 Wall Clock",
+    "detailsAboutThisItem": [
+      "Silent movement",
+      "Battery operated",
+      "Easy to install"
+    ],
+    "description": "A vintage wall clock with silent movement and an elegant design.",
+    "specialPromotionalImages": ["promo5.jpg", "promo6.jpg"],
+    "images": [
+      {
+        "color": "Brown",
+        "links": [
+          "clock1.jpg",
+          "clock2.jpg",
+          "clock3.jpg",
+          "clock4.jpg",
+          "clock5.jpg",
+          "clock6.jpg"
+        ]
+      },
+      {
+        "color": "Black",
+        "links": [
+          "clock7.jpg",
+          "clock8.jpg",
+          "clock9.jpg",
+          "clock10.jpg",
+          "clock11.jpg",
+          "clock12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Charlie",
+          "date": "2025-01-13",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Charming Clock",
+          "body": "This clock adds a vintage charm to my home."
+        }
+      }
+    ],
+    "price": "40 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@timelesstick.com",
+    "shippingDetails": {
+      "cost": "3 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "40cm",
+      "width": "40cm",
+      "height": "5cm",
+      "weight": "1kg"
+    },
+    "additionalFeatures": ["Non-ticking", "Quartz movement"],
+    "discountsOrOffers": "Buy 2, Get 10% off"
+  },
+  {
+    "id": 4,
+    "name": "Decorative Vase",
+    "category": "Home Decor",
+    "subCategory": "decorative articles",
+    "brand": "DecorDelights",
+    "genericName": "Flower Vase",
+    "sizes": ["Small", "Medium", "Large"],
+    "colors": ["White", "Gold", "Silver"],
+    "material": "Ceramic",
+    "fit": "Freestanding",
+    "inBox": "1 Decorative Vase",
+    "detailsAboutThisItem": [
+      "Elegant design",
+      "Perfect for flowers or as a standalone piece",
+      "High-quality ceramic"
+    ],
+    "description": "An elegant decorative vase that adds a touch of sophistication to any space.",
+    "specialPromotionalImages": ["promo7.jpg", "promo8.jpg"],
+    "images": [
+      {
+        "color": "White",
+        "links": [
+          "vase1.jpg",
+          "vase2.jpg",
+          "vase3.jpg",
+          "vase4.jpg",
+          "vase5.jpg",
+          "vase6.jpg"
+        ]
+      },
+      {
+        "color": "Gold",
+        "links": [
+          "vase7.jpg",
+          "vase8.jpg",
+          "vase9.jpg",
+          "vase10.jpg",
+          "vase11.jpg",
+          "vase12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u4",
+          "name": "Diana",
+          "date": "2025-01-15",
+          "country": "Canada"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Stylish Vase",
+          "body": "Looks great with flowers and adds style to my room."
+        }
+      }
+    ],
+    "price": "30 USD",
+    "availability": "In Stock",
+    "warranty": "6 months",
+    "customerServiceContact": "support@decordelights.com",
+    "shippingDetails": {
+      "cost": "4 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "20cm",
+      "width": "10cm",
+      "height": "30cm",
+      "weight": "800g"
+    },
+    "additionalFeatures": ["Handcrafted", "Durable"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 5,
+    "name": "Modern Art Painting",
+    "category": "Home Decor",
+    "subCategory": "paintings",
+    "brand": "Artistry",
+    "genericName": "Canvas Painting",
+    "sizes": ["20 x 30 inches", "24 x 36 inches"],
+    "colors": ["Multicolor"],
+    "material": "Canvas",
+    "fit": "Framed",
+    "inBox": "1 Canvas Painting",
+    "detailsAboutThisItem": [
+      "Bold and vibrant colors",
+      "Ready to hang",
+      "UV-protected finish"
+    ],
+    "description": "A modern art painting that brings life and color to any space.",
+    "specialPromotionalImages": ["promo1.jpg", "promo2.jpg"],
+    "images": [
+      {
+        "color": "Multicolor",
+        "links": [
+          "painting1.jpg",
+          "painting2.jpg",
+          "painting3.jpg",
+          "painting4.jpg",
+          "painting5.jpg",
+          "painting6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u5",
+          "name": "Emily",
+          "date": "2025-01-18",
+          "country": "Australia"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Vibrant Colors",
+          "body": "The colors are amazing and it really stands out in my living room."
+        }
+      }
+    ],
+    "price": "140 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "service@artistry.com",
+    "shippingDetails": {
+      "cost": "8 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "91cm",
+      "width": "61cm",
+      "height": "2.5cm",
+      "weight": "1.2kg"
+    },
+    "additionalFeatures": ["Hand-painted", "Fade-resistant"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 6,
+    "name": "Luxury Silk Curtains",
+    "category": "Home Decor",
+    "subCategory": "curtains",
+    "brand": "SilkElegance",
+    "genericName": "Silk Curtains",
+    "sizes": ["84 inches", "96 inches"],
+    "colors": ["Gold", "Silver", "Ivory"],
+    "material": "Silk",
+    "fit": "Standard",
+    "inBox": "2 Curtain Panels",
+    "detailsAboutThisItem": [
+      "Luxurious silk fabric",
+      "Light-blocking",
+      "Machine washable"
+    ],
+    "description": "Elegant silk curtains that add a touch of luxury to any room.",
+    "specialPromotionalImages": ["promo3.jpg", "promo4.jpg"],
+    "images": [
+      {
+        "color": "Gold",
+        "links": [
+          "gold1.jpg",
+          "gold2.jpg",
+          "gold3.jpg",
+          "gold4.jpg",
+          "gold5.jpg",
+          "gold6.jpg"
+        ]
+      },
+      {
+        "color": "Silver",
+        "links": [
+          "silver1.jpg",
+          "silver2.jpg",
+          "silver3.jpg",
+          "silver4.jpg",
+          "silver5.jpg",
+          "silver6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "John",
+          "date": "2025-01-19",
+          "country": "UK"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Luxurious Look",
+          "body": "These curtains are absolutely gorgeous and high-quality."
+        }
+      }
+    ],
+    "price": "200 USD",
+    "availability": "In Stock",
+    "warranty": "12 months",
+    "customerServiceContact": "support@silkelegance.com",
+    "shippingDetails": {
+      "cost": "10 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "213cm",
+      "width": "140cm",
+      "height": "0.2cm",
+      "weight": "800g"
+    },
+    "additionalFeatures": ["Thermal-insulated", "Noise-reducing"],
+    "discountsOrOffers": "15% off on second purchase"
+  },
+  {
+    "id": 7,
+    "name": "Minimalist Wall Clock",
+    "category": "Home Decor",
+    "subCategory": "clocks",
+    "brand": "MinimalTime",
+    "genericName": "Wall Clock",
+    "sizes": ["10 inches", "14 inches"],
+    "colors": ["White", "Black"],
+    "material": "Metal",
+    "fit": "Wall-mounted",
+    "inBox": "1 Wall Clock",
+    "detailsAboutThisItem": [
+      "Sleek and minimalist design",
+      "Battery operated",
+      "Silent movement"
+    ],
+    "description": "A minimalist wall clock with a sleek design that fits any modern decor.",
+    "specialPromotionalImages": ["promo5.jpg", "promo6.jpg"],
+    "images": [
+      {
+        "color": "White",
+        "links": [
+          "clock1.jpg",
+          "clock2.jpg",
+          "clock3.jpg",
+          "clock4.jpg",
+          "clock5.jpg",
+          "clock6.jpg"
+        ]
+      },
+      {
+        "color": "Black",
+        "links": [
+          "clock7.jpg",
+          "clock8.jpg",
+          "clock9.jpg",
+          "clock10.jpg",
+          "clock11.jpg",
+          "clock12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u7",
+          "name": "Sophia",
+          "date": "2025-01-20",
+          "country": "USA"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Elegant and Simple",
+          "body": "This clock is simple yet elegant and fits perfectly in my office."
+        }
+      }
+    ],
+    "price": "35 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@minimaltime.com",
+    "shippingDetails": {
+      "cost": "3 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "36cm",
+      "width": "36cm",
+      "height": "4cm",
+      "weight": "800g"
+    },
+    "additionalFeatures": ["Non-ticking", "Quartz movement"],
+    "discountsOrOffers": "Buy 2, Get 10% off"
+  },
+  {
+    "id": 8,
+    "name": "Handcrafted Wooden Vase",
+    "category": "Home Decor",
+    "subCategory": "decorative articles",
+    "brand": "CraftedWood",
+    "genericName": "Wooden Vase",
+    "sizes": ["Small", "Medium", "Large"],
+    "colors": ["Natural Wood", "Dark Wood"],
+    "material": "Wood",
+    "fit": "Freestanding",
+    "inBox": "1 Wooden Vase",
+    "detailsAboutThisItem": [
+      "Handcrafted with precision",
+      "Eco-friendly wood",
+      "Unique design"
+    ],
+    "description": "A handcrafted wooden vase that adds a rustic charm to your decor.",
+    "specialPromotionalImages": ["promo7.jpg", "promo8.jpg"],
+    "images": [
+      {
+        "color": "Natural Wood",
+        "links": [
+          "vase1.jpg",
+          "vase2.jpg",
+          "vase3.jpg",
+          "vase4.jpg",
+          "vase5.jpg",
+          "vase6.jpg"
+        ]
+      },
+      {
+        "color": "Dark Wood",
+        "links": [
+          "vase7.jpg",
+          "vase8.jpg",
+          "vase9.jpg",
+          "vase10.jpg",
+          "vase11.jpg",
+          "vase12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u8",
+          "name": "Liam",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Beautiful Craftsmanship",
+          "body": "This vase is beautifully crafted and looks great in my living room."
+        }
+      }
+    ],
+    "price": "45 USD",
+    "availability": "In Stock",
+    "warranty": "6 months",
+    "customerServiceContact": "support@craftedwood.com",
+    "shippingDetails": {
+      "cost": "5 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "25cm",
+      "width": "12cm",
+      "height": "35cm",
+      "weight": "1kg"
+    },
+    "additionalFeatures": ["Handmade", "Durable"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+
+  {
+    "id": 9,
+    "name": "Sheer Window Curtains",
+    "category": "Home Decor",
+    "subCategory": "curtains",
+    "brand": "BreezyHome",
+    "genericName": "Sheer Curtains",
+    "sizes": ["84 inches", "90 inches"],
+    "colors": ["White", "Light Grey"],
+    "material": "Polyester",
+    "fit": "Standard",
+    "inBox": "2 Curtain Panels",
+    "detailsAboutThisItem": [
+      "Lightweight and airy",
+      "Adds a soft touch to any room",
+      "Machine washable"
+    ],
+    "description": "Sheer window curtains that allow natural light to filter through while adding a touch of elegance.",
+    "specialPromotionalImages": ["promo9.jpg", "promo10.jpg"],
+    "images": [
+      {
+        "color": "White",
+        "links": [
+          "white1.jpg",
+          "white2.jpg",
+          "white3.jpg",
+          "white4.jpg",
+          "white5.jpg",
+          "white6.jpg"
+        ]
+      },
+      {
+        "color": "Light Grey",
+        "links": [
+          "grey1.jpg",
+          "grey2.jpg",
+          "grey3.jpg",
+          "grey4.jpg",
+          "grey5.jpg",
+          "grey6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u9",
+          "name": "Lucas",
+          "date": "2025-01-23",
+          "country": "France"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Lovely Curtains",
+          "body": "These sheer curtains are perfect for letting in light while maintaining privacy."
+        }
+      }
+    ],
+    "price": "30 USD",
+    "availability": "In Stock",
+    "warranty": "6 months",
+    "customerServiceContact": "support@breezyhome.com",
+    "shippingDetails": {
+      "cost": "4 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "213cm",
+      "width": "140cm",
+      "height": "0.2cm",
+      "weight": "500g"
+    },
+    "additionalFeatures": ["Breathable fabric", "Easy to hang"],
+    "discountsOrOffers": "10% off on second purchase"
+  },
+  {
+    "id": 10,
+    "name": "Classic Landscape Painting",
+    "category": "Home Decor",
+    "subCategory": "paintings",
+    "brand": "MasterpieceArt",
+    "genericName": "Canvas Painting",
+    "sizes": ["24 x 36 inches", "36 x 48 inches"],
+    "colors": ["Multicolor"],
+    "material": "Canvas",
+    "fit": "Framed",
+    "inBox": "1 Canvas Painting",
+    "detailsAboutThisItem": [
+      "Beautiful landscape scenery",
+      "Ready to hang",
+      "Fade-resistant colors"
+    ],
+    "description": "A classic landscape painting that brings the beauty of nature into your home.",
+    "specialPromotionalImages": ["promo11.jpg", "promo12.jpg"],
+    "images": [
+      {
+        "color": "Multicolor",
+        "links": [
+          "landscape1.jpg",
+          "landscape2.jpg",
+          "landscape3.jpg",
+          "landscape4.jpg",
+          "landscape5.jpg",
+          "landscape6.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u10",
+          "name": "Mia",
+          "date": "2025-01-24",
+          "country": "Italy"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Beautiful Art",
+          "body": "This painting adds a touch of serenity to my living room."
+        }
+      }
+    ],
+    "price": "100 USD",
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@masterpieceart.com",
+    "shippingDetails": {
+      "cost": "8 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "91cm",
+      "width": "61cm",
+      "height": "2.5cm",
+      "weight": "1.2kg"
+    },
+    "additionalFeatures": ["Hand-painted", "UV-protected"],
+    "discountsOrOffers": "15% off on second purchase"
+  },
+  {
+    "id": 11,
+    "name": "Rustic Wooden Clock",
+    "category": "Home Decor",
+    "subCategory": "clocks",
+    "brand": "RusticCharm",
+    "genericName": "Wall Clock",
+    "sizes": ["16 inches", "20 inches"],
+    "colors": ["Natural Wood", "Dark Wood"],
+    "material": "Wood",
+    "fit": "Wall-mounted",
+    "inBox": "1 Wall Clock",
+    "detailsAboutThisItem": [
+      "Rustic design",
+      "Battery operated",
+      "Silent movement"
+    ],
+    "description": "A rustic wooden clock that adds a charming touch to your decor.",
+    "specialPromotionalImages": ["promo13.jpg", "promo14.jpg"],
+    "images": [
+      {
+        "color": "Natural Wood",
+        "links": [
+          "wood1.jpg",
+          "wood2.jpg",
+          "wood3.jpg",
+          "wood4.jpg",
+          "wood5.jpg",
+          "wood6.jpg"
+        ]
+      },
+      {
+        "color": "Dark Wood",
+        "links": [
+          "wood7.jpg",
+          "wood8.jpg",
+          "wood9.jpg",
+          "wood10.jpg",
+          "wood11.jpg",
+          "wood12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u11",
+          "name": "Oliver",
+          "date": "2025-01-25",
+          "country": "Spain"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Charming Clock",
+          "body": "This clock adds a rustic charm to my home."
+        }
+      }
+    ],
+    "price": "45 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@rusticcharm.com",
+    "shippingDetails": {
+      "cost": "4 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "40cm",
+      "width": "40cm",
+      "height": "5cm",
+      "weight": "900g"
+    },
+    "additionalFeatures": ["Non-ticking", "Quartz movement"],
+    "discountsOrOffers": "10% off on bulk purchase"
+  },
+  {
+    "id": 12,
+    "name": "Ceramic Decorative Bowl",
+    "category": "Home Decor",
+    "subCategory": "decorative articles",
+    "brand": "ArtisanCrafts",
+    "genericName": "Decorative Bowl",
+    "sizes": ["Small", "Medium", "Large"],
+    "colors": ["Blue", "Green", "Red"],
+    "material": "Ceramic",
+    "fit": "Freestanding",
+    "inBox": "1 Decorative Bowl",
+    "detailsAboutThisItem": [
+      "Handcrafted ceramic",
+      "Beautiful glaze finish",
+      "Perfect for display or use"
+    ],
+    "description": "A handcrafted ceramic decorative bowl that adds a pop of color to any room.",
+    "specialPromotionalImages": ["promo15.jpg", "promo16.jpg"],
+    "images": [
+      {
+        "color": "Blue",
+        "links": [
+          "bowl1.jpg",
+          "bowl2.jpg",
+          "bowl3.jpg",
+          "bowl4.jpg",
+          "bowl5.jpg",
+          "bowl6.jpg"
+        ]
+      },
+      {
+        "color": "Green",
+        "links": [
+          "bowl7.jpg",
+          "bowl8.jpg",
+          "bowl9.jpg",
+          "bowl10.jpg",
+          "bowl11.jpg",
+          "bowl12.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u12",
+          "name": "Sophia",
+          "date": "2025-01-26",
+          "country": "USA"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Beautiful Craftsmanship",
+          "body": "This decorative bowl is beautifully made and adds a lovely touch to my home."
+        }
+      }
+    ],
+    "price": "25 USD",
+    "availability": "In Stock",
+    "warranty": "6 months",
+    "customerServiceContact": "support@artisancrafts.com",
+    "shippingDetails": {
+      "cost": "3 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "25cm",
+      "width": "25cm",
+      "height": "10cm",
+      "weight": "700g"
+    },
+    "additionalFeatures": ["Handmade", "Durable"],
+    "discountsOrOffers": "10% off on first purchase"
+  }
+]

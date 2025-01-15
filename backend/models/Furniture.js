@@ -1,5 +1,6 @@
-const mongoose = require("mongoose");
-const Schema = mongoose.Schema;
+import mongoose from "mongoose";
+
+const { Schema } = mongoose;
 
 const furnitureSchema = new Schema({
   id: { type: Number, required: true },
@@ -7,6 +8,7 @@ const furnitureSchema = new Schema({
   category: { type: String, required: true },
   subCategory: { type: String, required: true },
   brand: { type: String, required: true },
+  genericName: { type: String, required: true },
   sizes: [String],
   colors: [String],
   material: String,
@@ -16,12 +18,7 @@ const furnitureSchema = new Schema({
   detailsAboutThisItem: [String],
   description: String,
   specialPromotionalImages: [String],
-  images: [
-    {
-      color: String,
-      links: [String],
-    },
-  ],
+  images: [String],
   reviews: [
     {
       user: {
@@ -56,4 +53,4 @@ const furnitureSchema = new Schema({
 });
 
 const Furniture = mongoose.model("Furniture", furnitureSchema);
-module.exports = Furniture;
+export default Furniture;
