@@ -1,29 +1,33 @@
 [
   {
     "id": 1,
-    "name": "Gentle Face Wash",
+    "name": "The Man Company Charcoal Kit Set Of 6 - Body Wash, Shampoo, Face Scrub, Face Wash, Cleansing Gel, Soap | Best Gift for Men | Combo Set for Husband, Boyfriend",
     "category": "Beauty & Skincare",
     "subCategory": "face wash",
-    "brand": "FreshGlow",
+    "brand": "The Man Company",
     "genericName": "Face Cleanser",
     "sizes": ["100ml", "200ml"],
     "ingredients": ["Water", "Glycerin", "Aloe Vera"],
     "skinType": "All Skin Types",
-    "inBox": "1 Face Wash Tube",
+    "inBox": "Charcoal Kit Set Of 6 - Body Wash, Shampoo, Face Scrub, Face Wash, Cleansing Gel, Soap",
     "detailsAboutThisItem": [
       "Cleanses gently without drying",
       "Suitable for all skin types",
       "Infused with aloe vera for soothing effect"
     ],
     "description": "A gentle face wash that cleanses without drying out the skin.",
-    "specialPromotionalImages": ["promo1.jpg", "promo2.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf669410-097f-4bdf-b038-2fb5de72f0e9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/23277319-76d3-43c6-86ec-0ca5d509b31e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
     "images": [
-      "main1.jpg",
-      "main2.jpg",
-      "main3.jpg",
-      "main4.jpg",
-      "main5.jpg",
-      "main6.jpg"
+      "https://m.media-amazon.com/images/I/619K6ya8OCL._SL1018_.jpg",
+      "https://m.media-amazon.com/images/I/61+gQDzZJHL._SL1000_.jpg",
+      "https://m.media-amazon.com/images/I/61NNMiJ2WKL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61NQAH1i7XL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/41HKBczIxLL.jpg",
+      "https://m.media-amazon.com/images/I/41VYGmRajtL.jpg",
+      "https://m.media-amazon.com/images/I/71C1WF9EqwL._SL1100_.jpg"
     ],
     "reviews": [
       {
@@ -40,7 +44,7 @@
         }
       }
     ],
-    "price": "10 USD",
+    "price": 2695,
     "availability": "In Stock",
     "warranty": "6 months",
     "customerServiceContact": "service@freshglow.com",
@@ -55,17 +59,17 @@
       "weight": "150g"
     },
     "additionalFeatures": ["Paraben-free", "Cruelty-free"],
-    "discountsOrOffers": "10% off for first purchase"
+    "discountsOrOffers": "47%"
   },
   {
     "id": 2,
-    "name": "Herbal Soap",
+    "name": "The Man Company Activated Charcoal Natural Hand Made Soap | Tan & Dead Skin Remover - 125gms",
     "category": "Beauty & Skincare",
     "subCategory": "soap",
-    "brand": "Nature's Essence",
+    "brand": "The Man Company",
     "genericName": "Herbal Soap",
     "sizes": ["75g", "150g"],
-    "ingredients": ["Neem", "Tulsi", "Turmeric"],
+    "ingredients": ["Neem", "Tulsi", "Turmeric", "Activated Charcoal"],
     "skinType": "Oily Skin",
     "inBox": "1 Soap Bar",
     "detailsAboutThisItem": [
@@ -74,14 +78,20 @@
       "Helps control acne"
     ],
     "description": "An herbal soap made with natural ingredients to help control acne.",
-    "specialPromotionalImages": ["promo3.jpg", "promo4.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dfbb97ff-c57f-428d-8bee-ed01af478a39.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/02b25772-60e8-45f3-857a-f61a3f47aa56.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/497b289c-7c5f-47d2-b1bd-3378142ecc53.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8b6d4ec-e4d1-46bd-814a-d5c27df1ba59.__CR0,0,1464,600_PT0_SX1464_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/525c0415-571f-41bb-90b2-2a3c4a0ceb99.__CR0,0,1464,600_PT0_SX1464_V1___.png"
+    ],
     "images": [
-      "main1.jpg",
-      "main2.jpg",
-      "main3.jpg",
-      "main4.jpg",
-      "main5.jpg",
-      "main6.jpg"
+      "https://m.media-amazon.com/images/I/613QZRNNNXL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61slp6qoraL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61+eWPNPH4L._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/51q1gPM1wHL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61oKcd-DJYL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/51HIlUk90cL._SL1000_.jpg"
     ],
     "reviews": [
       {
@@ -117,7 +127,7 @@
   },
   {
     "id": 3,
-    "name": "Moisturizing Lotion",
+    "name": "Garnier Skin Naturals, Cleansing Water for Waterproof Makeup, Nourishing Formula, Micellar Oil-Infused Cleansing Water, 125ml",
     "category": "Beauty & Skincare",
     "subCategory": "lotion",
     "brand": "HydraCare",
@@ -132,14 +142,20 @@
       "Non-greasy formula"
     ],
     "description": "A moisturizing lotion with a non-greasy formula, perfect for dry skin.",
-    "specialPromotionalImages": ["promo5.jpg", "promo6.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7562147-32ef-4996-a603-aeb60a1f346c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a56f0c71-3502-42ef-9b92-17cba1e2dfca.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/45852d7a-686a-478d-baad-675fe98a7038.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32cdfab1-68f2-4900-aa34-b43a0a3bbc41.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f56fbc50-fdbe-40da-9191-88d30bc9120d.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
     "images": [
-      "main1.jpg",
-      "main2.jpg",
-      "main3.jpg",
-      "main4.jpg",
-      "main5.jpg",
-      "main6.jpg"
+      "https://m.media-amazon.com/images/I/51OxcDoTt-L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61vTOkcqr3L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61kch-XlrXL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61jb2TfsJWL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61hbJ0EA9JL._SL1100_.jpg",
+      "https://m.media-amazon.com/images/I/61GDIEh3+4L._SL1100_.jpg"
     ],
     "reviews": [
       {
@@ -156,7 +172,7 @@
         }
       }
     ],
-    "price": "15 USD",
+    "price": 225,
     "availability": "In Stock",
     "warranty": "12 months",
     "customerServiceContact": "contact@hydracare.com",
@@ -171,33 +187,31 @@
       "weight": "300g"
     },
     "additionalFeatures": ["Dermatologist-tested", "Hypoallergenic"],
-    "discountsOrOffers": "15% off on subscription"
+    "discountsOrOffers": "15%"
   },
   {
     "id": 4,
-    "name": "Revitalizing Face Wash",
+    "name": "moha: Aloe Vera Gel 200 gm and Herbal Face Wash 200 ML | Face Wash With Goodness Of Neem, Aleovera, Cucumber, Rose Combo Pack",
     "category": "Beauty & Skincare",
     "subCategory": "face wash",
-    "brand": "GlowUp",
+    "brand": "moha",
     "genericName": "Face Cleanser",
     "sizes": ["150ml", "300ml"],
     "ingredients": ["Cucumber Extract", "Green Tea", "Vitamin C"],
     "skinType": "Normal to Oily Skin",
-    "inBox": "1 Face Wash Tube",
+    "inBox": "2 Face Wash Tube",
     "detailsAboutThisItem": [
       "Energizes and refreshes the skin",
       "Suitable for normal to oily skin",
       "Contains antioxidants for a healthy glow"
     ],
     "description": "A revitalizing face wash that energizes and refreshes the skin.",
-    "specialPromotionalImages": ["promo7.jpg", "promo8.jpg"],
+    "specialPromotionalImages": [],
     "images": [
-      "facewash1.jpg",
-      "facewash2.jpg",
-      "facewash3.jpg",
-      "facewash4.jpg",
-      "facewash5.jpg",
-      "facewash6.jpg"
+      "https://m.media-amazon.com/images/I/61wiqU5EAAL._SY450_PIbundle-2,TopRight,0,0_AA450SH20_.jpg",
+      "https://m.media-amazon.com/images/I/51ePLYNh9lL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/51TP5LJCR7L._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61hq+QZLL2L._SY450_.jpg"
     ],
     "reviews": [
       {
@@ -233,10 +247,10 @@
   },
   {
     "id": 5,
-    "name": "Organic Soap",
+    "name": "Nat Habit Bath Soap Combo Milk Rosehip & Sandalwood - Enriched with Vitamins C & Ayurvedic Cold Processed For Exfoliation, Brightening, Cleansing, Nourishing, Men & Women (2 X 125gm)",
     "category": "Beauty & Skincare",
     "subCategory": "soap",
-    "brand": "PureNature",
+    "brand": "Nat Habit",
     "genericName": "Organic Soap",
     "sizes": ["100g", "200g"],
     "ingredients": ["Lavender Oil", "Olive Oil", "Coconut Oil"],
@@ -248,14 +262,14 @@
       "Calming lavender scent"
     ],
     "description": "An organic soap that is gentle on sensitive skin and has a calming lavender scent.",
-    "specialPromotionalImages": ["promo9.jpg", "promo10.jpg"],
+    "specialPromotionalImages": [],
     "images": [
-      "soap1.jpg",
-      "soap2.jpg",
-      "soap3.jpg",
-      "soap4.jpg",
-      "soap5.jpg",
-      "soap6.jpg"
+      "https://m.media-amazon.com/images/I/61UBm5aAQ9L._SY450_PIbundle-2,TopRight,0,0_AA450SH20_.jpg",
+      "https://m.media-amazon.com/images/I/618HaS-lifL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61oCEiv04uL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61oCEiv04uL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/71lX1byejIL._SL1080_.jpg",
+      "https://m.media-amazon.com/images/I/61md0l+zs7L._SL1080_.jpg"
     ],
     "reviews": [
       {
@@ -272,7 +286,7 @@
         }
       }
     ],
-    "price": "5 USD",
+    "price": 616,
     "availability": "In Stock",
     "warranty": "3 months",
     "customerServiceContact": "care@purenature.com",
@@ -287,11 +301,11 @@
       "weight": "90g"
     },
     "additionalFeatures": ["Handcrafted", "Eco-friendly"],
-    "discountsOrOffers": "Buy 3, Get 20% off"
+    "discountsOrOffers": "46%"
   },
   {
     "id": 6,
-    "name": "Ultra Hydrating Lotion",
+    "name": "AquaBoost Intensive Restore Body Lotion Serum with Vitamin E – 300ml, Body Lotion for Dry Skin, with 10x Vitamin E Benefits & Deep Hydration, Moisturizer for Body | Dermatologist Tested",
     "category": "Beauty & Skincare",
     "subCategory": "lotion",
     "brand": "AquaBoost",
@@ -306,14 +320,17 @@
       "Non-greasy, fast-absorbing formula"
     ],
     "description": "An ultra hydrating lotion that provides intense hydration for very dry skin.",
-    "specialPromotionalImages": ["promo11.jpg", "promo12.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/vc/ff9317be-3c97-44d8-bc6b-f7f490ae44a7.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/vc/b9656a89-4cce-43f5-afae-f4d95a774019.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+    ],
     "images": [
-      "lotion1.jpg",
-      "lotion2.jpg",
-      "lotion3.jpg",
-      "lotion4.jpg",
-      "lotion5.jpg",
-      "lotion6.jpg"
+      "https://m.media-amazon.com/images/I/51AGBD-s8aL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61Kx1J8UEuL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61SLihaCbsL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/61ZmrTCTsIL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/51Z5d2QFlZL._SY450_.jpg",
+      "https://m.media-amazon.com/images/I/51Dagde6rsL._SL1200_.jpg"
     ],
     "reviews": [
       {
@@ -330,7 +347,7 @@
         }
       }
     ],
-    "price": "18 USD",
+    "price": 549,
     "availability": "In Stock",
     "warranty": "12 months",
     "customerServiceContact": "info@aquaboost.com",
@@ -345,6 +362,6 @@
       "weight": "320g"
     },
     "additionalFeatures": ["Dermatologist-tested", "Fragrance-free"],
-    "discountsOrOffers": "15% off on bulk orders"
+    "discountsOrOffers": "15%"
   }
 ]

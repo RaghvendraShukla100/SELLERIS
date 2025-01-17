@@ -1,8 +1,14 @@
 import React, { useState } from "react";
 import axios from "axios";
+import { useNavigate } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { addParameter, removeParameter } from "../slices/productListingSlice";
 
 function Products() {
   const [products, setProducts] = useState([]);
+  const navigate = useNavigate();
+  const dispatch = useDispatch();
+  const catData = useSelector((state) => state.productListing.value);
 
   const fetchProducts = async () => {
     await axios
@@ -10,8 +16,17 @@ function Products() {
       .then((response) => setProducts(response.data))
       .catch((error) => console.log("Error from axios : ", error));
   };
+
+  const handleProductCategoryClick = (e) => {
+    const productCategory = e.catName;
+    dispatch(removeParameter());
+    dispatch(addParameter(productCategory));
+    navigate("/productListingPage");
+  };
+
   products.length == 0 && fetchProducts();
-  console.log(products.brandOfferListMens);
+  // console.log(products.brandOfferListMens);
+  console.log(catData);
   return (
     <>
       <section>
@@ -23,6 +38,7 @@ function Products() {
               src={elm.image}
               alt={elm.catName}
               className="w-[180px] cursor-pointer "
+              onClick={() => handleProductCategoryClick(elm)}
             />
           ))}
         </div>

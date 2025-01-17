@@ -45,7 +45,9 @@ function DecorePage() {
             ))}
           </div>
         </div>
-        <div className="bg-gray-100 m-2 col-span-3">links</div>
+        <div className=" m-2 col-span-3">
+          <h3></h3>
+        </div>
       </div>
       {/* inspiration section */}
       <div>

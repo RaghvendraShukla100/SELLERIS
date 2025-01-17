@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "SmartPhone Pro",
+    "name": "iQOO Z9S Pro 5G (Luxe Marble, 8Gb Ram, 256Gb Storage) | Snapdragon 7 Gen 3 Processor | 120 Hz Curved Amoled Display with 4500 Nits Local Peak Brightness | 5500 Mah Battery | Ai Erase, White",
     "category": "Electronics",
     "subCategory": "mobile",
-    "brand": "TechBrand",
+    "brand": "iQOO",
     "genericName": "Smartphone",
     "os": "Android 12",
     "RAM": ["6GB", "8GB"],
@@ -18,28 +18,29 @@
       "Triple camera setup"
     ],
     "description": "A high-end smartphone with advanced features and excellent performance.",
-    "specialPromotionalImages": ["promo1.jpg", "promo2.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43841873-c51b-4902-8a77-45e9e4ba9fdb.__CR209,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43841873-c51b-4902-8a77-45e9e4ba9fdb.__CR209,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0acfb16d-b18c-4779-9908-ee757327db0c.__CR179,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3c181779-4584-4e38-8eed-c457924d538b.__CR366,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d87fc376-8b2c-4655-849c-8c0218ede2f5.__CR321,0,2928,1200_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3506e87d-b4fe-4cc6-bf31-e5326dc65647.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+    ],
     "images": [
       {
-        "color": "Black",
+        "color": "white",
         "links": [
-          "black1.jpg",
-          "black2.jpg",
-          "black3.jpg",
-          "black4.jpg",
-          "black5.jpg",
-          "black6.jpg"
+          "https://m.media-amazon.com/images/I/61SnaL4+EFL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/71esSBwj01L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/616v0FlxYGL._SX569_.jpg"
         ]
       },
       {
-        "color": "Blue",
+        "color": "orange",
         "links": [
-          "blue1.jpg",
-          "blue2.jpg",
-          "blue3.jpg",
-          "blue4.jpg",
-          "blue5.jpg",
-          "blue6.jpg"
+          "https://m.media-amazon.com/images/I/711ZTkL0l8L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/71esSBwj01L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/616v0FlxYGL._SX569_.jpg"
         ]
       }
     ],
@@ -58,7 +59,7 @@
         }
       }
     ],
-    "price": "800 USD",
+    "price": 31999,
     "availability": "In Stock",
     "warranty": "12 months",
     "customerServiceContact": "support@techbrand.com",
@@ -73,14 +74,14 @@
       "weight": "180g"
     },
     "additionalFeatures": ["5G support", "Face recognition"],
-    "discountsOrOffers": "10% off on first purchase"
+    "discountsOrOffers": "22%"
   },
   {
     "id": 2,
-    "name": "UltraBook X",
+    "name": "Acer Aspire Lite 12th Gen Intel Core i5-12450H Thin and Light Laptop (Windows11Home/16GB RAM/512GB SSD/MSO) AL15-52H, 39.62cm (15.6) IPS Full HD, Backlit Keyboard, Pure Silver, 1.7KG",
     "category": "Electronics",
     "subCategory": "laptop",
-    "brand": "ComputeX",
+    "brand": "Acer",
     "genericName": "Laptop",
     "os": "Windows 11",
     "RAM": ["8GB", "16GB"],
@@ -94,28 +95,18 @@
       "Long battery life"
     ],
     "description": "A sleek and powerful laptop designed for professionals and everyday use.",
-    "specialPromotionalImages": ["promo3.jpg", "promo4.jpg"],
+    "specialPromotionalImages": [],
     "images": [
       {
         "color": "Silver",
         "links": [
-          "silver1.jpg",
-          "silver2.jpg",
-          "silver3.jpg",
-          "silver4.jpg",
-          "silver5.jpg",
-          "silver6.jpg"
-        ]
-      },
-      {
-        "color": "Black",
-        "links": [
-          "black1.jpg",
-          "black2.jpg",
-          "black3.jpg",
-          "black4.jpg",
-          "black5.jpg",
-          "black6.jpg"
+          "https://m.media-amazon.com/images/I/517m2WrmJxL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71mFvhHZhxL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81sAyReO3SL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71ua3dqY+WL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71rYuyfll+L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81X8sdM01QL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71fALMOnHjL._SL1500_.jpg"
         ]
       }
     ],
@@ -134,7 +125,7 @@
         }
       }
     ],
-    "price": "1000 USD",
+    "price": 66999,
     "availability": "In Stock",
     "warranty": "24 months",
     "customerServiceContact": "support@computex.com",
@@ -149,19 +140,19 @@
       "weight": "1.5kg"
     },
     "additionalFeatures": ["Fingerprint scanner", "Backlit keyboard"],
-    "discountsOrOffers": "15% off on second purchase"
+    "discountsOrOffers": "30%"
   },
   {
     "id": 3,
-    "name": "SmartTV 4K",
+    "name": "Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)",
     "category": "Electronics",
     "subCategory": "tv",
-    "brand": "VisionTech",
+    "brand": "sony",
     "genericName": "Smart TV",
     "os": "Android TV",
     "RAM": ["2GB"],
     "ROM": ["16GB"],
-    "displaySize": "55 inches",
+    "displaySize": "65 inches",
     "displayResolution": "3840 x 2160",
     "inBox": "TV, Remote, Stand, User Manual",
     "detailsAboutThisItem": [
@@ -170,17 +161,29 @@
       "Voice control"
     ],
     "description": "A 4K Ultra HD smart TV with brilliant picture quality and smart features.",
-    "specialPromotionalImages": ["promo5.jpg", "promo6.jpg"],
+    "specialPromotionalImages": [
+      "Sony 164 cm (65 inches) BRAVIA 2 4K Ultra HD Smart LED Google TV K-65S25B (Black)",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/20422fe2-11c8-4e1e-be27-254a43c04921.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0cfc95b1-d0ac-41ce-9e9f-68e20ddd37a3.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ae1244e9-6121-4544-bdf8-5e05402f6011.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2e8a25d1-ee7a-43ee-8c36-2068a6af733f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6b423465-e676-476f-a36a-9427452758b7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c70c2a05-64eb-4483-b67a-a03fcdfbdf84.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ccc519a-bebe-471f-bfb5-ebe9eaeee044.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
     "images": [
       {
         "color": "Black",
         "links": [
-          "tv1.jpg",
-          "tv2.jpg",
-          "tv3.jpg",
-          "tv4.jpg",
-          "tv5.jpg",
-          "tv6.jpg"
+          "https://m.media-amazon.com/images/I/81zPuf-0ETL._SX450_.jpg",
+          "https://m.media-amazon.com/images/I/91PjYqTO6RL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81qQBBqSM1L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81BGv0z2e4L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/81gLIG8BoGL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/81nmpCl+5dL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/81wyAVPzpRL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/61AI3Hmt3tL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61mC44DR7bL._SL1500_.jpg"
         ]
       }
     ],
@@ -199,7 +202,7 @@
         }
       }
     ],
-    "price": "700 USD",
+    "price": 140000,
     "availability": "In Stock",
     "warranty": "12 months",
     "customerServiceContact": "support@visiontech.com",
@@ -214,16 +217,16 @@
       "weight": "15kg"
     },
     "additionalFeatures": ["HDR support", "Voice remote"],
-    "discountsOrOffers": "10% off on bulk purchase"
+    "discountsOrOffers": "45%"
   },
   {
     "id": 4,
-    "name": "Gaming Laptop G-Series",
+    "name": "Apple 2024 MacBook Air 13″ Laptop with M3 chip: 34.46 cm (13.6″) Liquid Retina Display, 16GB Unified Memory, 512GB SSD Storage, Backlit Keyboard, 1080p FaceTime HD Camera, Touch ID- Silver",
     "category": "Electronics",
     "subCategory": "laptop",
-    "brand": "GameTech",
+    "brand": "apple",
     "genericName": "Gaming Laptop",
-    "os": "Windows 11",
+    "os": "macOS",
     "RAM": ["16GB", "32GB"],
     "ROM": ["1TB SSD"],
     "displaySize": "17.3 inches",
@@ -235,17 +238,50 @@
       "Advanced cooling system"
     ],
     "description": "A gaming laptop with high-performance graphics and advanced features for an immersive gaming experience.",
-    "specialPromotionalImages": ["promo7.jpg", "promo8.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_01._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_02._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_03._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_03._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_04._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_05._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_06._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_07._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_09._CB580217758_.jpg",
+      "https://m.media-amazon.com/images/G/31/img23/CEPC/Apple/River/MacBook_Air_13-15_inch_M3_Chip_Product_Page_Avail_Flex_Module_Amazon_Desktop_1500px__en-IN_09._CB580217758_.jpg"
+    ],
     "images": [
       {
         "color": "Black",
         "links": [
-          "gaming1.jpg",
-          "gaming2.jpg",
-          "gaming3.jpg",
-          "gaming4.jpg",
-          "gaming5.jpg",
-          "gaming6.jpg"
+          "https://m.media-amazon.com/images/I/71-D1xCuVwL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61LbQpnFNvL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61S2t5yhVSL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71bC9NGdtZL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81QXKcc-qRL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61+YFFJrHBL._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "silver",
+        "links": [
+          "https://m.media-amazon.com/images/I/71WkDp--uqL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61-PdeOvVOL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61S2t5yhVSL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61g6IT2FJqL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81QXKcc-qRL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61MfDA5hdhL._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "silver",
+        "links": [
+          "https://m.media-amazon.com/images/I/71ItMeqpN3L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/617cNLYnypL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61S2t5yhVSL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Q-1tYygsL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81QXKcc-qRL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/614IBnpYbYL._SX679_.jpg"
         ]
       }
     ],
@@ -286,15 +322,15 @@
   },
   {
     "id": 5,
-    "name": "EcoSmart LED TV",
+    "name": "Panasonic 108 cm (43 inches) 4K Ultra HD Smart LED Google TV TH-43MX660DX (Black)",
     "category": "Electronics",
     "subCategory": "tv",
-    "brand": "EcoVision",
+    "brand": "Panasonic",
     "genericName": "LED TV",
     "os": "WebOS",
     "RAM": ["2GB"],
     "ROM": ["16GB"],
-    "displaySize": "50 inches",
+    "displaySize": "43 inches",
     "displayResolution": "3840 x 2160",
     "inBox": "TV, Remote, Stand, User Manual",
     "detailsAboutThisItem": [
@@ -303,17 +339,27 @@
       "Smart TV features"
     ],
     "description": "An energy-efficient LED TV with 4K Ultra HD resolution and smart features.",
-    "specialPromotionalImages": ["promo9.jpg", "promo10.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74e29205-f4a9-4271-8091-e81b0f4ac279.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a2e08ce-a69c-488a-bedc-2118741d733c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e992718-99be-46e8-8178-56c60e358621.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/818acfb7-446a-421d-9c6f-97a4384dd102.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1c8b653-7f56-4680-aa8a-c7e1b6dd1baf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03bd4a03-2f57-486f-b5c0-19e23745d111.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d2a439e5-9c3a-4bf8-bd5e-1c453a6365ba.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8cbf0658-0df2-4d27-b936-16f1e3ad8e9a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30b332aa-ea9f-4df0-bf1e-2d32e992f515.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
     "images": [
       {
         "color": "Black",
         "links": [
-          "ledtv1.jpg",
-          "ledtv2.jpg",
-          "ledtv3.jpg",
-          "ledtv4.jpg",
-          "ledtv5.jpg",
-          "ledtv6.jpg"
+          "https://m.media-amazon.com/images/I/714L9-X8dPL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/916eHJ5uQxL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/81KDnTJK6JL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/5102WQS73JL._SX450_.jpg",
+          "https://m.media-amazon.com/images/I/61cXzfBszsL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61KSI-eulpL._SL1500_.jpg"
         ]
       }
     ],
@@ -351,7 +397,7 @@
   },
   {
     "id": 6,
-    "name": "Pro Laptop",
+    "name": "Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
     "category": "Electronics",
     "subCategory": "laptop",
     "brand": "TechPro",
@@ -368,28 +414,27 @@
       "Long battery life"
     ],
     "description": "A high-performance laptop with a Retina display and long battery life, perfect for professionals.",
-    "specialPromotionalImages": ["promo11.jpg", "promo12.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_01._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_02._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_03._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_04._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_05._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_06._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_07._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_08._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_09._CB541657394_.jpg"
+    ],
     "images": [
       {
         "color": "Silver",
         "links": [
-          "prolaptop1.jpg",
-          "prolaptop2.jpg",
-          "prolaptop3.jpg",
-          "prolaptop4.jpg",
-          "prolaptop5.jpg",
-          "prolaptop6.jpg"
-        ]
-      },
-      {
-        "color": "Space Gray",
-        "links": [
-          "spacelaptop1.jpg",
-          "spacelaptop2.jpg",
-          "spacelaptop3.jpg",
-          "spacelaptop4.jpg",
-          "spacelaptop5.jpg",
-          "spacelaptop6.jpg"
+          "https://m.media-amazon.com/images/I/71jG+e7roXL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71-6roO29AL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/913iRx-3W-L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61uNK7su24L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61ChHwbxObL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71z-1j187cL._SX679_.jpg"
         ]
       }
     ],
@@ -427,15 +472,15 @@
   },
   {
     "id": 7,
-    "name": "Ultra Gaming Monitor",
+    "name": "LG 108 cm (43 inches) 4K Ultra HD Smart LED TV 43UR7500PSC (Dark Iron Gray)",
     "category": "Electronics",
     "subCategory": "tv",
-    "brand": "GameVision",
+    "brand": "LG",
     "genericName": "Gaming Monitor",
     "os": "N/A",
     "RAM": ["N/A"],
     "ROM": ["N/A"],
-    "displaySize": "27 inches",
+    "displaySize": "43 inches",
     "displayResolution": "2560 x 1440",
     "inBox": "Monitor, Stand, HDMI Cable, User Manual",
     "detailsAboutThisItem": [
@@ -444,17 +489,27 @@
       "Advanced color accuracy"
     ],
     "description": "A high-performance gaming monitor with a high-refresh-rate display and advanced color accuracy.",
-    "specialPromotionalImages": ["promo13.jpg", "promo14.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/53ee06ac-8e81-447c-af87-fcfaa0f28223.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/810355a7-71d5-4d31-abc8-fb68d8f482ee.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cef6f7f8-4973-48c8-88ac-6d52fa2d7152.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa5807a3-dd10-489f-86ce-85031a0f9119.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a41c3e32-39ff-4ebb-aec3-146ce3b32eb7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2df05982-20d6-437d-b853-88b6cb814846.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/91219ef3-1b89-4119-beff-2ec04093ca78.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8bacfc59-3c1c-47a1-a69a-ae341e8ddf69.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
     "images": [
       {
         "color": "Black",
         "links": [
-          "gamingmonitor1.jpg",
-          "gamingmonitor2.jpg",
-          "gamingmonitor3.jpg",
-          "gamingmonitor4.jpg",
-          "gamingmonitor5.jpg",
-          "gamingmonitor6.jpg"
+          "https://m.media-amazon.com/images/I/71ydzmWXW0L._SX450_.jpg",
+          "https://m.media-amazon.com/images/I/61tDktEggtL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/71UEnmwViCL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/71rlzAFhoIL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/81EH11F5tuL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/715LnInnqCL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61zPZ+W+FzL._SL1500_.jpg"
         ]
       }
     ],
@@ -473,7 +528,7 @@
         }
       }
     ],
-    "price": "400 USD",
+    "price": 50000,
     "availability": "In Stock",
     "warranty": "12 months",
     "customerServiceContact": "support@gamevision.com",
@@ -488,19 +543,19 @@
       "weight": "4.5kg"
     },
     "additionalFeatures": ["G-Sync support", "HDR support"],
-    "discountsOrOffers": "10% off on bulk purchase"
+    "discountsOrOffers": "40%"
   },
   {
     "id": 8,
-    "name": "SuperTab Tablet",
+    "name": "Apple iPhone 15 (128 GB) - Black",
     "category": "Electronics",
     "subCategory": "mobile",
-    "brand": "TabPro",
-    "genericName": "Tablet",
-    "os": "iPadOS",
+    "brand": "apple",
+    "genericName": "iphone",
+    "os": "ios",
     "RAM": ["4GB", "8GB"],
     "ROM": ["64GB", "128GB"],
-    "displaySize": "10.5 inches",
+    "displaySize": "6.1 inches",
     "displayResolution": "2224 x 1668",
     "inBox": "Tablet, Charger, USB Cable, User Manual",
     "detailsAboutThisItem": [
@@ -509,17 +564,47 @@
       "Supports Apple Pencil"
     ],
     "description": "A high-performance tablet with a high-resolution display, perfect for productivity and entertainment.",
-    "specialPromotionalImages": ["promo15.jpg", "promo16.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/G/31/img21/Wireless/Madhav/september/Apple/River/R1807_1._CB575346353_.jpg",
+      "https://m.media-amazon.com/images/G/31/img21/Wireless/Madhav/september/Apple/River/R1807_2._CB575346353_.jpg",
+      "https://m.media-amazon.com/images/G/31/img21/Wireless/Madhav/september/Apple/River/R1807_3._CB575346353_.jpg",
+      "https://m.media-amazon.com/images/G/31/img21/Wireless/Madhav/september/Apple/River/R12FCC1._CB575346353_.jpg",
+      "https://m.media-amazon.com/images/G/31/img21/Wireless/Madhav/september/Apple/River/R14A351._CB575346353_.jpg",
+      "https://m.media-amazon.com/images/G/31/img21/Wireless/Madhav/september/Apple/River/R1807_4._CB575346353_.jpg",
+      "https://m.media-amazon.com/images/G/31/img21/Wireless/Madhav/september/Apple/River/R15A981._CB575346353_.jpg"
+    ],
     "images": [
       {
-        "color": "Space Gray",
+        "color": "black",
         "links": [
-          "tablet1.jpg",
-          "tablet2.jpg",
-          "tablet3.jpg",
-          "tablet4.jpg",
-          "tablet5.jpg",
-          "tablet6.jpg"
+          "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51brdXeugJL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/712CBkmhLhL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61f4dTush1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81BnjSLm2oL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/617JW0DrG8L._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "green",
+        "links": [
+          "https://m.media-amazon.com/images/I/71nvkHnPpZL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/517rnHvIKCL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/712CBkmhLhL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61f4dTush1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81BnjSLm2oL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61YNAYpY2cL._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "yellow",
+        "links": [
+          "https://m.media-amazon.com/images/I/71REplb5oZL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51irEOs4uKL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/712CBkmhLhL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61f4dTush1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81BnjSLm2oL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Rws8eHMpL._SX679_.jpg"
         ]
       },
       {
@@ -549,7 +634,7 @@
         }
       }
     ],
-    "price": "600 USD",
+    "price": 89900,
     "availability": "In Stock",
     "warranty": "12 months",
     "customerServiceContact": "support@tabpro.com",
@@ -564,15 +649,14 @@
       "weight": "500g"
     },
     "additionalFeatures": ["Face ID", "USB-C port"],
-    "discountsOrOffers": "10% off on first purchase"
+    "discountsOrOffers": "23%"
   },
-
   {
     "id": 9,
-    "name": "SmartPhone Ultra",
+    "name": "Samsung Galaxy S23 Ultra 5G AI Smartphone (Green, 12GB, 256GB Storage)",
     "category": "Electronics",
     "subCategory": "mobile",
-    "brand": "HighTech",
+    "brand": "Samsung",
     "genericName": "Smartphone",
     "os": "Android 12",
     "RAM": ["8GB", "12GB"],
@@ -586,28 +670,37 @@
       "Quad camera setup"
     ],
     "description": "A flagship smartphone with top-of-the-line features and exceptional performance.",
-    "specialPromotionalImages": ["promo17.jpg", "promo18.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a08801ca-205c-4117-aa69-baa35097bab1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71188d04-00a3-4cf8-86d0-5ce5f780d482.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90514dc7-5188-4ccc-80bd-3d3786f7081b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e935e8fb-d7e4-4778-b438-9ad518a9c439.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e935e8fb-d7e4-4778-b438-9ad518a9c439.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d1f6064-2474-404d-b367-6e6996a9138d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6883a993-5f5e-47d5-a6d1-2ee778dead1e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1e404d48-2024-46ac-8fb2-5c135a085820.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
     "images": [
       {
-        "color": "Black",
+        "color": "green",
         "links": [
-          "black1.jpg",
-          "black2.jpg",
-          "black3.jpg",
-          "black4.jpg",
-          "black5.jpg",
-          "black6.jpg"
+          "https://m.media-amazon.com/images/I/71lD7eGdW-L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81ZPsNFlRsL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Mgmay88QL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71g0eynUajL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71czPpRihgL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71LzzYTEJTL._SL1500_.jpg"
         ]
       },
       {
-        "color": "Silver",
+        "color": "cream",
         "links": [
-          "silver1.jpg",
-          "silver2.jpg",
-          "silver3.jpg",
-          "silver4.jpg",
-          "silver5.jpg",
-          "silver6.jpg"
+          "https://m.media-amazon.com/images/I/71OXmy3NMCL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81ZPsNFlRsL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71Mgmay88QL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71g0eynUajL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71QXh0C5KaL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71jtR32dHKL._SL1500_.jpg"
         ]
       }
     ],
@@ -645,7 +738,7 @@
   },
   {
     "id": 10,
-    "name": "ZenBook Laptop",
+    "name": "HP 15, 13th Gen Intel Core i5-1334U, 16GB DDR4, 512GB SSD, (Win 11, Office 21, Silver, 1.59kg), Anti-Glare, 15.6-inch(39.6cm) FHD Laptop, Iris Xe Graphics, FHD Camera, Backlit KB, fd0316TU/fd0315T",
     "category": "Electronics",
     "subCategory": "laptop",
     "brand": "ZenTech",
@@ -662,17 +755,28 @@
       "Long battery life"
     ],
     "description": "A high-performance laptop with a stunning display, perfect for both work and entertainment.",
-    "specialPromotionalImages": ["promo19.jpg", "promo20.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5895fa11-2a0e-47cc-a866-55ed954e594c.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/672d6740-3ca9-44f9-91bd-3451f1ecda8c.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5ac56bf9-efba-4d07-b443-e37c462bbe69.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d62262cc-32a0-4c3e-a6dc-00860ae94af7.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b746a707-b2df-4ba3-b03e-d0a384edaa79.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8b1173c9-676a-405c-80c6-a44db9162b07.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f8bc1f7-9d62-4307-86c7-7abe6e365d12.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3839cd5-da5b-4e0c-84a2-4d5ce0c6ea03.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg"
+    ],
     "images": [
       {
         "color": "Silver",
         "links": [
-          "zenbook1.jpg",
-          "zenbook2.jpg",
-          "zenbook3.jpg",
-          "zenbook4.jpg",
-          "zenbook5.jpg",
-          "zenbook6.jpg"
+          "https://m.media-amazon.com/images/I/71J+OBadJCL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71xnBicOXwL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/717rxpTGT9L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81u1utr70JL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71QqUd3zfFL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71HZaq8t9SL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71ELkKWqx7L._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/71O+XV2bwDL._SL1500_.jpg"
         ]
       }
     ],
@@ -691,7 +795,7 @@
         }
       }
     ],
-    "price": "1200 USD",
+    "price": 71773,
     "availability": "In Stock",
     "warranty": "24 months",
     "customerServiceContact": "support@zentech.com",
@@ -706,14 +810,14 @@
       "weight": "1.1kg"
     },
     "additionalFeatures": ["Touchscreen", "Backlit keyboard"],
-    "discountsOrOffers": "10% off on second purchase"
+    "discountsOrOffers": "25%"
   },
   {
     "id": 11,
-    "name": "CrystalClear LED TV",
+    "name": "Xiaomi 165 cm (65 inches) X Series 4K Ultra HD Smart Google TV L65M8-A2IN (Black)",
     "category": "Electronics",
     "subCategory": "tv",
-    "brand": "ClearVision",
+    "brand": "Xiaomi ",
     "genericName": "LED TV",
     "os": "Tizen",
     "RAM": ["3GB"],
@@ -727,17 +831,27 @@
       "High dynamic range (HDR)"
     ],
     "description": "An Ultra HD 4K LED TV with smart features and high dynamic range for an exceptional viewing experience.",
-    "specialPromotionalImages": ["promo21.jpg", "promo22.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/53786055-8add-4129-9723-197d390b00c7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab3e9c41-3b35-4ba7-b790-0272fe503af1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b2a7eb71-8527-4f69-847a-d0092eb9d05b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8893a60a-e2aa-4c1a-ab83-b703cba4323a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35688f16-d6a5-46c5-b537-076e44eafce5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/edda6da7-b1e8-4dc8-977d-686d10843281.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/98850d8a-9524-4ac6-9e6b-be6d4c0ff919.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
     "images": [
       {
         "color": "Black",
         "links": [
-          "ledtv1.jpg",
-          "ledtv2.jpg",
-          "ledtv3.jpg",
-          "ledtv4.jpg",
-          "ledtv5.jpg",
-          "ledtv6.jpg"
+          "https://m.media-amazon.com/images/I/71jsR3zkxJL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/61KevfhN6GL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/61MgKK-M1dL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/51dFjd1RuxL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/51qDt5UK40L._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/51g2Io-bIuL._SL1100_.jpg",
+          "https://m.media-amazon.com/images/I/51s4Rn9yNJL._SL1100_.jpg",
+          "https://m.media-amazon.com/images/I/61d+OXnuvzL._SL1100_.jpg"
         ]
       }
     ],
@@ -775,10 +889,10 @@
   },
   {
     "id": 12,
-    "name": "ProTablet X",
+    "name": "Lenovo Tab Plus with Octa JBL Hi-Fi Speakers| 8 GB RAM, 256 GB ROM| 11.5 Inch, 2K, 90 Hz Refresh| Wi-Fi Tablet| Android 14| 45 W Fast Charger| Built-in Kickstand| Color: Luna Grey",
     "category": "Electronics",
     "subCategory": "mobile",
-    "brand": "TabX",
+    "brand": "Lenovo",
     "genericName": "Tablet",
     "os": "Android 12",
     "RAM": ["6GB", "8GB"],
@@ -792,28 +906,24 @@
       "Supports stylus"
     ],
     "description": "A high-performance tablet with a high-resolution display, perfect for productivity and creativity.",
-    "specialPromotionalImages": ["promo23.jpg", "promo24.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/196557d7-9a98-471b-a40d-508ea6abf866.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/46ff6c53-ac9c-46fb-bf6a-da5a287b2455.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6df865c-6bc3-4f98-aebb-b755ccbf713d.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0061a72a-537e-4994-adb0-b893a688a4f2.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68eba629-306d-4d56-8e8d-026e020b06da.__CR0,0,970,600_PT0_SX970_V1___.png"
+    ],
     "images": [
       {
         "color": "Black",
         "links": [
-          "tablet1.jpg",
-          "tablet2.jpg",
-          "tablet3.jpg",
-          "tablet4.jpg",
-          "tablet5.jpg",
-          "tablet6.jpg"
-        ]
-      },
-      {
-        "color": "White",
-        "links": [
-          "tablet7.jpg",
-          "tablet8.jpg",
-          "tablet9.jpg",
-          "tablet10.jpg",
-          "tablet11.jpg",
-          "tablet12.jpg"
+          "https://m.media-amazon.com/images/I/61ZEkMXevXL._SL1080_.jpg",
+          "https://m.media-amazon.com/images/I/615pbkKozUL._SL1080_.jpg",
+          "https://m.media-amazon.com/images/I/618FJMoybKL._SL1080_.jpg",
+          "https://m.media-amazon.com/images/I/618FJMoybKL._SL1080_.jpg",
+          "https://m.media-amazon.com/images/I/61c3GnttAoL._SL1080_.jpg",
+          "https://m.media-amazon.com/images/I/61Gs44cOBJL._SL1080_.jpg",
+          "https://m.media-amazon.com/images/I/71xx5HjpYxL._SL1500_.jpg"
         ]
       }
     ],
@@ -832,7 +942,7 @@
         }
       }
     ],
-    "price": "700 USD",
+    "price": 34000,
     "availability": "In Stock",
     "warranty": "12 months",
     "customerServiceContact": "support@tabx.com",
@@ -847,6 +957,231 @@
       "weight": "550g"
     },
     "additionalFeatures": ["Face recognition", "USB-C port"],
+    "discountsOrOffers": "47% "
+  },
+  {
+    "id": 13,
+    "name": "Apple 2024 MacBook Pro Laptop with M4 chip with 10‑core CPU and 10‑core GPU: Built for Apple Intelligence, 35.97 cm (14.2″) Liquid Retina XDR Display, 16GB Unified Memory, 1TB SSD Storage; Silver",
+    "category": "Electronics",
+    "subCategory": "laptop",
+    "brand": "apple",
+    "genericName": "mac book",
+    "os": "macOS",
+    "RAM": ["8GB", "16GB"],
+    "ROM": ["256GB SSD", "512GB SSD"],
+    "displaySize": "15.6 inches",
+    "displayResolution": "1920 x 1080",
+    "inBox": "Laptop, Charger, User Manual",
+    "detailsAboutThisItem": [
+      "Lightweight and portable",
+      "Powerful performance",
+      "Long battery life"
+    ],
+    "description": "A sleek and powerful laptop designed for professionals and everyday use.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_01._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_02._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_03._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_04._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_05._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_06._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_07._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_08._CB541657394_.jpg",
+      "https://m.media-amazon.com/images/G/31/img24/CEPC/Apple/MacBook-Pro/MacBook_Pro_Desktop-IN_09._CB541657394_.jpg"
+    ],
+    "images": [
+      {
+        "color": "Silver",
+        "links": [
+          "https://m.media-amazon.com/images/I/61S+iQmF5NL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61CkOvTefvL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61LSr5a2syL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81J89BFyYYL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/91CewBJrUML._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61AL2jRa5UL._SX679_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u2",
+          "name": "Bob",
+          "date": "2025-01-12",
+          "country": "India"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Excellent Laptop",
+          "body": "This laptop is very powerful and perfect for my work."
+        }
+      }
+    ],
+    "price": 189900,
+    "availability": "In Stock",
+    "warranty": "24 months",
+    "customerServiceContact": "support@computex.com",
+    "shippingDetails": {
+      "cost": "15 USD",
+      "estimatedDelivery": "7-10 days"
+    },
+    "productDimensions": {
+      "length": "35cm",
+      "width": "24cm",
+      "height": "2cm",
+      "weight": "1.5kg"
+    },
+    "additionalFeatures": ["Fingerprint scanner", "Backlit keyboard"],
+    "discountsOrOffers": "4%"
+  },
+  {
+    "id": 14,
+    "name": "Panasonic 108 cm (43 inches) 4K Ultra HD Smart LED Google TV TH-43MX660DX (Black)",
+    "category": "Electronics",
+    "subCategory": "tv",
+    "brand": "Panasonic",
+    "genericName": "LED TV",
+    "os": "WebOS",
+    "RAM": ["2GB"],
+    "ROM": ["16GB"],
+    "displaySize": "43 inches",
+    "displayResolution": "3840 x 2160",
+    "inBox": "TV, Remote, Stand, User Manual",
+    "detailsAboutThisItem": [
+      "Energy-efficient LED",
+      "4K Ultra HD resolution",
+      "Smart TV features"
+    ],
+    "description": "An energy-efficient LED TV with 4K Ultra HD resolution and smart features.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74e29205-f4a9-4271-8091-e81b0f4ac279.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a2e08ce-a69c-488a-bedc-2118741d733c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e992718-99be-46e8-8178-56c60e358621.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/818acfb7-446a-421d-9c6f-97a4384dd102.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1c8b653-7f56-4680-aa8a-c7e1b6dd1baf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03bd4a03-2f57-486f-b5c0-19e23745d111.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d2a439e5-9c3a-4bf8-bd5e-1c453a6365ba.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8cbf0658-0df2-4d27-b936-16f1e3ad8e9a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30b332aa-ea9f-4df0-bf1e-2d32e992f515.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "https://m.media-amazon.com/images/I/714L9-X8dPL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/916eHJ5uQxL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/81KDnTJK6JL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/5102WQS73JL._SX450_.jpg",
+          "https://m.media-amazon.com/images/I/61cXzfBszsL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61KSI-eulpL._SL1500_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u5",
+          "name": "Ethan",
+          "date": "2025-01-17",
+          "country": "Germany"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Great TV",
+          "body": "The picture quality is amazing and it's very energy-efficient."
+        }
+      }
+    ],
+    "price": "600 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@ecovision.com",
+    "shippingDetails": {
+      "cost": "20 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "112cm",
+      "width": "65cm",
+      "height": "8cm",
+      "weight": "13kg"
+    },
+    "additionalFeatures": ["HDR support", "Built-in Wi-Fi"],
+    "discountsOrOffers": "10% off on first purchase"
+  },
+  {
+    "id": 15,
+    "name": "Panasonic 108 cm (43 inches) 4K Ultra HD Smart LED Google TV TH-43MX660DX (Black)",
+    "category": "Electronics",
+    "subCategory": "tv",
+    "brand": "Panasonic",
+    "genericName": "LED TV",
+    "os": "WebOS",
+    "RAM": ["2GB"],
+    "ROM": ["16GB"],
+    "displaySize": "43 inches",
+    "displayResolution": "3840 x 2160",
+    "inBox": "TV, Remote, Stand, User Manual",
+    "detailsAboutThisItem": [
+      "Energy-efficient LED",
+      "4K Ultra HD resolution",
+      "Smart TV features"
+    ],
+    "description": "An energy-efficient LED TV with 4K Ultra HD resolution and smart features.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/74e29205-f4a9-4271-8091-e81b0f4ac279.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a2e08ce-a69c-488a-bedc-2118741d733c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0e992718-99be-46e8-8178-56c60e358621.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/818acfb7-446a-421d-9c6f-97a4384dd102.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c1c8b653-7f56-4680-aa8a-c7e1b6dd1baf.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03bd4a03-2f57-486f-b5c0-19e23745d111.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d2a439e5-9c3a-4bf8-bd5e-1c453a6365ba.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8cbf0658-0df2-4d27-b936-16f1e3ad8e9a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/30b332aa-ea9f-4df0-bf1e-2d32e992f515.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "images": [
+      {
+        "color": "Black",
+        "links": [
+          "https://m.media-amazon.com/images/I/714L9-X8dPL._SY450_.jpg",
+          "https://m.media-amazon.com/images/I/916eHJ5uQxL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/81KDnTJK6JL._SX466_.jpg",
+          "https://m.media-amazon.com/images/I/5102WQS73JL._SX450_.jpg",
+          "https://m.media-amazon.com/images/I/61cXzfBszsL._SL1500_.jpg",
+          "https://m.media-amazon.com/images/I/61KSI-eulpL._SL1500_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u5",
+          "name": "Ethan",
+          "date": "2025-01-17",
+          "country": "Germany"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Great TV",
+          "body": "The picture quality is amazing and it's very energy-efficient."
+        }
+      }
+    ],
+    "price": "600 USD",
+    "availability": "In Stock",
+    "warranty": "18 months",
+    "customerServiceContact": "support@ecovision.com",
+    "shippingDetails": {
+      "cost": "20 USD",
+      "estimatedDelivery": "5-7 days"
+    },
+    "productDimensions": {
+      "length": "112cm",
+      "width": "65cm",
+      "height": "8cm",
+      "weight": "13kg"
+    },
+    "additionalFeatures": ["HDR support", "Built-in Wi-Fi"],
     "discountsOrOffers": "10% off on first purchase"
   }
 ]

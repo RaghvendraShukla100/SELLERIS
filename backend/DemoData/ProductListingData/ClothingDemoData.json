@@ -1,22 +1,33 @@
 [
   {
     "id": 1,
-    "name": "Men's T-Shirt",
+    "name": "Pure Cotton Classic Opaque Checked Casual Shirt",
     "category": "Clothing",
     "subCategory": "Men",
-    "productType": "Top",
-    "brand": "Brand A",
+    "productType": "shirt",
+    "brand": "Nautica",
     "sizes": ["S", "M", "L", "XL"],
-    "colors": ["Red", "Blue"],
+    "colors": ["Blue"],
     "material": "Cotton",
     "fit": "Regular",
-    "inBox": "1 x T-Shirt",
+    "country of origin": "india",
+    "inBox": "1 x Shirt",
     "detailsAboutThisItem": ["Soft fabric", "Durable stitching"],
-    "description": "Comfortable cotton t-shirt for men.",
-    "specialPromotionalImages": ["promo1.jpg"],
+    "description": "Comfortable cotton shirt for men.",
+    "specialPromotionalImages": ["link 1"],
     "images": [
-      { "color": "Red", "links": ["red1.jpg", "red2.jpg"] },
-      { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] }
+      {
+        "color": "Blue",
+        "links": [
+          "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28021364/2024/10/28/62bad4f4-fc56-437f-9253-ed9a10e244af1730090813519-Nautica-Men-Shirts-241730090812835-1.jpg",
+          "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28021364/2024/10/28/50ae2f8b-3414-46c9-ad63-8435a92e93351730090813490-Nautica-Men-Shirts-241730090812835-2.jpg",
+          "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28021364/2024/10/28/b10626a3-2855-4924-8c8f-e38c89d61cf51730090813463-Nautica-Men-Shirts-241730090812835-3.jpg",
+          "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28021364/2024/10/28/4b7f82d8-8f6a-4a95-b293-32885652af3e1730090813436-Nautica-Men-Shirts-241730090812835-4.jpg",
+          "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28021364/2024/10/28/20ca7ca5-57cb-45f7-bfa2-3997ec4d7c6b1730090813408-Nautica-Men-Shirts-241730090812835-5.jpg",
+          "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28021364/2024/10/28/463a5b57-0ba9-4dcf-ab50-bfb23032a4b61730090813378-Nautica-Men-Shirts-241730090812835-6.jpg",
+          "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/28021364/2024/10/28/8ebf9f78-d9b1-4821-9990-d25ba5c7bf771730090813352-Nautica-Men-Shirts-241730090812835-7.jpg"
+        ]
+      }
     ],
     "reviews": [
       {
@@ -33,8 +44,8 @@
         }
       }
     ],
-    "price": "$19.99",
-    "availability": "In stock",
+    "price": 1999,
+    "availability": "547",
     "warranty": "1 year",
     "customerServiceContact": "support@brandA.com",
     "shippingDetails": { "cost": "$5", "estimatedDelivery": "3-5 days" },
@@ -45,7 +56,7 @@
       "weight": "200g"
     },
     "additionalFeatures": ["Breathable fabric"],
-    "discountsOrOffers": "10% off on first purchase"
+    "discountsOrOffers": "10%"
   },
   {
     "id": 2,
@@ -57,6 +68,7 @@
     "sizes": ["S", "M", "L", "XL"],
     "colors": ["Black", "White"],
     "material": "Polyester",
+    "country of origin": "germany",
     "fit": "Slim",
     "inBox": "1 x Dress",
     "detailsAboutThisItem": ["Elegant design", "Comfortable fit"],
@@ -82,7 +94,7 @@
       }
     ],
     "price": "$49.99",
-    "availability": "In stock",
+    "availability": "50",
     "warranty": "6 months",
     "customerServiceContact": "support@brandB.com",
     "shippingDetails": { "cost": "$8", "estimatedDelivery": "5-7 days" },
@@ -97,22 +109,44 @@
   },
   {
     "id": 3,
-    "name": "Kids' Hoodie",
+    "name": "HIGH STAR Men's Regular Jeans",
     "category": "Clothing",
-    "subCategory": "Kids",
-    "productType": "Hoodie",
-    "brand": "Brand C",
-    "sizes": ["XS", "S", "M"],
-    "colors": ["Green", "Yellow"],
+    "subCategory": "mens",
+    "productType": "jeans",
+    "brand": "HIGH STAR",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["sky blue", "dark blue"],
+    "country of origin": "india",
     "material": "Fleece",
     "fit": "Loose",
     "inBox": "1 x Hoodie",
     "detailsAboutThisItem": ["Warm and cozy", "Easy to wash"],
-    "description": "Comfortable hoodie for kids.",
+    "description": "Step into the epitome of style and comfort with High Star Jeans – where individuality meets denim perfection. Elevate your wardrobe with our diverse range of fits, from the timeless elegance of straight fit to the laid-back charm of boyfriend fit. Whether you're embracing the classic allure of boot leg or opting for the effortlessly cool baggy fit, High Star caters to every fashion inclination. Crafted with precision and passion, our jeans boast exceptional durability, superior comfort, and a touch of edgy sophistication. Embrace your unique style journey with High Star, where each pair of jeans tells a story as distinct as you are. Redefine fashion, redefine you – High Star, your denim, your story.",
     "specialPromotionalImages": ["promo3.jpg"],
     "images": [
-      { "color": "Green", "links": ["green1.jpg", "green2.jpg"] },
-      { "color": "Yellow", "links": ["yellow1.jpg", "yellow2.jpg"] }
+      {
+        "color": "sky blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/71-mTOBK0WL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51oZsOtAWZL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/716GrT+fkPL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/713bcR2vY7L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71WNcmaAm2L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/911NsgHLjlL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/61ldoYHYUhL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61JEKZ++0rL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61WucFWL1JL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71JweTAm1-L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61JV28ZJLBL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/6153+p9pv0L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61tbHSbkkkL._SY741_.jpg"
+        ]
+      }
     ],
     "reviews": [
       {
@@ -129,8 +163,8 @@
         }
       }
     ],
-    "price": "$29.99",
-    "availability": "In stock",
+    "price": 2100,
+    "availability": "50",
     "warranty": "1 year",
     "customerServiceContact": "support@brandC.com",
     "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
@@ -141,7 +175,7 @@
       "weight": "250g"
     },
     "additionalFeatures": ["Machine washable"],
-    "discountsOrOffers": "15% off on orders over $50"
+    "discountsOrOffers": "15%"
   },
   {
     "id": 4,
@@ -177,8 +211,8 @@
         }
       }
     ],
-    "price": "$39.99",
-    "availability": "In stock",
+    "price": 1560,
+    "availability": "50",
     "warranty": "1 year",
     "customerServiceContact": "support@brandD.com",
     "shippingDetails": { "cost": "$7", "estimatedDelivery": "5-7 days" },
@@ -191,198 +225,969 @@
     "additionalFeatures": ["Stretchable fabric"],
     "discountsOrOffers": "20% off on second pair"
   },
-  [
-    {
-      "id": 3,
-      "name": "Kids' Hoodie",
-      "category": "Clothing",
-      "subCategory": "Kids",
-      "productType": "Top",
-      "brand": "Brand C",
-      "sizes": ["S", "M", "L"],
-      "colors": ["Green", "Yellow"],
-      "material": "Fleece",
-      "fit": "Regular",
-      "inBox": "1 x Hoodie",
-      "detailsAboutThisItem": ["Warm and cozy", "Durable fabric"],
-      "description": "Comfortable fleece hoodie for kids.",
-      "specialPromotionalImages": ["promo3.jpg"],
-      "images": [
-        { "color": "Green", "links": ["green1.jpg", "green2.jpg"] },
-        { "color": "Yellow", "links": ["yellow1.jpg", "yellow2.jpg"] }
-      ],
-      "reviews": [
-        {
-          "user": {
-            "id": "u3",
-            "name": "Alice Brown",
-            "date": "2025-01-15",
-            "country": "Canada"
-          },
-          "rating": 4,
-          "comment": {
-            "heading": "Great for kids",
-            "body": "My child loves it and wears it all the time."
-          }
+
+  {
+    "id": 3,
+    "name": "Hopscotch Boys Regular Fit Cotton Checkered Shirt",
+    "category": "Clothing",
+    "subCategory": "Kids",
+    "productType": "shirt",
+    "brand": "Hopscotch",
+    "sizes": ["S", "M", "L"],
+    "colors": ["blue"],
+    "material": "Fleece",
+    "fit": "Regular",
+    "inBox": "1 x Hoodie",
+    "country of origin": "china",
+    "detailsAboutThisItem": ["Warm and cozy", "Durable fabric"],
+    "description": "Comfortable fleece hoodie for kids.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/22e6ea1e-cc20-45f8-9122-ebf959ab20c1.__CR0,1201,6240,2557_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sc/4e27410b-67d0-44af-80fd-677967ebd903.mp4"
+    ],
+    "images": [
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/61E09x+JmAL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61O2dfCko4L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/819CWgeSXQL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61rl9QVZ4NL._SX679_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-15",
+          "country": "Canada"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
         }
-      ],
-      "price": "$29.99",
-      "availability": "In stock",
-      "warranty": "1 year",
-      "customerServiceContact": "support@brandC.com",
-      "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
-      "productDimensions": {
-        "length": "20 in",
-        "chest": "30 in",
-        "sleeveLength": "15 in",
-        "weight": "250g"
-      },
-      "additionalFeatures": ["Machine washable"],
-      "discountsOrOffers": "15% off on orders over $50"
+      }
+    ],
+    "price": "950",
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
     },
-    {
-      "id": 4,
-      "name": "Men's Jeans",
-      "category": "Clothing",
-      "subCategory": "Men",
-      "productType": "Bottom",
-      "brand": "Brand D",
-      "sizes": ["32", "34", "36", "38"],
-      "colors": ["Blue", "Black"],
-      "material": "Denim",
-      "fit": "Slim",
-      "inBox": "1 x Jeans",
-      "detailsAboutThisItem": ["Stretchable fabric", "Classic fit"],
-      "description": "Stylish slim-fit jeans for men.",
-      "specialPromotionalImages": ["promo4.jpg"],
-      "images": [
-        { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] },
-        { "color": "Black", "links": ["black1.jpg", "black2.jpg"] }
-      ],
-      "reviews": [
-        {
-          "user": {
-            "id": "u4",
-            "name": "David Johnson",
-            "date": "2025-01-18",
-            "country": "Australia"
-          },
-          "rating": 5,
-          "comment": {
-            "heading": "Perfect fit",
-            "body": "These jeans fit perfectly and are very comfortable."
-          }
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "32%"
+  },
+  {
+    "id": 4,
+    "name": "Men's Jeans",
+    "category": "Clothing",
+    "subCategory": "Men",
+    "productType": "Bottom",
+    "brand": "Brand D",
+    "sizes": ["32", "34", "36", "38"],
+    "colors": ["Blue", "Black"],
+    "material": "Denim",
+    "fit": "Slim",
+    "inBox": "1 x Jeans",
+    "detailsAboutThisItem": ["Stretchable fabric", "Classic fit"],
+    "description": "Stylish slim-fit jeans for men.",
+    "specialPromotionalImages": ["promo4.jpg"],
+    "images": [
+      { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] },
+      { "color": "Black", "links": ["black1.jpg", "black2.jpg"] }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u4",
+          "name": "David Johnson",
+          "date": "2025-01-18",
+          "country": "Australia"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Perfect fit",
+          "body": "These jeans fit perfectly and are very comfortable."
         }
-      ],
-      "price": "$39.99",
-      "availability": "In stock",
-      "warranty": "1 year",
-      "customerServiceContact": "support@brandD.com",
-      "shippingDetails": { "cost": "$7", "estimatedDelivery": "3-5 days" },
-      "productDimensions": {
-        "length": "40 in",
-        "waist": "32 in",
-        "hip": "38 in",
-        "weight": "500g"
-      },
-      "additionalFeatures": ["Fade-resistant"],
-      "discountsOrOffers": "Free shipping on orders over $75"
+      }
+    ],
+    "price": "$39.99",
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandD.com",
+    "shippingDetails": { "cost": "$7", "estimatedDelivery": "3-5 days" },
+    "productDimensions": {
+      "length": "40 in",
+      "waist": "32 in",
+      "hip": "38 in",
+      "weight": "500g"
     },
-    {
-      "id": 5,
-      "name": "Women's Blouse",
-      "category": "Clothing",
-      "subCategory": "Women",
-      "productType": "Top",
-      "brand": "Brand E",
-      "sizes": ["S", "M", "L", "XL"],
-      "colors": ["White", "Pink"],
-      "material": "Silk",
-      "fit": "Loose",
-      "inBox": "1 x Blouse",
-      "detailsAboutThisItem": ["Elegant design", "Soft and smooth fabric"],
-      "description": "Chic silk blouse for women.",
-      "specialPromotionalImages": ["promo5.jpg"],
-      "images": [
-        { "color": "White", "links": ["white1.jpg", "white2.jpg"] },
-        { "color": "Pink", "links": ["pink1.jpg", "pink2.jpg"] }
-      ],
-      "reviews": [
-        {
-          "user": {
-            "id": "u5",
-            "name": "Emma Wilson",
-            "date": "2025-01-20",
-            "country": "France"
-          },
-          "rating": 4,
-          "comment": {
-            "heading": "Lovely blouse",
-            "body": "The blouse looks beautiful and feels great."
-          }
+    "additionalFeatures": ["Fade-resistant"],
+    "discountsOrOffers": "Free shipping on orders over $75"
+  },
+  {
+    "id": 5,
+    "name": "Women's Blouse",
+    "category": "Clothing",
+    "subCategory": "Women",
+    "productType": "Top",
+    "brand": "Brand E",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["White", "Pink"],
+    "material": "Silk",
+    "fit": "Loose",
+    "inBox": "1 x Blouse",
+    "detailsAboutThisItem": ["Elegant design", "Soft and smooth fabric"],
+    "description": "Chic silk blouse for women.",
+    "specialPromotionalImages": ["promo5.jpg"],
+    "images": [
+      { "color": "White", "links": ["white1.jpg", "white2.jpg"] },
+      { "color": "Pink", "links": ["pink1.jpg", "pink2.jpg"] }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u5",
+          "name": "Emma Wilson",
+          "date": "2025-01-20",
+          "country": "France"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Lovely blouse",
+          "body": "The blouse looks beautiful and feels great."
         }
-      ],
-      "price": "$59.99",
-      "availability": "In stock",
-      "warranty": "6 months",
-      "customerServiceContact": "support@brandE.com",
-      "shippingDetails": { "cost": "$9", "estimatedDelivery": "5-7 days" },
-      "productDimensions": {
-        "length": "26 in",
-        "chest": "36 in",
-        "sleeveLength": "24 in",
-        "weight": "150g"
-      },
-      "additionalFeatures": ["Dry-clean only"],
-      "discountsOrOffers": "20% off on second purchase"
+      }
+    ],
+    "price": "$59.99",
+    "availability": "50",
+    "warranty": "6 months",
+    "customerServiceContact": "support@brandE.com",
+    "shippingDetails": { "cost": "$9", "estimatedDelivery": "5-7 days" },
+    "productDimensions": {
+      "length": "26 in",
+      "chest": "36 in",
+      "sleeveLength": "24 in",
+      "weight": "150g"
     },
-    {
-      "id": 6,
-      "name": "Kids' Joggers",
-      "category": "Clothing",
-      "subCategory": "Kids",
-      "productType": "Bottom",
-      "brand": "Brand F",
-      "sizes": ["S", "M", "L"],
-      "colors": ["Gray", "Navy"],
-      "material": "Cotton Blend",
-      "fit": "Regular",
-      "inBox": "1 x Joggers",
-      "detailsAboutThisItem": ["Comfortable fit", "Elastic waistband"],
-      "description": "Soft and comfortable joggers for kids.",
-      "specialPromotionalImages": ["promo6.jpg"],
-      "images": [
-        { "color": "Gray", "links": ["gray1.jpg", "gray2.jpg"] },
-        { "color": "Navy", "links": ["navy1.jpg", "navy2.jpg"] }
-      ],
-      "reviews": [
-        {
-          "user": {
-            "id": "u6",
-            "name": "Chris Lee",
-            "date": "2025-01-22",
-            "country": "Germany"
-          },
-          "rating": 5,
-          "comment": {
-            "heading": "Great quality",
-            "body": "These joggers are perfect for my kids."
-          }
+    "additionalFeatures": ["Dry-clean only"],
+    "discountsOrOffers": "20% off on second purchase"
+  },
+  {
+    "id": 6,
+    "name": "Lymio Women Elegant Long Dress",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "dress",
+    "brand": "Lymio",
+    "sizes": ["L", "XL"],
+    "colors": ["black"],
+    "material": "Cotton Blend",
+    "country of origin": "india",
+    "fit": "Regular",
+    "inBox": "1 x Joggers",
+    "detailsAboutThisItem": [
+      "plit Thigh",
+      "Square Neck",
+      "Floral, All Over Print"
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/61gVrl6S30L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71R2L9oDdAL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71G5QrMshOL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71J8LDN6XKL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71YNnFAt97L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71+pu+kenZL._SY741_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
         }
-      ],
-      "price": "$24.99",
-      "availability": "In stock",
-      "warranty": "1 year",
-      "customerServiceContact": "support@brandF.com",
-      "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
-      "productDimensions": {
-        "length": "30 in",
-        "waist": "25 in",
-        "hip": "30 in",
-        "weight": "300g"
+      }
+    ],
+    "price": "$24.99",
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "10% off on orders over $50"
+  },
+  {
+    "id": 7,
+    "name": "Lymio Casual Shirt for Men|| Regular Fit Shirt for Men|| Men Stylish Shirt (Rib-Shirt)",
+    "category": "Clothing",
+    "subCategory": "Men",
+    "productType": "shirt",
+    "brand": "Nautica",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["maroon", "gray", "black", "khakhi"],
+    "material": "Polyester",
+    "fit": "Regular",
+    "inBox": "1 x Shirt",
+    "detailsAboutThisItem": ["Soft fabric", "Durable stitching"],
+    "description": "Comfortable cotton shirt for men.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2b08646f-8216-4c86-9af0-e2e12b047974.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/429009d3-c978-44f2-884c-0d876d569f7e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ce2a1320-9690-426e-bfa6-10f4c890d65c.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/183f15c7-996d-4ad0-a8da-c6163876239b.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50db64e5-5e6b-45d2-88d4-4b01e0b06dfc.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "images": [
+      {
+        "color": "Maroon",
+        "links": [
+          "https://m.media-amazon.com/images/I/71cc5ovpHqL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71qgf9NgJML._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61IR5WmAYBL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61yaIJsRJIL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51zp4YuYNRL._SX679_.jpg"
+        ]
       },
-      "additionalFeatures": ["Machine washable"],
-      "discountsOrOffers": "10% off on orders over $50"
-    }
-  ]
+      {
+        "color": "Khakhi",
+        "links": [
+          "https://m.media-amazon.com/images/I/71V5gEc8YVL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81F2IW3LNAL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71URGw4O-XL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71yKeV+0wLL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51zp4YuYNRL._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "Grey",
+        "links": [
+          "https://m.media-amazon.com/images/I/71kE75JMKjL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/719f3TYf4XL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71q6QsbPusL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71A4uQh+TRL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51zp4YuYNRL._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/71gxzNP0V3L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71xomI4L7fL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51I3X430M5L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51wdQSG4RuL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51zp4YuYNRL._SX679_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u1",
+          "name": "John Doe",
+          "date": "2025-01-10",
+          "country": "USA"
+        },
+        "rating": 4,
+        "comment": {
+          "heading": "Good quality",
+          "body": "Very comfortable and fits well."
+        }
+      }
+    ],
+    "price": 2500,
+    "availability": "45",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandA.com",
+    "shippingDetails": { "cost": "45", "estimatedDelivery": "3-5 days" },
+    "productDimensions": {
+      "length": "28 in",
+      "chest": "40 in",
+      "sleeveLength": "8 in",
+      "weight": "200g"
+    },
+    "additionalFeatures": ["Breathable fabric"],
+    "discountsOrOffers": "90%"
+  },
+  {
+    "id": 8,
+    "name": "Max Boy's Regular Fit T-Shirt",
+    "category": "Clothing",
+    "subCategory": "Kids",
+    "productType": "shirt",
+    "brand": "max",
+    "sizes": ["S", "M", "L"],
+    "colors": ["blue"],
+    "material": "Fleece",
+    "fit": "Regular",
+    "inBox": "1 x Hoodie",
+    "country of origin": "china",
+    "detailsAboutThisItem": ["Warm and cozy", "Durable fabric"],
+    "description": "Comfortable fleece hoodie for kids.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/61QwjbEkQjL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81k6XtJVIFL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Qy6a2IHiL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81JyUyHBVRL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51plx3AGPRL._SY741_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-16",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
+        }
+      }
+    ],
+    "price": 550,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "30%"
+  },
+  {
+    "id": 9,
+    "name": "TAGAS Boy's Floral Regular Fit Shirt",
+    "category": "Clothing",
+    "subCategory": "Kids",
+    "productType": "shirt",
+    "brand": "TAGAS",
+    "sizes": ["S", "M", "L"],
+    "colors": ["blue", "light blue", "Light Grey"],
+    "material": "Fleece",
+    "fit": "Regular",
+    "inBox": "1 x Hoodie",
+    "country of origin": "india",
+    "detailsAboutThisItem": ["Warm and cozy", "Durable fabric"],
+    "description": "Comfortable fleece hoodie for kids.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/71ZZ75z+jXL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71r5sgUgOrL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Z0sNZa6vL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81sQk+9me8L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/818daBEbZHL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "light blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/71mGAUYd5RL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71PKj32mQUL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/713eYjsDSQL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81LMEDaam7L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/710JPyLy5kL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "light gray",
+        "links": [
+          "https://m.media-amazon.com/images/I/71aToGs3jFL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Vii0osK9L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/713DzZBJe6L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81OVO6TrF8L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81YY4OZNuWL._SY741_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-16",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
+        }
+      }
+    ],
+    "price": 1449,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "64%"
+  },
+  {
+    "id": 10,
+    "name": "UNITED COLORS OF BENETTON Boy's Solid Regular Fit T-Shirts",
+    "category": "Clothing",
+    "subCategory": "Kids",
+    "productType": "t-shirt",
+    "brand": "polo",
+    "sizes": ["S", "M", "L"],
+    "colors": ["green"],
+    "material": "100% Cotton",
+    "fit": "slim fit",
+    "inBox": "1 x t-shirt",
+    "country of origin": "india",
+    "detailsAboutThisItem": [
+      "Cotton Lycra with Stretch (98% Cotton 2% Elastane) - Offers extra comfort and flexibility; Adjustable Elastic on inner",
+      "Durable fabric"
+    ],
+    "description": "SOLID POLO BOYS WITH TIPPING",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "green",
+        "links": [
+          "https://m.media-amazon.com/images/I/51-o5xGXV7L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51aVY0NgDTL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81gjSZqAGlL._SX679_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-16",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
+        }
+      }
+    ],
+    "price": 1449,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "75%"
+  },
+  {
+    "id": 11,
+    "name": "Bewakoof Men's Baggy Regular Fit Cargo Jeans",
+    "category": "Clothing",
+    "subCategory": "mens",
+    "productType": "jeans",
+    "brand": "Bewakoof ",
+    "sizes": ["S", "M", "L", "xl"],
+    "colors": ["blue", "black"],
+    "material": "cotton",
+    "fit": "Regular",
+    "inBox": "1 x jeans",
+    "country of origin": "india",
+    "detailsAboutThisItem": [
+      " Regular fit - Fits just right - not too tight, not too loose.",
+      " Denim - soft and breathable for maximum comfort.",
+      "Embrace the rugged charm by pairing these jeans with a basic t-shirt and chunky sneakers. For an added style quotient, throw on a utility jacket, and you're ready to own the streets"
+    ],
+    "description": "Comfortable fleece hoodie for kids.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1135d052-0e8d-4cb7-a48e-102e638805aa.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e3b52cbf-e059-4575-b037-ede8f680721e.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/24dfd106-3709-457e-a7fa-b492f9db7ae4.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b8c10658-c2d9-4f2f-8e4e-bc10af25faad.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "images": [
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/61K7MGLPqlL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/6129j6IDF-L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/612dm4QULvL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61BClXcxsaL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71LU-zmtHoL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61taOX8ZJrL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71vE3QAwiyL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/61cMQKLO2ZL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61lsTs4OX+L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51mQyruw1lL._SY741_.jpg",
+
+          "https://m.media-amazon.com/images/I/51+P6eQsKUL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61XrK-3cEiL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61taOX8ZJrL._SY741_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-16",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
+        }
+      }
+    ],
+    "price": 1999,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "59%"
+  },
+  {
+    "id": 12,
+    "name": "Amazon Brand - Myx Women's Rayon Straight Embroidered Regular Fit Kurta in Cotton",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "kurta",
+    "brand": "Amazon Brand",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["white", "red"],
+    "material": "100% Rayon",
+    "country of origin": "india",
+    "fit": "Regular",
+    "inBox": "1 x Kurta",
+    "detailsAboutThisItem": [
+      "Calf length straight kurta ",
+      "Non-sheer fabric without lining",
+      "Round neck kurta with three quarter sleeves."
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/sota/18cb1f5b-342e-4ec3-a12f-d91ec562b0b0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/332a707b-de70-4d64-bdcb-2946cba90082.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/416f901c-002c-4e55-a01b-eed669c9975f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/41a2a1df-57f9-47dd-8c08-f6a8fef52488.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/6ec862d5-cc73-4d49-ba57-3905c44f070a.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/af3fc488-8daa-45dd-a8cd-098b971eba22.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "images": [
+      {
+        "color": "white",
+        "links": [
+          "https://m.media-amazon.com/images/I/71HWYXy3tCL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/61lFvWAVfCL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/71LNI-Fl7CL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/91U1wiZLS7L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/81TH1Hk8LVL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71fZYodB9aL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/81JEIPXsp0L._SX569_.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "links": [
+          "https://m.media-amazon.com/images/I/71o8OYSv30L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/81qxY89tHWL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/81LDtLrBQ2L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/81L0WrliU1L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/81I1H-Jia2L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/71R7sLfvRmL._SY741_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These kurtas are perfect for my womens."
+        }
+      }
+    ],
+    "price": 750,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "20%"
+  },
+  {
+    "id": 13,
+    "name": "The Souled Store Solids: Women and Girls Full Sleeve Collared Neck Cotton Blend Polos",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "t-shirt",
+    "brand": "Souled ",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["black"],
+    "material": "Cotton",
+    "country of origin": "india",
+    "fit": "Regular fit",
+    "inBox": "1 x Joggers",
+    "detailsAboutThisItem": [
+      "Material: 97% Cotton 3% Lycra. Fabric: Cotton and Lycra, Color: Black, Fit: Regular, Sleeve: Full Sleeve, Pattern: Solid, Closure: Pull On",
+      "Size Guide: XS(32), S(34), M(36), L(38), XL(40)",
+      "Standard Sizing: We follow U.S. and EU standards and our sizes do not vary by more than +/- 0.5 inches."
+    ],
+    "description": "Style your wardrobe with this classic ribbed merchandise. Wear it to a casual workday, party, or for a night-in with your friends - this tee is the universal answer to What should I wear? Shop for this solid white polo online, available exclusively at The Souled Store.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b1053110-7af8-4595-85a7-e1c9292751cc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5746a600-7700-4830-8683-33f2f0ad93e1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/84feb834-9221-4199-8be6-4ee5779049ae.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+    ],
+    "images": [
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/61mM9SRmJnL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61o-6DUXQAL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61DTHP+IbNL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/51SDx74QPJL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61Ow6q5wr5L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61JjwBY3W6L._SY741_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": 1499,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "47%"
+  },
+  {
+    "id": 14,
+    "name": "VIMAL JONNEY Fleece Regular Fit Printed Crew Neck Sweatshirt For Women-VIMAL639948",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "t-shirt",
+    "brand": "Lymio",
+    "sizes": ["L", "XL"],
+    "colors": ["Maroon", "Olive", "blue"],
+    "material": "Fleece",
+    "country of origin": "india",
+    "fit": "Regular",
+    "inBox": "1 x t-shirt",
+    "detailsAboutThisItem": [
+      "Versatile: A classic sweatshirt suitable for Women's casual and athletic wear.",
+      "Comfortable Fabric: Made from soft, breathable cotton Fleece material for all-day comfort",
+      "Pullover Style: Hassle-free pullover design with a Round Neck for easy on and off."
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6a7e216a-0dfb-4fea-9af7-6f23c29399f4.__CR0,0,600,180_PT0_SX600_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/92e748df-b2dd-4842-889d-e9b43cc6713a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a2b01cfc-c92c-4542-852d-1d41aad1e403.__CR0,0,970,600_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bc84cd8f-7c32-447e-b36c-0402d00e1fe4.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
+    "images": [
+      {
+        "color": "maroon",
+        "links": [
+          "https://m.media-amazon.com/images/I/714AtORa87L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71w7MBnruyL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61LI+kYthIL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61meODXkU+L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61PfXgzoFwL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81pykM+IhCL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/613WfImTCsL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "olive",
+        "links": [
+          "https://m.media-amazon.com/images/I/71r01LxFhxL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/718i+AVWFFL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/611piX2b2FL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/617a-doxXNL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71zxFD+nUTL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81fXUTpTHcL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61tnhB4ZxlL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/71bTpyt8lOL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71OptTBOhfL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61S6Opj7d-L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/613Gq-4VbgL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71niVlrn8JL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71fZOEoc7bL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61k5RFkHKHL._SY741_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": "$24.99",
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "10% off on orders over $50"
+  },
+  {
+    "id": 15,
+    "name": "TEEJH Vaanshi Ombre Organza Saree|Orange",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "Saree",
+    "brand": "TEEJH ",
+    "sizes": [],
+    "colors": ["orange"],
+    "material": "Cotton Blend",
+    "country of origin": "india",
+    "fit": "Regular",
+    "inBox": "1 x saree",
+    "detailsAboutThisItem": ["", "", ""],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc7e6284-3790-4d3d-8650-22f89b5eb3c5.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0323d628-dc44-420b-a012-a30c0be95708.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90465a36-8045-4716-8952-c5124fb1ff74.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3b14296-c184-4236-bd94-55c871d710bd.__CR0,0,970,600_PT0_SX970_V1___.png",
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4e8bb83e-d49e-4d0b-86d5-2279c66df5fd.__CR0,0,970,600_PT0_SX970_V1___.png"
+    ],
+    "images": [
+      {
+        "color": "orange",
+        "links": [
+          "https://m.media-amazon.com/images/I/61qmJjcVTcL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81S6w9Cct7L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71L-WvUP+UL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81iOZxr--CL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71o4zyqZG2L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61y2fK+26TL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61XqWCRXLbL._SX679_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": 1200,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "40%"
+  },
+  {
+    "id": 16,
+    "name": "SWORNOF Womens Kanjivaram Silk Saree with Zari Woven Saree With Blouse Piece",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "Saree",
+    "brand": "SWORNOF",
+    "sizes": [],
+    "colors": ["black", "green"],
+    "material": "silk",
+    "country of origin": "india",
+    "fit": "Regular",
+    "inBox": "1 x saree",
+    "detailsAboutThisItem": [
+      "Features : Saree With Blouse Piece",
+      "Style : The Texture And Weight Of The Saree Brings Image Prints One Step Closer To The Originals And Invites Attention",
+      "Occasion : Sarees for women, festive, traditional saree. Best birth-day gift for your loved ones. Each piece is elegantly crafted and will surely add to your wardrobe"
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/51P17NUCNUL.jpg",
+          "https://m.media-amazon.com/images/I/91ZHu3nTBAL._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/91ecekucpNL._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/91z+h+yuV-L._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/81XkzxQ2u1L._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/91jvzRUg13L._SY679_.jpg"
+        ]
+      },
+      {
+        "color": "green",
+        "links": [
+          "https://m.media-amazon.com/images/I/81i+QEpFLSL._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/81rcSqOYf7L._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/9133TR1y-QL._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/91b7OtFWm1L._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/91mZ1WcpTaL._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/91pD498ZuHL._SY679_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": 4999,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "45%"
+  }
 ]
