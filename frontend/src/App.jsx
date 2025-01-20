@@ -1,14 +1,7 @@
 import React from "react";
-import Slider from "./components/slider";
-import Products from "./components/products";
 
 function App() {
-  return (
-    <div>
-      <Slider />
-      <Products />
-    </div>
-  );
+  return <div>app component</div>;
 }
 
 export default App;

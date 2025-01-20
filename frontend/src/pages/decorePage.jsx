@@ -1,7 +1,22 @@
-import React, { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
+import { useDispatch } from "react-redux";
+import { useNavigate } from "react-router-dom";
+import {
+  addApiLink,
+  addSubCategory,
+  addProductType,
+} from "../slices/categoryDetailsSlice";
 import axios from "axios";
+
 function DecorePage() {
   const [decoreHomePageData, setDecoreHomePageData] = useState([]);
+  const navigate = useNavigate();
+  const dispatch = useDispatch();
+  useEffect(() => {
+    dispatch(addApiLink("http://localhost:3000/api/products/homedecore"));
+    dispatch(addSubCategory("curtains"));
+    dispatch(addProductType(""));
+  }, []);
 
   const decoreHomePageApiCall = async () => {
     await axios
@@ -10,7 +25,11 @@ function DecorePage() {
       .catch((error) => console.log("ERROR FROM DECORE HOME  PAGE : ", error));
   };
   decoreHomePageData.length === 0 && decoreHomePageApiCall();
-  console.log(decoreHomePageData);
+
+  const handleImageClick = () => {
+    navigate("/productListings");
+  };
+
   return (
     <section>
       {/* all decore banner */}
@@ -40,6 +59,7 @@ function DecorePage() {
                   src={elm.image}
                   alt={elm.name}
                   className=" hover:scale-105 cursor-pointer  transition-all duration-[500ms]"
+                  onClick={() => handleImageClick()}
                 />
               </div>
             ))}
@@ -78,7 +98,7 @@ function DecorePage() {
               <img
                 src={elm.image}
                 alt={elm.name}
-                className=" hover:scale-105 cursor-pointer  transition-all duration-[500ms]"
+                className=" hover:scale-105 cursor-pointer  transition-all duration-[500ms] "
               />
             </div>
           ))}

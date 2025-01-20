@@ -60,23 +60,53 @@
   },
   {
     "id": 2,
-    "name": "Women's Dress",
+    "name": "GoSriKi Women's Cotton Blend Anarkali Embroidered Kurta with Pant & Dupatta",
     "category": "Clothing",
     "subCategory": "Women",
-    "productType": "Dress",
-    "brand": "Brand B",
+    "productType": "Kurta",
+    "brand": "GoSriKi",
     "sizes": ["S", "M", "L", "XL"],
-    "colors": ["Black", "White"],
-    "material": "Polyester",
-    "country of origin": "germany",
-    "fit": "Slim",
-    "inBox": "1 x Dress",
+    "colors": ["purple", "blue", "red"],
+    "material": "Cotton Blend",
+    "country of origin": "india",
+    "fit": "Regular fit",
+    "inBox": "1 x kurta",
     "detailsAboutThisItem": ["Elegant design", "Comfortable fit"],
-    "description": "Stylish dress for women.",
-    "specialPromotionalImages": ["promo2.jpg"],
+    "description": "Have a Variety of Kurta Set in Your Collection to Accommodate Changing Weather Conditions Western Wear, Party Wear, Birthday Wear, Outdoor Wear, Summer Special Western Wear, Beach, Holiday This Shirt Separately Too, This Kurta Set Gives You a Comfortable and Soft Feel, So You Can Wear It All Day Long. the Pants Are Constructed with the Trending Style and the Top Offers You Crop Top Casual Look. This Kurta Set Is a Best Buy for Your Collection, Which Is an Ultimate Go-To Statement Attire for Day to Day Look This Ethnic Kurta Set for Women Has a Color Neckline and Is a Perfect Option to Go for This Season, His Shirt & Bottom for Women Comes with Regular Fit, Crafted with Attention to Detail, This Office Wear Kurta Set for Women Features a Beautifully Tailored Kurta with a Straight Silhouette. Whether You're Looking for a Casual Kurta Set for Your Everyday Wear or a Chic and Simple Kurta Set for Women, Our Collection Offers a Wide Range of Options Suitable for Various Occasions He Pants Are Constructed with the Trending Style and the Shirt Kurta Offers You Crop Top Casual Look. This Ethnic Kurti-Pant Set Is a Best Buy for Your Collection, Which Is an Ultimate Go-To Statement Attire for Day to Day Look.",
+    "specialPromotionalImages": [],
     "images": [
-      { "color": "Black", "links": ["black1.jpg", "black2.jpg"] },
-      { "color": "White", "links": ["white1.jpg", "white2.jpg"] }
+      {
+        "color": "purple",
+        "links": [
+          "https://m.media-amazon.com/images/I/61kvXNqLkrL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71og2xGD0nL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81COhlYfmyL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71K4lVJm9fL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81xgZ4zNLqL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81jWhUvpF3L._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/71n39TMOM9L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/819m453ZnTL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81feT27Y-AL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71LVFXfu-9L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81dJwUVyn3L._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "red",
+        "links": [
+          "https://m.media-amazon.com/images/I/61qHGk3gmgL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71QSOJe6m8L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71zrOCGSn+L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71EBeh08x7L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Ja-BQIDvL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71sBVH8VbTL._SY741_.jpg"
+        ]
+      }
     ],
     "reviews": [
       {
@@ -93,7 +123,7 @@
         }
       }
     ],
-    "price": "$49.99",
+    "price": 2599,
     "availability": "50",
     "warranty": "6 months",
     "customerServiceContact": "support@brandB.com",
@@ -101,11 +131,11 @@
     "productDimensions": {
       "length": "36 in",
       "chest": "38 in",
-      "sleeveLength": "Sleeveless",
+      "sleeveLength": "half",
       "weight": "300g"
     },
     "additionalFeatures": ["Wrinkle-free fabric"],
-    "discountsOrOffers": "Buy 1 get 1 50% off"
+    "discountsOrOffers": "68%"
   },
   {
     "id": 3,
@@ -179,22 +209,39 @@
   },
   {
     "id": 4,
-    "name": "Men's Jeans",
+    "name": "Lee Men's Eric Skinny Fit Low-Rise Jeans",
     "category": "Clothing",
     "subCategory": "Men",
-    "productType": "Bottom",
-    "brand": "Brand D",
+    "productType": "jeans",
+    "brand": "Lee",
     "sizes": ["30", "32", "34", "36"],
-    "colors": ["Blue", "Black"],
-    "material": "Denim",
+    "colors": ["Blue"],
+    "material": "Cotton Blend",
     "fit": "Slim",
     "inBox": "1 x Jeans",
-    "detailsAboutThisItem": ["Durable fabric", "Comfortable fit"],
+    "detailsAboutThisItem": [
+      "Lee Strech Denim Skinny Fit Men Jeans",
+      "Blue Men Solid Woven Jean"
+    ],
     "description": "Stylish slim-fit jeans for men.",
-    "specialPromotionalImages": ["promo4.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media/sota/ee879690-628b-480d-b8ad-9b2dd6b5b0bd.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/0dc371ab-52cf-487d-922f-e6d77d1d5ebc.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/5b928b69-9aba-4215-81fe-ddbd03e1158c.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/eb98462d-5802-44e7-bd98-d1d66758976c.__CR0,0,970,300_PT0_SX970_V1___.jpg",
+      "https://m.media-amazon.com/images/S/aplus-media/sota/d17aa363-9448-47be-9636-fd5b6d63eab0.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+    ],
     "images": [
-      { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] },
-      { "color": "Black", "links": ["black1.jpg", "black2.jpg"] }
+      {
+        "color": "Blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/41m3qlpBWHL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51e9b0Od86L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/519jB-7lUAL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/41ZmYwBU+pL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61refJzE3hL._SX679_.jpg"
+        ]
+      }
     ],
     "reviews": [
       {
@@ -211,7 +258,7 @@
         }
       }
     ],
-    "price": 1560,
+    "price": 3599,
     "availability": "50",
     "warranty": "1 year",
     "customerServiceContact": "support@brandD.com",
@@ -223,11 +270,11 @@
       "weight": "500g"
     },
     "additionalFeatures": ["Stretchable fabric"],
-    "discountsOrOffers": "20% off on second pair"
+    "discountsOrOffers": "55%"
   },
 
   {
-    "id": 3,
+    "id": 5,
     "name": "Hopscotch Boys Regular Fit Cotton Checkered Shirt",
     "category": "Clothing",
     "subCategory": "Kids",
@@ -286,23 +333,36 @@
     "discountsOrOffers": "32%"
   },
   {
-    "id": 4,
-    "name": "Men's Jeans",
+    "id": 6,
+    "name": "Manyavar Men's Fabric Banded Collar",
     "category": "Clothing",
     "subCategory": "Men",
-    "productType": "Bottom",
-    "brand": "Brand D",
+    "productType": "kurta",
+    "brand": "manyavar",
     "sizes": ["32", "34", "36", "38"],
     "colors": ["Blue", "Black"],
-    "material": "Denim",
-    "fit": "Slim",
-    "inBox": "1 x Jeans",
-    "detailsAboutThisItem": ["Stretchable fabric", "Classic fit"],
-    "description": "Stylish slim-fit jeans for men.",
-    "specialPromotionalImages": ["promo4.jpg"],
+    "material": "silk",
+    "fit": "Regular fit",
+    "inBox": "1 x kurta",
+    "detailsAboutThisItem": [
+      "Made from Fine Quality Fabric",
+      "Festive/Celebration Wear",
+      "Sales Package : 1 Kurta, 1 Churidar, 1 Nehru Jacket"
+    ],
+    "description": "Stylish regular-fit kurta for men.",
+    "specialPromotionalImages": [],
     "images": [
-      { "color": "Blue", "links": ["blue1.jpg", "blue2.jpg"] },
-      { "color": "Black", "links": ["black1.jpg", "black2.jpg"] }
+      {
+        "color": "cream",
+        "links": [
+          "https://m.media-amazon.com/images/I/717x1nx289L._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/71RFD3Tp4BL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/816xNHXyT3L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/A1iWYXkeFlL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/71--iFiphVL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/91BfaWWmYhL._SY741_.jpg"
+        ]
+      }
     ],
     "reviews": [
       {
@@ -319,7 +379,7 @@
         }
       }
     ],
-    "price": "$39.99",
+    "price": 6999,
     "availability": "50",
     "warranty": "1 year",
     "customerServiceContact": "support@brandD.com",
@@ -331,26 +391,62 @@
       "weight": "500g"
     },
     "additionalFeatures": ["Fade-resistant"],
-    "discountsOrOffers": "Free shipping on orders over $75"
+    "discountsOrOffers": "29%"
   },
   {
-    "id": 5,
-    "name": "Women's Blouse",
+    "id": 7,
+    "name": "KANJARI Women's Gorgette Regular Fit Full Length Embroided Dress Set | Sleevless Blouse Skirt and Shrug Dress Set with Elegant Design for Wedding, Parties, Traditional, Festivals, Family Functions",
     "category": "Clothing",
     "subCategory": "Women",
-    "productType": "Top",
-    "brand": "Brand E",
+    "productType": "dress",
+    "brand": "KANJARI",
     "sizes": ["S", "M", "L", "XL"],
-    "colors": ["White", "Pink"],
+    "colors": ["black", "Pink", "yellow"],
     "material": "Silk",
     "fit": "Loose",
     "inBox": "1 x Blouse",
     "detailsAboutThisItem": ["Elegant design", "Soft and smooth fabric"],
     "description": "Chic silk blouse for women.",
-    "specialPromotionalImages": ["promo5.jpg"],
+    "specialPromotionalImages": [
+      "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c9c9227b-81c7-4b38-81cd-edfbe9b773d7.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+    ],
     "images": [
-      { "color": "White", "links": ["white1.jpg", "white2.jpg"] },
-      { "color": "Pink", "links": ["pink1.jpg", "pink2.jpg"] }
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/51YLTqwDztL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61hxWPuqjiL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61lOjJ5tefL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61kf0I-wYlL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61xiYu4UXsL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61VtKUN9eiL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61RZ6O9+u-L._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "Pink",
+        "links": [
+          "https://m.media-amazon.com/images/I/515xoy-ROZL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61dbJbWscCL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61t0g1RHHHL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61UETz0n9WL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61OmZsxsMyL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61h3PsQ7vxL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61lyNt6LyyL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "yellow",
+        "links": [
+          "https://m.media-amazon.com/images/I/51PwtsIAkcL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Ja+UqQxoL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61rUdtSeHjL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61uyjx-dbsL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61XuDjh9QFL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61-tlz4UAYL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/614v7tixJrL._SY741_.jpg"
+        ]
+      }
     ],
     "reviews": [
       {
@@ -367,7 +463,7 @@
         }
       }
     ],
-    "price": "$59.99",
+    "price": 999,
     "availability": "50",
     "warranty": "6 months",
     "customerServiceContact": "support@brandE.com",
@@ -379,14 +475,109 @@
       "weight": "150g"
     },
     "additionalFeatures": ["Dry-clean only"],
-    "discountsOrOffers": "20% off on second purchase"
+    "discountsOrOffers": "25%"
+  },
+
+  {
+    "id": 8,
+    "name": "Manyavar Knee-Long Self-Designed Kurta Set for Men",
+    "category": "Clothing",
+    "subCategory": "Men",
+    "productType": "kurta",
+    "brand": "manyavar",
+    "sizes": ["32", "34", "36", "38"],
+    "colors": ["Blue", "white", "maroon", "green"],
+    "material": "silk",
+    "fit": "Regular fit",
+    "inBox": "1 x kurta",
+    "detailsAboutThisItem": [
+      "Made from Fine Quality Fabric",
+      "Festive/Celebration Wear",
+      "Sales Package : 1 Kurta, 1 Churidar, 1 Nehru Jacket"
+    ],
+    "description": "Stylish regular-fit kurta for men.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/71PjNFzDUqL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Wp8EfBhHL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71ejhHbY-QL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61XDtKkfZbL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/91LEzDFIQ4L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81MlDEshD7L._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "green",
+        "links": [
+          "https://m.media-amazon.com/images/I/818K49cU8eL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81Rmtg9+8PL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/910KZXnqP4L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/91qucUWMYNL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71O631-ibUL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81Vuw5fd8PL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "maroon",
+        "links": [
+          "https://m.media-amazon.com/images/I/61Qj3pTXTeL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71TU1K3VlAL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/91Pmjg-HfqL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81dpoTSR9xL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61NUWdiwqqL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71O631-ibUL._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "white",
+        "links": [
+          "https://m.media-amazon.com/images/I/71xPzlS3UhL._SX569_.jpg",
+          "https://m.media-amazon.com/images/I/710kVU-8qOL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71yjxZ2dN7L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71JlNKczyXL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61vMCkl-PuL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/818LcQIaS-L._SY741_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u4",
+          "name": "David Johnson",
+          "date": "2025-01-18",
+          "country": "Australia"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Perfect fit",
+          "body": "These jeans fit perfectly and are very comfortable."
+        }
+      }
+    ],
+    "price": 6999,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandD.com",
+    "shippingDetails": { "cost": "$7", "estimatedDelivery": "3-5 days" },
+    "productDimensions": {
+      "length": "40 in",
+      "waist": "32 in",
+      "hip": "38 in",
+      "weight": "500g"
+    },
+    "additionalFeatures": ["Fade-resistant"],
+    "discountsOrOffers": "29%"
   },
   {
-    "id": 6,
+    "id": 9,
     "name": "Lymio Women Elegant Long Dress",
     "category": "Clothing",
     "subCategory": "women",
-    "productType": "dress",
+    "productType": "t-shirt",
     "brand": "Lymio",
     "sizes": ["L", "XL"],
     "colors": ["black"],
@@ -430,7 +621,7 @@
         }
       }
     ],
-    "price": "$24.99",
+    "price": 750,
     "availability": "50",
     "warranty": "1 year",
     "customerServiceContact": "support@brandF.com",
@@ -442,10 +633,10 @@
       "weight": "300g"
     },
     "additionalFeatures": ["Machine washable"],
-    "discountsOrOffers": "10% off on orders over $50"
+    "discountsOrOffers": "25%"
   },
   {
-    "id": 7,
+    "id": 10,
     "name": "Lymio Casual Shirt for Men|| Regular Fit Shirt for Men|| Men Stylish Shirt (Rib-Shirt)",
     "category": "Clothing",
     "subCategory": "Men",
@@ -537,7 +728,7 @@
     "discountsOrOffers": "90%"
   },
   {
-    "id": 8,
+    "id": 11,
     "name": "Max Boy's Regular Fit T-Shirt",
     "category": "Clothing",
     "subCategory": "Kids",
@@ -594,7 +785,7 @@
     "discountsOrOffers": "30%"
   },
   {
-    "id": 9,
+    "id": 12,
     "name": "TAGAS Boy's Floral Regular Fit Shirt",
     "category": "Clothing",
     "subCategory": "Kids",
@@ -671,7 +862,7 @@
     "discountsOrOffers": "64%"
   },
   {
-    "id": 10,
+    "id": 13,
     "name": "UNITED COLORS OF BENETTON Boy's Solid Regular Fit T-Shirts",
     "category": "Clothing",
     "subCategory": "Kids",
@@ -729,7 +920,7 @@
     "discountsOrOffers": "75%"
   },
   {
-    "id": 11,
+    "id": 14,
     "name": "Bewakoof Men's Baggy Regular Fit Cargo Jeans",
     "category": "Clothing",
     "subCategory": "mens",
@@ -809,7 +1000,212 @@
     "discountsOrOffers": "59%"
   },
   {
-    "id": 12,
+    "id": 15,
+    "name": "tweedle Men 's Fine Wool Kashmiri Embroidery Shawl/Stole, Warm and Soft Scarf, Medium Size",
+    "category": "Clothing",
+    "subCategory": "mens",
+    "productType": "Shawl",
+    "brand": "tweedle",
+    "sizes": [],
+    "colors": ["blue", "black"],
+    "material": "cotton",
+    "fit": "Regular",
+    "inBox": "1 x jeans",
+    "country of origin": "india",
+    "detailsAboutThisItem": [
+      " Regular fit - Fits just right - not too tight, not too loose.",
+      " Denim - soft and breathable for maximum comfort.",
+      "Embrace the rugged charm by pairing these jeans with a basic t-shirt and chunky sneakers. For an added style quotient, throw on a utility jacket, and you're ready to own the streets"
+    ],
+    "description": "Comfortable fleece hoodie for kids.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "blue",
+        "links": [
+          "https://m.media-amazon.com/images/I/71UfmakpqcL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71L9VviQ1AL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71ylPpBKnvL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71jGCWjjB7L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/91POptpiJ0L._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/81rTXCjbbnL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/710SV8hnwwL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71WYetRBgsL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/713KsJ5okcL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/916x4vWyJXL._SY741_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-16",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
+        }
+      }
+    ],
+    "price": 3999,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "55%"
+  },
+  {
+    "id": 16,
+    "name": "tweedle Mens Ethnic Kashmiri Paisley Design Shawl/Stole, Fusion Wear Wrap for Gents, Stylish wrap/Dupatta for Kurta",
+    "category": "Clothing",
+    "subCategory": "mens",
+    "productType": "Shawl",
+    "brand": "tweedle",
+    "sizes": [],
+    "colors": ["black"],
+    "material": "acrylic fiber",
+    "fit": "relexed",
+    "inBox": "1 x Shawl",
+    "country of origin": "india",
+    "detailsAboutThisItem": [
+      " This is a large size shawl, perfect for wrapping around shoulders and providing complete comfort. It is 80 inches in length and 40 inches in width..",
+      " This men’s shawl is made using fine quality acrylic fiber. The Fusion design shawl with floral, paisley and geometric patterns is a must have in your wardrobe. Ideal give away for anniversary celebrations and weddings.",
+      "Ideal for teaming up with both traditional Indian attires like Jodhpuri Suits, Kurta Pyjama & and also modern Western outfits. It can be innovatively adorned as a stylish muffler or scarf for young boys and men."
+    ],
+    "description": "Tweedle brings for you this fine quality Acrylic woven pashmina style Stole / Shawl / Wrap which is a great accessory to have this winter to wear on both formal and casual occasions. It is a great accompaniment for your party, evening or daily wear. It’s very versatile and one can be really imaginative in the way to drape this on oneself. The design is truly elegant and contemporary. It’s an ideal gift for your near and dear ones.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/71juwchrB+L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/715lYIEW2SL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Iu+JmOFfL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71I+foXWZzL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/913HtmZfunL._SY741_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-16",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
+        }
+      }
+    ],
+    "price": 1999,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "59%"
+  },
+  {
+    "id": 17,
+    "name": "Kvetoo Men High Neck Zipper Full Sleeve Woolen Winter Sweater",
+    "category": "Clothing",
+    "subCategory": "mens",
+    "productType": "Sweater",
+    "brand": "Kvetoo",
+    "sizes": ["S", "M", "L", "xl"],
+    "colors": ["Beige", "white"],
+    "material": "Acrylic",
+    "fit": "Regular",
+    "inBox": "1 x Sweater",
+    "country of origin": "india",
+    "detailsAboutThisItem": [
+      "Instructions: Hand Wash",
+      "Sleeve: Long Sleeve",
+      "Fit Type: Regular"
+    ],
+    "description": "Comfortable fleece hoodie for kids.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "beige",
+        "links": [
+          "https://m.media-amazon.com/images/I/61AflzJtokL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71js5VQ36DL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/615UnlQOiyL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61JacZUR7dL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61opUsRsl-L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71R6tGj9tcL._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "white",
+        "links": [
+          "https://m.media-amazon.com/images/I/61YR9v3i5NL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71js5VQ36DL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/614dqhc7iHL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61r+CqfuAiL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61wjCOBBuQL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61o0hDb+TsL._SY741_.jpg"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "user": {
+          "id": "u3",
+          "name": "Alice Brown",
+          "date": "2025-01-16",
+          "country": "Canada"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great for kids",
+          "body": "My child loves it and wears it all the time."
+        }
+      }
+    ],
+    "price": 2499,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandC.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "20 in",
+      "chest": "30 in",
+      "sleeveLength": "15 in",
+      "weight": "250g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "59%"
+  },
+  {
+    "id": 18,
     "name": "Amazon Brand - Myx Women's Rayon Straight Embroidered Regular Fit Kurta in Cotton",
     "category": "Clothing",
     "subCategory": "women",
@@ -891,7 +1287,7 @@
     "discountsOrOffers": "20%"
   },
   {
-    "id": 13,
+    "id": 19,
     "name": "The Souled Store Solids: Women and Girls Full Sleeve Collared Neck Cotton Blend Polos",
     "category": "Clothing",
     "subCategory": "women",
@@ -958,7 +1354,7 @@
     "discountsOrOffers": "47%"
   },
   {
-    "id": 14,
+    "id": 20,
     "name": "VIMAL JONNEY Fleece Regular Fit Printed Crew Neck Sweatshirt For Women-VIMAL639948",
     "category": "Clothing",
     "subCategory": "women",
@@ -1036,7 +1432,7 @@
         }
       }
     ],
-    "price": "$24.99",
+    "price": 1499,
     "availability": "50",
     "warranty": "1 year",
     "customerServiceContact": "support@brandF.com",
@@ -1048,10 +1444,10 @@
       "weight": "300g"
     },
     "additionalFeatures": ["Machine washable"],
-    "discountsOrOffers": "10% off on orders over $50"
+    "discountsOrOffers": "25%"
   },
   {
-    "id": 15,
+    "id": 21,
     "name": "TEEJH Vaanshi Ombre Organza Saree|Orange",
     "category": "Clothing",
     "subCategory": "women",
@@ -1117,7 +1513,7 @@
     "discountsOrOffers": "40%"
   },
   {
-    "id": 16,
+    "id": 22,
     "name": "SWORNOF Womens Kanjivaram Silk Saree with Zari Woven Saree With Blouse Piece",
     "category": "Clothing",
     "subCategory": "women",
@@ -1177,6 +1573,288 @@
       }
     ],
     "price": 4999,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "45%"
+  },
+  {
+    "id": 23,
+    "name": "GoSriKi Women's Rayon Blend Anarkali Solid Kurta with Pant & Dupatta",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "kurta",
+    "brand": "GoSriKi",
+    "sizes": [],
+    "colors": ["red", "Black"],
+    "material": "silk",
+    "country of origin": "india",
+    "fit": "Regular",
+    "inBox": "1 x anarkali Kurta",
+    "detailsAboutThisItem": [
+      "Ocassion: Traditional wear, Casual Wear, party wear, evening wear,Please Click On Brand Name GoSriKi For More Products",
+      "Colour Declaration : There might be slight variation in the actual color of the product due to different screen resolutions",
+      "This set includes: 1 Kurta and 1 Pant with Dupatta || Work :- Solid & Printed Dupatta || Neck Style:- U-Neck"
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "red",
+        "links": [
+          "https://m.media-amazon.com/images/I/71JrdJxQyWL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81EjL9BJArL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81h6PzTaosL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/817aRw-G9NL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81RHPFUj3BL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81jWhUvpF3L._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/51v9UVpvJ9L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81T4zOGZ-8L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81XJCabtaoL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81ncSWfAP1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71s+zUDR4CL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81jWhUvpF3L._SX679_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": 4999,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "45%"
+  },
+  {
+    "id": 24,
+    "name": "Azira Floral Printed Georgette Shrug",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "Shrug",
+    "brand": "Azira",
+    "sizes": ["34"],
+    "colors": ["black"],
+    "material": "Polyester",
+    "country of origin": "india",
+    "fit": "Regular",
+    "inBox": "1 x saree",
+    "detailsAboutThisItem": [
+      "Care Instructions: Hand Wash Only",
+      "Fit Type: Regular"
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/516QG0bQEwL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51mJGhPcRNL._SY679_.jpg",
+          "https://m.media-amazon.com/images/I/51+fUfU864L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51zEeRMF1RL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/518vtd9pWBL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/51ThjxaryvL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61zIAf+xejL._SX679_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": 2350,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "40%"
+  },
+  {
+    "id": 25,
+    "name": "Azira Ethnic Motifs Printed Longline Front Open Pure Cotton Shrug",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "Shrug",
+    "brand": "Azira",
+    "sizes": [],
+    "colors": ["red", "black", "gray"],
+    "material": "silk",
+    "country of origin": "india",
+    "fit": "relexed",
+    "inBox": "1 x shrug dress",
+    "detailsAboutThisItem": [
+      "Care Instructions: Hand Wash Only",
+      "Fit Type: Regular"
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "red",
+        "links": [
+          "https://m.media-amazon.com/images/I/61ALF7JOjmL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71hnEW71s7L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71q4Wf3PR-L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/71Pr-dhiSTL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/61F072Kqk5L._SY741_.jpg"
+        ]
+      },
+      {
+        "color": "black",
+        "links": [
+          "https://m.media-amazon.com/images/I/61FS4WaRWQL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61gg5AwBT1L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61Ey0cMPtVL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61sjQs-U7+L._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/61qGwbGwymL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81D0zpcApeL._SX679_.jpg"
+        ]
+      },
+      {
+        "color": "gray",
+        "links": [
+          "https://m.media-amazon.com/images/I/719mheuydUL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71fbSh6FGkL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71SEHY4sFTL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71-BYLsf7yL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/71F-uTgKjDL._SX679_.jpg",
+          "https://m.media-amazon.com/images/I/81q6SNXOuuL._SX679_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": 1399,
+    "availability": "50",
+    "warranty": "1 year",
+    "customerServiceContact": "support@brandF.com",
+    "shippingDetails": { "cost": "$6", "estimatedDelivery": "4-6 days" },
+    "productDimensions": {
+      "length": "30 in",
+      "waist": "25 in",
+      "hip": "30 in",
+      "weight": "300g"
+    },
+    "additionalFeatures": ["Machine washable"],
+    "discountsOrOffers": "30%"
+  },
+  {
+    "id": 26,
+    "name": "MANHAREE | Women's Rayon Anarkali Kurta with Pant & Dupatta Set",
+    "category": "Clothing",
+    "subCategory": "women",
+    "productType": "Kurta",
+    "brand": "MANHAREE",
+    "sizes": ["S", "L", "XL"],
+    "colors": ["red", "black", "gray"],
+    "material": "silk",
+    "country of origin": "india",
+    "fit": "relexed",
+    "inBox": "1 x shrug dress",
+    "detailsAboutThisItem": [
+      "Care Instructions: Hand Wash Only",
+      "Fit Type: Regular"
+    ],
+    "description": "DISCLAIMER: The images shown are for representational purposes only. Please note that the colour of the product may slightly vary in comparison to the picture shown on the website due to various reasons which may include different lighting and devices during photo-shoot and also the colour settings and resolution of your own monitor screen. It is also important to note that we thrive to bring you the best, but, there may be a little difference in terms of fabric and colour, Wash Care: The Dry clean is recommended.",
+    "specialPromotionalImages": [],
+    "images": [
+      {
+        "color": "red",
+        "links": [
+          "https://m.media-amazon.com/images/I/81ptcasUD1L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81WYKiWYMOL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81rhXvion1L._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81MHqNIA8GL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/913b-RK8bFL._SY741_.jpg",
+          "https://m.media-amazon.com/images/I/81ksAsmWpLL._SY741_.jpg"
+        ]
+      }
+    ],
+
+    "reviews": [
+      {
+        "user": {
+          "id": "u6",
+          "name": "Chris Lee",
+          "date": "2025-01-22",
+          "country": "Germany"
+        },
+        "rating": 5,
+        "comment": {
+          "heading": "Great quality",
+          "body": "These joggers are perfect for my kids."
+        }
+      }
+    ],
+    "price": 3500,
     "availability": "50",
     "warranty": "1 year",
     "customerServiceContact": "support@brandF.com",

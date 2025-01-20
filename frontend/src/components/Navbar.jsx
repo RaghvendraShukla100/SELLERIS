@@ -1,14 +1,15 @@
 import React, { useState } from "react";
 import { IoLocationSharp, IoCart, IoMenuSharp } from "react-icons/io5";
 import { FaCaretDown } from "react-icons/fa";
-import { useNavigate } from "react-router-dom"; // Corrected import
+import { useNavigate } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 
 const thirdNavSection = {
   clothings: ["mens", "womens", "kids", "girls", "boys"],
   electronics: ["mobile", "laptop", "tv"],
   furnitures: ["chair", "table", "sofa", "cupboard"],
-  "beauti&skincare": ["face wash", "soap", "lotion"],
-  homedecore: [
+  beautySkincares: ["face wash", "soap", "lotion"],
+  homedecores: [
     "curtains",
     "bed linen",
     "paintings",
@@ -25,6 +26,7 @@ function Navbar() {
 
   const handleCategoryClick = (e) => {
     const value = e.target.getAttribute("value");
+    console.log(value);
     setThirdNavHeading(value);
     setVisibleNav(true);
     setThirdNavData(thirdNavSection[value] || []);
@@ -116,17 +118,25 @@ function Navbar() {
           <div className="mx-5 capitalize">
             <ul className="flex space-x-4">
               {Object.keys(thirdNavSection).map((category) => (
-                <li
+                <NavLink
                   key={category}
-                  value={category}
-                  className="cursor-pointer"
-                  onClick={handleCategoryClick}
+                  to={category}
+                  className={({ isActive }) =>
+                    isActive ? "border " : "border border-transparent"
+                  }
                 >
-                  {category}
-                </li>
+                  <li
+                    value={category}
+                    className="cursor-pointer uppercase font-semibold px-3"
+                    onClick={handleCategoryClick}
+                  >
+                    {category}
+                  </li>
+                </NavLink>
               ))}
             </ul>
           </div>
+
           <div className="h-9 w-96 ml-auto overflow-clip">
             <img
               src="https://m.media-amazon.com/images/G/31/Events/img25/janART25/SWM_SHOP-NOW._CB552728778_.jpg"

@@ -26,7 +26,7 @@ function Products() {
 
   products.length == 0 && fetchProducts();
   // console.log(products.brandOfferListMens);
-  console.log(catData);
+  // console.log(catData);
   return (
     <>
       <section>

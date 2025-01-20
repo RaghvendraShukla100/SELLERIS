@@ -11,7 +11,7 @@ import WomensPage from "./pages/womensPage.jsx";
 import ClothingPage from "./pages/clothingPage.jsx";
 import ElectronicsPage from "./pages/electronicsPage.jsx";
 import FurnituresPage from "./pages/furnituresPage.jsx";
-import BeautySkincarePage from "./pages/BeautySkincarePage.jsx";
+import BeautySkincarePage from "./pages/beautySkincarePage.jsx";
 import DecorePage from "./pages/decorePage.jsx";
 import Footer from "./components/Footer.jsx";
 import ProductListingPage from "./pages/productListingPage.jsx";
@@ -23,14 +23,14 @@ createRoot(document.getElementById("root")).render(
         <Navbar />
         <Routes>
           <Route path="/" element={<App />} />
-          <Route path="/menspage" element={<MensPage />} />
-          <Route path="/womenspage" element={<WomensPage />} />
-          <Route path="/clothingPage" element={<ClothingPage />} />
-          <Route path="/electronicsPage" element={<ElectronicsPage />} />
-          <Route path="/furnituresPage" element={<FurnituresPage />} />
-          <Route path="/beautySkincarePage" element={<BeautySkincarePage />} />
-          <Route path="/decoreHomePage" element={<DecorePage />} />
-          <Route path="/productListingPage" element={<ProductListingPage />} />
+          <Route path="/mens" element={<MensPage />} />
+          <Route path="/womens" element={<WomensPage />} />
+          <Route path="/clothings" element={<ClothingPage />} />
+          <Route path="/electronics" element={<ElectronicsPage />} />
+          <Route path="/furnitures" element={<FurnituresPage />} />
+          <Route path="/beautySkincares" element={<BeautySkincarePage />} />
+          <Route path="/homedecores" element={<DecorePage />} />
+          <Route path="/productListings" element={<ProductListingPage />} />
         </Routes>
         <Footer />
       </BrowserRouter>

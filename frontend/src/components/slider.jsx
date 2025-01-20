@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./Slider.css"; // Import the CSS file for styling
+import { Divide } from "lucide-react";
 
 const images = [
   "https://m.media-amazon.com/images/G/31/MA2025/JanArt/Steal_deals/HERO/1_Most-Loved_Brands__PC._CB552631118_.png",
@@ -22,7 +23,7 @@ function Slider() {
   }, []);
 
   return (
-    <div className="relative w-4/5 mx-auto overflow-hidden rounded-lg">
+    <div className="relative w-9/12 mx-auto overflow-hidden rounded-lg">
       <div
         className="slider-container"
         style={{ transform: `translateX(-${currentIndex * 100}%)` }}
