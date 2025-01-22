@@ -15,6 +15,7 @@ import BeautySkincarePage from "./pages/beautySkincarePage.jsx";
 import DecorePage from "./pages/decorePage.jsx";
 import Footer from "./components/Footer.jsx";
 import ProductListingPage from "./pages/productListingPage.jsx";
+import ProductDetailsPage from "./pages/productDetailsPage.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -31,6 +32,7 @@ createRoot(document.getElementById("root")).render(
           <Route path="/beautySkincares" element={<BeautySkincarePage />} />
           <Route path="/homedecores" element={<DecorePage />} />
           <Route path="/productListings" element={<ProductListingPage />} />
+          <Route path="/productDetails" element={<ProductDetailsPage />} />
         </Routes>
         <Footer />
       </BrowserRouter>
