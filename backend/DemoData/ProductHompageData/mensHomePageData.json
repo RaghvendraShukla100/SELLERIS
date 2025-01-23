@@ -1,0 +1,310 @@
+{
+  "mainBannerSlider": [
+    "https://m.media-amazon.com/images/G/31/MA2025/UBS/JAN/INGRESS/T-shirts_jeans_and_more__1500x460._CB551772543_.png",
+    "https://m.media-amazon.com/images/G/31/img24/MA/dec/extra/Lacoste_bxgy_1500x460._CB553615086_.png",
+    "https://m.media-amazon.com/images/G/31/img21/MA2024/AF_BAU/top_pcl_1500x460._CB542287683_.png",
+    "https://m.media-amazon.com/images/G/31/img24/MA/sept/winterstore/PC-Men-Ingress._CB542302304_.gif"
+  ],
+  "productsByCategory": [
+    {
+      "name": "t-shirt",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Trendy_T-shirts_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "casual shirts",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Casual_Shirts_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "jense",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Denim_Faves__978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "sportswears",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Sports_wear_copy_1_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "formal shirts",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Formal_Shirts_copy_1_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "oversized t-shirts",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Oversized_T-Shirts_copy_1_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "kurtas",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Kurta__Sets_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "formal paints",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Formal_Trousers_copy_1_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "oversized sweatshirts",
+      "link": "https://m.media-amazon.com/images/G/31/img24/MA/Oct/BAU/winter/Oversized_sweatshirts_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "casual paints",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Casual_Trousers_copy_1_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "puffer jackets",
+      "link": "https://m.media-amazon.com/images/G/31/img24/MA/Oct/BAU/winter/Puffer_jackets_978x1420._SX564_QL85_FMpng_.png"
+    },
+    {
+      "name": "innerwears",
+      "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/BBD/Innerwear_copy_1_978x1420._SX564_QL85_FMpng_.png"
+    }
+  ],
+  "seasonalSection": {
+    "slider": [
+      "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/WINTER/HERO/winterjkts1500x460_pc._CB542345968_.png",
+      "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/WINTER/HERO/sweatshirtsandhoodies_1500x460_pc._CB542345968_.png",
+      "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/WINTER/HERO/oversizedsweatshirt_pc._CB542345968_.png",
+      "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/WINTER/HERO/cozy_sweaters_pc._CB542345968_.png",
+      "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/WINTER/HERO/Track_Suits_and_Jackets_1500x460_pc._CB542345968_.png"
+    ],
+    "label": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/WINTER/WINTER_PC._CB542346656_.jpg",
+    "data": [
+      {
+        "name": "allen solly",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_1_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "van heusen",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_2_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "columbia",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_3_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "puma",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_5_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "symbol",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_6_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "levis",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_7_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "u.s. polo assn",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_8_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "the souled store",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_9_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "bewakoof",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_10_978x1420._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "monte carlo",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Winterbrands/Variant_4_978x1420._SY530_QL85_FMpng_.png"
+      }
+    ]
+  },
+  "foreverWears": {
+    "label": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/foreverwearPC._CB542251311_.jpg",
+    "data": [
+      {
+        "name": "louis philippe",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/LP_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "levis",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/levis._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "u.s. polo assn",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/uspa._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "symbol premium",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/Symbol_Premium_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "levis",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/Levis_978x1587_1._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "marks & spencer",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/MandS_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "peter england",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/Peter_England_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "jack & jones",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/Jack__Jones_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "columbia",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/Columbia_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "allen solly",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/AS_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "van heusen",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/Van_Heusen_978x1587._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "max",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Truecore/MAX_978x1587._SY530_QL85_FMpng_.png"
+      }
+    ]
+  },
+  "premiumEdit": {
+    "label": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/Premium_Edit__pc._CB544027351_.jpg",
+    "data": [
+      {
+        "name": "tommy hilfiger",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_2_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "calvin klein",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_3_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "lacoste",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_4_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "symbol premium",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_9_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "columbia",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_6_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "andamen",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/andamen._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "ray ban",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_11_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "montblanc",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_12_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "ted baker",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_13_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "oakley",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_14_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "shisenfox",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_15_1205x1677._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "carrera",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/PREMIUMBRANDS/REV/Variant_16_1205x1677._SY530_QL85_FMpng_.png"
+      }
+    ]
+  },
+  "brandsInFocus": {
+    "label": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Shop_by_category_PC._CB542139003_.jpg",
+    "data": [
+      {
+        "name": "louis philippe",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/LP_379x550._CB542354411_.png"
+      },
+      {
+        "name": "the souled store",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/The_Souled_Store379x550._CB542353800_.png"
+      },
+      {
+        "name": "allen solly",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/Allen_Solly_379x550._CB542353800_.png"
+      },
+      {
+        "name": "levis",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/Levis_379x550._CB542353800_.png"
+      },
+      {
+        "name": "u.s. polo assn",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/USPolo_379x550._CB542353800_.png"
+      },
+      {
+        "name": "pepe geans",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/Pepe_Jeans__379x550._CB542355319_.png"
+      },
+      {
+        "name": "symbol premium",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/Symbol_Premium379x550._CB542353800_.png"
+      },
+      {
+        "name": "adidas",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/adidsa_379x550._CB542354166_.png"
+      },
+      {
+        "name": "XYXX",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/Brandsinfocus/XYXX_379x550._CB542353800_.png"
+      }
+    ]
+  },
+  "celebrityApproved": {
+    "label": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Celeb-Approved_Brands_1._CB542204392_.jpg",
+    "data": [
+      {
+        "name": "the souled store",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Hardik_Pandya_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "u.s. polo assn",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Arjun_Rampal_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "bewakoof",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Ishaan_Khattar_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "arrow",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Hrithik_Roshan_copy_1_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "adidas",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Rohit_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "reebok",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Suryakumar_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "XYXX",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/KL_Rahul_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "manyavar",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Ram_Charan_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "peter england",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Ayushman_Khurana_copy_1_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "damensch",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Damensch_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "being human",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Salman_Khan_1020x1400._SY530_QL85_FMpng_.png"
+      },
+      {
+        "name": "dennis lingo",
+        "link": "https://m.media-amazon.com/images/G/31/img21/MA2024/AW24FLIP/CELEBNEW/Ali_Fazal_1020x1400._SY530_QL85_FMpng_.png"
+      }
+    ]
+  }
+}

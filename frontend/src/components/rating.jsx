@@ -29,7 +29,13 @@ function Rating({ review }) {
     <div className="flex items-center">
       <h2> {rating.toFixed(1)}</h2>
       <div className="flex mx-1 items-center ">{stars}</div>
-      <div className="flex items-center">| {reviewCount}</div>
+      <div className="flex items-center">
+        {" "}
+        <span className="text-blue-700 mx-1 font-medium">
+          {" "}
+          {reviewCount} ratings
+        </span>
+      </div>
     </div>
   );
 }

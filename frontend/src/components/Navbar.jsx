@@ -19,7 +19,7 @@ const thirdNavSection = {
 };
 
 function Navbar() {
-  const navigate = useNavigate(); // Corrected usage
+  const navigate = useNavigate();
   const [visibleNav, setVisibleNav] = useState(false);
   const [thirdNavData, setThirdNavData] = useState([]);
   const [thirdNavHeading, setThirdNavHeading] = useState("");
@@ -40,8 +40,8 @@ function Navbar() {
 
   const handleThirdNavClick = (item) => {
     console.log("third nav is clicked", item);
-    item === "mens" && navigate("/menspage");
-    item === "womens" && navigate("/womenspage");
+    item === "mens" && navigate("/mens");
+    item === "womens" && navigate("/womens");
     item === "kids" && navigate("/kidspage");
     item === "boys" && navigate("/boyspage");
     item === "girls" && navigate("/girlspage");
@@ -111,10 +111,6 @@ function Navbar() {
       {/* second nav section */}
       <section className="bg-[#232f3f] text-gray-200">
         <div className="flex items-center w-full">
-          {/* hamburger icon */}
-          <div className="flex items-center h-9 p-2">
-            <IoMenuSharp className="cursor-pointer text-2xl" />
-          </div>
           <div className="mx-5 capitalize">
             <ul className="flex space-x-4">
               {Object.keys(thirdNavSection).map((category) => (
@@ -148,9 +144,13 @@ function Navbar() {
       </section>
       {/* third nav section */}
       {visibleNav && (
-        <section className="border flex items-center md:px-10 h-7">
-          <div className="font-semibold capitalize">{thirdNavHeading}</div>
-          <ul className="flex space-x-1 mx-2 capitalize py-1">
+        <section className=" flex items-center md:px-10 bg-gray-600 h-7">
+          {/* <div className="font-semibold capitalize">{thirdNavHeading}</div> */}
+          <ul
+            className="flex  space-x-1 mx-2 capitalize  
+            font-semibold py-1  text-gray-100
+            "
+          >
             {thirdNavData.map((item, index) => (
               <li
                 key={index}

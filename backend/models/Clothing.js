@@ -8,7 +8,7 @@ const clothingSchema = new Schema({
   category: { type: String, required: true },
   subCategory: { type: String, required: true },
   productType: { type: String, required: true },
-  occotionToWare: { type: String, required: true },
+  occasionToWear: { type: String, required: true },
   genericName: { type: String, required: true },
   brand: { type: String, required: true },
   sizes: [String],
@@ -18,6 +18,7 @@ const clothingSchema = new Schema({
   inBox: String,
   detailsAboutThisItem: [String],
   description: String,
+  style: { type: String, enum: ["Western", "Indian"], required: true },
   specialPromotionalImages: [String],
   images: [
     {
@@ -30,7 +31,7 @@ const clothingSchema = new Schema({
       user: {
         id: String,
         name: String,
-        date: String,
+        date: { type: Date, required: true },
         country: String,
       },
       rating: Number,
@@ -40,8 +41,8 @@ const clothingSchema = new Schema({
       },
     },
   ],
-  price: String,
-  availability: String,
+  price: Number,
+  stocks: Number,
   warranty: String,
   customerServiceContact: String,
   shippingDetails: {

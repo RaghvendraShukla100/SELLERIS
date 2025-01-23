@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useSelector } from "react-redux";
 import Rating from "../components/rating";
 import { FaRupeeSign } from "react-icons/fa";
+import YouMightAlsoLike from "../components/YouMightAlsoLike";
 
 function ProductDetailsPage() {
   const productData = useSelector((state) => state.productDetails.value) || [];
@@ -23,7 +24,7 @@ function ProductDetailsPage() {
   };
   const calculateDiscount = (price, discount) => {
     const percentage = parseFloat(discount) / 100;
-    const discountedPrice = price * percentage;
+    const discountedPrice = price - price * percentage;
     return Math.round(discountedPrice);
   };
   return (
@@ -124,18 +125,21 @@ function ProductDetailsPage() {
         </section>
       </div>
       <hr />
-      <div className="mx-10 flex space-x-2">
+      <div className="mx-10 flex flex-wrap space-x-2">
         <div className="font-bold uppercase "> product description :</div>
-        <div className="font-semibold"> {productData.description}</div>
+        <div className=""> {productData.description}</div>
       </div>
-      <div>
-        <h5 className="font-bold text-3xl uppercase  mt-5 mx-2">
-          From the manufacturer
-        </h5>
+      <div className="mx-auto  ">
+        {productData.specialPromotionalImages.length !== 0 && (
+          <h5 className="font-bold text-3xl uppercase my-5  mt-5 mx-10">
+            From the manufacturer
+          </h5>
+        )}
         {productData.specialPromotionalImages?.map((elm) => (
-          <img src={elm} />
+          <img src={elm} className="w-fit mx-auto" />
         ))}
       </div>
+      <YouMightAlsoLike />
     </div>
   );
 }
