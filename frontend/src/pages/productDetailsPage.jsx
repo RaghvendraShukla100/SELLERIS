@@ -3,6 +3,7 @@ import { useSelector } from "react-redux";
 import Rating from "../components/rating";
 import { FaRupeeSign } from "react-icons/fa";
 import YouMightAlsoLike from "../components/YouMightAlsoLike";
+import HorizantalAdd from "../components/horizantalAdd";
 
 function ProductDetailsPage() {
   const productData = useSelector((state) => state.productDetails.value) || [];
@@ -29,6 +30,7 @@ function ProductDetailsPage() {
   };
   return (
     <div>
+      <HorizantalAdd data={productData} />
       <div className="grid grid-cols-12 p-3 gap-x-1 h-fit my-5 ">
         <section className="w-full flex col-span-6 ">
           {/* thumbnail images */}

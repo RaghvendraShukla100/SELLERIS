@@ -16,6 +16,8 @@ import HomeDecorDemoData from "./DemoData/ProductListingData/HomeDecoreDemoData.
 import BrandPosterData from "./DemoData/ProductListingData/BrandPosterData.json" assert { type: "json" };
 import HomeDecorePageData from "./DemoData/ProductHompageData/homeDecorePageData.json" assert { type: "json" };
 import MensHomePageData from "./DemoData/ProductHompageData/mensHomePageData.json" assert { type: "json" };
+import WomenHomePageData from "./DemoData/ProductHompageData/womenHomePageData.json" assert { type: "json" };
+import ElectronicsHomePageData from "./DemoData/ProductHompageData/electronicsHomePageData.json" assert { type: "json" };
 
 const app = express();
 const port = 3000;
@@ -53,6 +55,12 @@ app.get("/api/products/DecoreHomePage", (req, res) => {
 });
 app.get("/api/products/MensHomePage", (req, res) => {
   res.json(MensHomePageData);
+});
+app.get("/api/products/WomenHomePage", (req, res) => {
+  res.json(WomenHomePageData);
+});
+app.get("/api/products/electronicsHomePage", (req, res) => {
+  res.json(ElectronicsHomePageData);
 });
 
 mongoose

@@ -20,7 +20,7 @@ function MensPage() {
       {/* category section */}
       <div className="  bg-[#FFE9DC]">
         <h1
-          className="text-6xl text-center text-[#F56600] py-10
+          className="lg:text-6xl md:text-3xl text-2xl text-center text-[#F56600] py-10
           uppercase font-bold "
         >
           products by category

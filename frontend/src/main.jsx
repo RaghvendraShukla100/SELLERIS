@@ -16,6 +16,7 @@ import DecorePage from "./pages/decorePage.jsx";
 import Footer from "./components/Footer.jsx";
 import ProductListingPage from "./pages/productListingPage.jsx";
 import ProductDetailsPage from "./pages/productDetailsPage.jsx";
+import ElectronicsHomePage from "./pages/electronicsPage.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -28,6 +29,10 @@ createRoot(document.getElementById("root")).render(
           <Route path="/womens" element={<WomensPage />} />
           <Route path="/clothings" element={<ClothingPage />} />
           <Route path="/electronics" element={<ElectronicsPage />} />
+          <Route
+            path="/electronicshomepage"
+            element={<ElectronicsHomePage />}
+          />
           <Route path="/furnitures" element={<FurnituresPage />} />
           <Route path="/beautySkincares" element={<BeautySkincarePage />} />
           <Route path="/homedecores" element={<DecorePage />} />

@@ -13,15 +13,15 @@ function Slider1({ imagesArray = [] }) {
     slidesToScroll: 1,
     autoplay: true,
     autoplaySpeed: 3000,
-    lazyLoad: "ondemand", // Added lazy loading
+    lazyLoad: "ondemand",
   };
 
   return (
-    <div className="slider-container">
+    <div className="slider-container ">
       <Slider {...settings}>
         {Array.isArray(imagesArray) && imagesArray.length > 0 ? (
           imagesArray.map((elm, index) => (
-            <div key={index}>
+            <div key={index} className="w-fit mx-auto">
               <img src={elm} alt={`Image ${index}`} />
             </div>
           ))

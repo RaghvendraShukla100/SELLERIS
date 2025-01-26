@@ -59,13 +59,13 @@ function ClothingPage() {
         {products.shopByCategoryImage && (
           <img src={products.shopByCategoryImage} alt="Shop by category" />
         )}
-        <div className="grid grid-cols-6 w-8/12 mx-auto  ">
+        <div className="grid grid-cols-6 w-10/12 mx-auto  ">
           {products.categorySpecificPoster?.map((elm) => (
             <img
               key={elm.index}
               src={elm.image}
               alt={elm.catName}
-              className="w-[180px] cursor-pointer"
+              className=" cursor-pointer "
               onClick={() => handleProductCategoryClick(elm)}
             />
           ))}

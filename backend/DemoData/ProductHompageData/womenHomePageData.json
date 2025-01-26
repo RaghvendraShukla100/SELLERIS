@@ -1,4 +1,21 @@
 {
+  "womensHomeSliderImages": [
+    "https://www.abfrl.com/wp-content/uploads/2024/07/LP-Banners_Layer-5_1133x569.jpg",
+    "https://www.abfrl.com/wp-content/uploads/2024/07/LP-Banners_Layer-6_1133x569.jpg",
+    "https://www.abfrl.com/wp-content/uploads/2024/07/LP-Banners_Layer-2_1133x569.jpg",
+    "https://www.abfrl.com/wp-content/uploads/2023/12/24.-TMRW.png",
+    "https://www.abfrl.com/wp-content/uploads/2024/07/HOM-KOOTURE-1133x569_2-7-2024.jpg",
+    "https://www.abfrl.com/wp-content/uploads/2024/07/LP-Banners_Layer-4_1133x569.jpg",
+    "https://www.abfrl.com/wp-content/uploads/2024/09/5.png",
+    "https://www.abfrl.com/wp-content/uploads/2024/09/1-1.png",
+    "https://www.abfrl.com/wp-content/uploads/2024/09/4.png",
+    "https://www.abfrl.com/wp-content/uploads/2024/09/3-3.png",
+    "https://www.abfrl.com/wp-content/uploads/2024/09/2-3.png",
+    "https://www.abfrl.com/wp-content/uploads/2024/07/van_Heusen-1133x569-copy.jpg",
+    "https://www.abfrl.com/wp-content/uploads/2024/10/Ex-1.png",
+    "https://www.abfrl.com/wp-content/uploads/2024/07/pantaloons-1133x569-1.jpg",
+    "https://www.abfrl.com/wp-content/uploads/2024/07/LP-Banners_Layer-7_1133x569.jpg"
+  ],
   "mustHaveWesternWears": [
     {
       "name": "t-shirt",
@@ -131,6 +148,118 @@
     {
       "name": "jockey",
       "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/WASD/lINGERIE/Jockey_10._SY530_QL85_FMpng_.png"
+    }
+  ],
+  "mostLovedBrands": [
+    {
+      "name": "W for Woman",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/W_for_women_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "meena bazaar",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/BOTW/Meena_Bazaar_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "veromoda",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Veromoda_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "only",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Only_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "soch",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Soch_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "aurelia",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Aurelia_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "go colors",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/Jupiter/Gocolors_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "madame",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Madame_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "rangita",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Rangita_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "akhilam",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Akhilam_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "indya",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/P0Brands/Mostloved/Indya_564x940._SX564_QL85_.jpg"
+    },
+    {
+      "name": "the souled store",
+      "link": "https://m.media-amazon.com/images/G/31/img2020/fashion/WomensApparel2024/Jupiter/The_Souledstore_564x940._SX564_QL85_.jpg"
+    }
+  ],
+  "mostFavBrands": [
+    {
+      "name": "pantaloon",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/pantaloons.jpeg"
+    },
+    {
+      "name": "frame",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/Frame-1.png"
+    },
+    {
+      "name": "van heusen",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/Van-Heusen-Logo.png"
+    },
+    {
+      "name": "the collective",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/the-collective.png"
+    },
+    {
+      "name": "fred",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/fred.png"
+    },
+    {
+      "name": "sabyasachi",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/sabyasachi.png"
+    },
+    {
+      "name": "tasva",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/tasva.png"
+    },
+    {
+      "name": "jaypore",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/jaypore.png"
+    },
+    {
+      "name": "wishful",
+      "link": "https://www.abfrl.com/wp-content/uploads/2024/09/LOGO-4.png"
+    },
+    {
+      "name": "louis phillipe",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/Louis-Phillipe.png"
+    },
+    {
+      "name": "van heusen",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/Van-Heusen.png"
+    },
+    {
+      "name": "allen solly",
+      "link": "https://www.abfrl.com/wp-content/uploads/2024/10/logo.png"
+    },
+    {
+      "name": "peter england",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/Peter-England.png"
+    },
+    {
+      "name": "simon carter",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/simon.png"
+    },
+    {
+      "name": "american eagle",
+      "link": "https://www.abfrl.com/wp-content/uploads/2023/09/american-eagle.png"
     }
   ]
 }
