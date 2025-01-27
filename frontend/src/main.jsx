@@ -17,6 +17,7 @@ import Footer from "./components/Footer.jsx";
 import ProductListingPage from "./pages/productListingPage.jsx";
 import ProductDetailsPage from "./pages/productDetailsPage.jsx";
 import ElectronicsHomePage from "./pages/electronicsPage.jsx";
+import ImageSlider from "./components/ImageSlider.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -38,6 +39,7 @@ createRoot(document.getElementById("root")).render(
           <Route path="/homedecores" element={<DecorePage />} />
           <Route path="/productListings" element={<ProductListingPage />} />
           <Route path="/productDetails" element={<ProductDetailsPage />} />
+          <Route path="/imageSlider" element={<ImageSlider />} />
         </Routes>
         <Footer />
       </BrowserRouter>

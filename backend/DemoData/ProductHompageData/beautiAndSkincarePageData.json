@@ -1,0 +1,157 @@
+{
+  "iconicSelection": [
+    {
+      "name": "body lotion",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-2_28d35cdd-4357-447b-9056-d5930460c733.jpg?v=1729493580&width=400"
+    },
+    {
+      "name": "sun screen",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-7.jpg?v=1708607015&width=400"
+    },
+    {
+      "name": "luxury soap",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-9.jpg?v=1708668602&width=400"
+    },
+    {
+      "name": "caddy set",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-2_1f8441af-ae0c-4cbd-9aa0-e36d7ee393df.jpg?v=1731935317&width=400"
+    },
+    {
+      "name": "shower gel",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-3.jpg?v=1708607015&width=400"
+    },
+    {
+      "name": "hand care",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-4_47a4b376-15ad-4aa3-8b6b-9eba29eb36bc.jpg?v=1708776702&width=400"
+    },
+    {
+      "name": "gift set",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-1.jpg?v=1708607015&width=400"
+    },
+    {
+      "name": "personalized gifting",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Home-Page-SHOP-BY-CATEGORY-Images-2.jpg?v=1708607015&width=400"
+    }
+  ],
+  "discoverPrimePicks": {
+    "best sellers": [
+      {
+        "name": "love story hand caddy set 270ml",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/Love_Story_Hand_Caddy_Set_Listing_Image-03_bf25c53d-eff2-430f-b61b-98cb602f5d8a.jpg?v=1718951385&width=600",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/Love_Story_Hand_Caddy_Set_Listing_Image-04_f2adbc5a-1e39-4e2c-9368-7ba4fc937fe5.jpg?v=1718951385&width=500"
+      },
+      {
+        "name": "the french note trio gift set",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteTrioGift-Set-Valentine-2025-Listing-02.jpg?v=1736926243&width=500",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteTrioGift-Set-Valentine-2025-Listing-03.jpg?v=1736926243&width=1080"
+      },
+      {
+        "name": "the love story experience gift set",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/Existing_gift_sets_Valentine-2025-Listing-04.jpg?v=1737621882&width=500",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/LOVESTORYEXPERIENCESET_Website_Listing_New-01.jpg?v=1737621882&width=700"
+      },
+      {
+        "name": "vihah indulgence set",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/VIVAHINDULGENCESET-Listing_Images-02.jpg?v=1701330070&width=500",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/VIVAHINDULGENCESET-Listing_Images-03.jpg?v=1701330071&width=500"
+      }
+    ],
+    "new arrivals": [
+      {
+        "name": "the gulistan duo gift box",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/TheGulistanDuoGift-Set-Valentine-2025-Listing-02.jpg?v=1737622103&width=500",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/TheGulistanDuoGift-Set-Valentine-2025-Listing-03.jpg?v=1737622103&width=600"
+      },
+      {
+        "name": "the french note trio gift set",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteTrioGift-Set-Valentine-2025-Listing-02.jpg?v=1736926243&width=500",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteTrioGift-Set-Valentine-2025-Listing-03.jpg?v=1736926243&width=600"
+      },
+      {
+        "name": "love story hand wash",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/Love-Story-Hand-Wash-500ml_Listing_Image-03.jpg?v=1735194760&width=600",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/Love-Story-Hand-Wash-500ml_Listing_Image-04.jpg?v=1735194760&width=300"
+      },
+      {
+        "name": "love story hand and body lotion",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/Love-Story-Hand-_-Body-Lotion-500ml-Listing-Images-03.jpg?v=1735196232&width=600",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/Love-Story-Hand-_-Body-Lotion-500ml-Listing-Images-04.jpg?v=1735196232&width=1080"
+      },
+      {
+        "name": "vivah bubble bath",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/VivahBubbleBath_Listing_Image-03.jpg?v=1728305740&width=800",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/VivahBubbleBath_Listing_Image-04.jpg?v=1728305740&width=700"
+      },
+      {
+        "name": "the french note bubble bath",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteBubbleBath_Listing_Image-03.jpg?v=1727422929&width=600",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteBubbleBath_Listing_Image-04.jpg?v=1727422929&width=700"
+      },
+      {
+        "name": "herbalist shampoo",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/Herbalist_Shampoo_Listing_Images-01.jpg?v=1724391971&width=500",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/Herbalist_Shampoo_Listing_Images-02.jpg?v=1724391972&width=700"
+      },
+      {
+        "name": "the french note hand wash",
+        "primaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteHandWash_Listing_Image-03.jpg?v=1721196114&width=600",
+        "secondaryImage": "https://www.kimirica.shop/cdn/shop/files/TheFrenchNoteHandWash_Listing_Image-04.jpg?v=1721196114&width=500"
+      }
+    ]
+  },
+  "experienceTheArtOfGifting": {
+    "videolink": "https://www.kimirica.shop/cdn/shop/videos/c/vp/5171edc9baa440069eedd68450a9b67a/5171edc9baa440069eedd68450a9b67a.SD-480p-0.9Mbps-24053270.mp4?v=0",
+    "images": [
+      "https://www.kimirica.shop/cdn/shop/files/Personalized_Gifting.png?v=1717149566&width=500",
+      "https://www.kimirica.shop/cdn/shop/files/Love_story_gift_set_7b202bdd-5808-4a25-8ea8-05e153b756ba.png?v=1717149095&width=500"
+    ]
+  },
+  "shopByCatigory": [
+    {
+      "name": "bath care",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Bath_5609c1e0-57bb-468e-b43a-aaf0495db491.jpg?v=1708605958&width=500"
+    },
+    {
+      "name": "body care",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Body-01.jpg?v=1708605116&width=500"
+    },
+    {
+      "name": "skin care",
+      "link": "https://www.kimirica.shop/cdn/shop/files/skin-care.jpg?v=1708669674&width=500"
+    },
+    {
+      "name": "hand care",
+      "link": "https://www.kimirica.shop/cdn/shop/files/Hand_care.png?v=1708602649&width=500"
+    }
+  ],
+  "trustedParterners": [
+    "https://www.kimirica.shop/cdn/shop/files/Trusted-Partner_Icon-Website-Home-Page-New-03.png?v=1708521186&width=180",
+    "https://www.kimirica.shop/cdn/shop/files/Trusted-Partner_Icon-Website-Home-Page-New-05.png?v=1708521186&width=180",
+    "https://www.kimirica.shop/cdn/shop/files/Trusted-Partner_Icon-Website-Home-Page-New-04.png?v=1708521186&width=180",
+    "https://www.kimirica.shop/cdn/shop/files/Trusted-Partner_Icon-Website-Home-Page-New-07.png?v=1708521186&width=180",
+    "https://www.kimirica.shop/cdn/shop/files/Trusted-Partner_Icon-Website-Home-Page-New-08.png?v=1708521186&width=180",
+    "https://www.kimirica.shop/cdn/shop/files/Trusted-Partner_Icon-Website-Home-Page-New-06.png?v=1708521186&width=180",
+    "https://www.kimirica.shop/cdn/shop/files/Trusted-Partner_Icon-Website-Home-Page-New-01.png?v=1708521186&width=180"
+  ],
+  "foreverFav": [
+    {
+      "image": "https://www.kimirica.shop/cdn/shop/files/Home-Page-FOREVER-FAVOURITES-Creative-01.jpg?v=1708597891&width=800",
+      "heading": "caddy sets",
+      "details": "add a touch of luxury to your living space with the perfect sink accessory"
+    },
+    {
+      "image": "https://www.kimirica.shop/cdn/shop/files/Home-Page-FOREVER-FAVOURITES-Creative-02_1.jpg?v=1708597949&width=800",
+      "heading": "scented soy candles",
+      "details": "luxurious candles hand poured with 100% natural soy wax and ifused with mood enhancing fragnance"
+    }
+  ],
+  "beautiAdvertisement": [
+    {
+      "heading": "skincare that works",
+      "name": "plant powered skincare",
+      "text": "Crafted through a dynamic fusion of Ayurvedic wisdom and cutting-edge science, our transformative skincare range is meticulously designed to unveil your best skin every day",
+      "buttonName": "shop skincare",
+      "videolink": "https://www.kimirica.shop/cdn/shop/videos/c/vp/fd2cf7c7b2194bc6bcd847f4615c928c/fd2cf7c7b2194bc6bcd847f4615c928c.SD-480p-0.9Mbps-24171307.mp4?v=0"
+    }
+  ]
+}

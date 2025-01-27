@@ -13,11 +13,12 @@ import ClothingDemoData from "./DemoData/ProductListingData/ClothingDemoData.jso
 import ElectronicsDemoData from "./DemoData/ProductListingData/ElectronicsDemoData.json" assert { type: "json" };
 import FurnituresDemoData from "./DemoData/ProductListingData/FurnituresDemoData.json" assert { type: "json" };
 import HomeDecorDemoData from "./DemoData/ProductListingData/HomeDecoreDemoData.json" assert { type: "json" };
-import BrandPosterData from "./DemoData/ProductListingData/BrandPosterData.json" assert { type: "json" };
-import HomeDecorePageData from "./DemoData/ProductHompageData/homeDecorePageData.json" assert { type: "json" };
+import ClothingHomePageData from "./DemoData/ProductHompageData/clothingHomePageData.json" assert { type: "json" };
+import HomeDecoreHomePageData from "./DemoData/ProductHompageData/homeDecorePageData.json" assert { type: "json" };
 import MensHomePageData from "./DemoData/ProductHompageData/mensHomePageData.json" assert { type: "json" };
 import WomenHomePageData from "./DemoData/ProductHompageData/womenHomePageData.json" assert { type: "json" };
 import ElectronicsHomePageData from "./DemoData/ProductHompageData/electronicsHomePageData.json" assert { type: "json" };
+import BeautyAndSkincareHomePageData from "./DemoData/ProductHompageData/beautiAndSkincarePageData.json" assert { type: "json" };
 
 const app = express();
 const port = 3000;
@@ -51,7 +52,7 @@ app.get("/api/products/BrandPoster", (req, res) => {
 });
 
 app.get("/api/products/DecoreHomePage", (req, res) => {
-  res.json(HomeDecorePageData);
+  res.json(HomeDecoreHomePageData);
 });
 app.get("/api/products/MensHomePage", (req, res) => {
   res.json(MensHomePageData);
@@ -61,6 +62,9 @@ app.get("/api/products/WomenHomePage", (req, res) => {
 });
 app.get("/api/products/electronicsHomePage", (req, res) => {
   res.json(ElectronicsHomePageData);
+});
+app.get("/api/products/beautySkincareHomePage", (req, res) => {
+  res.json(BeautyAndSkincareHomePageData);
 });
 
 mongoose

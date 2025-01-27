@@ -65,7 +65,7 @@ function ElectronicsHomePage() {
               key={index}
               src={elm.link}
               alt={elm.name}
-              className="hover:shadow-md"
+              className="hover:shadow-md cursor-pointer"
             />
           ))}
         </div>

@@ -50,16 +50,16 @@ function Navbar() {
   return (
     <nav>
       {/* first nav section */}
-      <section className="bg-[#131921] flex justify-between items-center md:px-10 md:py-2 h-16 text-white overflow-hidden">
+      <section className="bg-[#131921] grid grid-cols-12 md:px-10 md:py-2 h-16 text-white overflow-hidden">
         {/* app logo */}
         <div
-          className="md:text-2xl px-1 cursor-pointer md:font-semibold"
+          className="md:text-2xl px-1 cursor-pointer md:font-semibold  col-span-2"
           onClick={() => navigate("/")}
         >
           SELLERIS.in
         </div>
         {/* global location */}
-        <div className="md:px-2 px-1">
+        <div className="md:px-2 px-1   col-span-2  ">
           <div className="capitalize md:text-[13px] font-thin text-xs text-gray-300 -my-1">
             Delivering to Boisar 401501
           </div>
@@ -69,43 +69,41 @@ function Navbar() {
           </div>
         </div>
         {/* search bar */}
-        <div>
-          <div className="rounded-sm flex flex-nowrap">
-            <form action="submit">
+        <div className="col-span-4">
+          <div className="rounded-sm flex">
+            <form action="submit" className="flex w-full">
               <input
                 type="text"
                 name="nav_search"
                 id="nav_search"
-                className="md:w-80 md:h-8 md:px-2"
+                className="w-full h-9 md:px-2 flex-grow"
                 placeholder="Search Selleris.in"
               />
-              <button className="md:px-2 bg-orange-700 py-1 uppercase">
+              <button className="h-9 px-2 bg-orange-700 uppercase flex-shrink-0">
                 search
               </button>
             </form>
           </div>
         </div>
-        <div className="flex gap-2">
-          <div className="mx-4">language</div>
-          {/* login */}
-          <div className="mx-4">
-            <div className="capitalize text-[13px] -my-1">hello, sign in</div>
-            <div className="flex items-center">
-              <div className="capitalize font-semibold -my-1">
-                accounts & listing
-              </div>
-              <FaCaretDown className="ml-1 mt-2" />
+
+        {/* login */}
+        <div className="px-4   col-span-2">
+          <div className="capitalize text-[13px] -my-1">hello, sign in</div>
+          <div className="flex items-center">
+            <div className="capitalize font-semibold -my-1">
+              accounts & listing
             </div>
+            <FaCaretDown className="ml-1 mt-2" />
           </div>
-          {/* orders */}
-          <div className="mx-4">
-            <div className="capitalize -my-1 text-[13px]">returns</div>
-            <div className="capitalize font-semibold -my-1">& orders</div>
-          </div>
-          {/* cart */}
-          <div className="mx-4 flex text-3xl items-center">
-            <IoCart />
-          </div>
+        </div>
+        {/* orders */}
+        <div className="px-4  ">
+          <div className="capitalize -my-1 text-[13px]">returns</div>
+          <div className="capitalize font-semibold -my-1">& orders</div>
+        </div>
+        {/* cart */}
+        <div className="px-4   flex text-3xl items-center">
+          <IoCart />
         </div>
       </section>
       {/* second nav section */}

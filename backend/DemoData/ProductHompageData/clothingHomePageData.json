@@ -45,7 +45,7 @@
       "brandimage": "https://m.media-amazon.com/images/G/31/MA2025/JanArt/Steal_deals/2x2/Work_Wear_978x1420._SY530_QL85_FMpng_.png"
     }
   ],
-  "shopByCategoryImage": "https://assets.myntassets.com/w_980,c_limit,fl_progressive,dpr_2.0/assets/images/2025/JANUARY/11/fn1avydK_9837e0b576384390acc9607b89ed5bfc.jpg",
+
   "categorySpecificPoster": [
     {
       "catName": "womens_ethnic_wear",
@@ -166,18 +166,6 @@
     {
       "catName": "women_casual_wears",
       "image": "https://assets.myntassets.com/w_163,c_limit,fl_progressive,dpr_2.0/assets/images/2025/JANUARY/10/Zthu96N4_af86499a08294db9acb0ed2248680fa5.jpg"
-    },
-    {
-      "catName": "bags_bagpacks",
-      "image": "https://assets.myntassets.com/w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2025/JANUARY/10/tXjn3xva_ffd20b0d874a4344829952735ed174a5.jpg"
-    },
-    {
-      "catName": "trolleys_luggage_bags",
-      "image": "https://assets.myntassets.com/w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2025/JANUARY/10/CQljGEhb_651bd02ed5ba4444af2b4e37ab93ec0b.jpg"
-    },
-    {
-      "catName": "flip_flops",
-      "image": "https://assets.myntassets.com/w_196,c_limit,fl_progressive,dpr_2.0/assets/images/2025/JANUARY/10/zGx6jkkw_e735b26722574430846f697fa8c7b717.jpg"
     }
   ]
 }
