@@ -112,6 +112,12 @@ function BeautySkincarePage() {
                     }
                     alt={elm.name}
                   />
+                  <span
+                    className="uppercase  block 
+                 text-gray-700 font-medium text-center"
+                  >
+                    {elm.name}
+                  </span>
                 </div>
               ))}
             </div>
@@ -153,9 +159,17 @@ function BeautySkincarePage() {
             <div className="py-10">
               <h1 className="text-center text-3xl">SHOP BY CATEGORY</h1>
             </div>
-            <div className="w-10/12 mx-auto grid grid-cols-4 gap-1">
+            <div className="w-10/12 mx-auto grid grid-cols-4 gap-2">
               {productData.shopByCatigory.map((elm, index) => (
-                <img src={elm.link} />
+                <div>
+                  <img src={elm.link} className="cursor-pointer" />
+                  <span
+                    className="uppercase font-semibold block text-xl
+                 text-gray-600 text-center"
+                  >
+                    {elm.name}
+                  </span>
+                </div>
               ))}
             </div>
           </div>

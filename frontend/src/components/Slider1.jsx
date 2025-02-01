@@ -4,8 +4,8 @@ import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import "../index.css";
 
-function Slider1({ imagesArray = [] }) {
-  const settings = {
+function Slider1({ imagesArray = [], customSettings = {} }) {
+  const defaultSettings = {
     dots: true,
     infinite: true,
     speed: 500,
@@ -16,13 +16,16 @@ function Slider1({ imagesArray = [] }) {
     lazyLoad: "ondemand",
   };
 
+  // Merge defaultSettings with customSettings
+  const settings = { ...defaultSettings, ...customSettings };
+
   return (
-    <div className="slider-container ">
+    <div className="slider-container z-0">
       <Slider {...settings}>
         {Array.isArray(imagesArray) && imagesArray.length > 0 ? (
           imagesArray.map((elm, index) => (
-            <div key={index} className="w-fit mx-auto">
-              <img src={elm} alt={`Image ${index}`} />
+            <div key={index} className="w-fit mx-auto z-0">
+              <img src={elm} alt={`Image ${index}`} className="z-0" />
             </div>
           ))
         ) : (

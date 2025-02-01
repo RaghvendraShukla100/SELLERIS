@@ -14,6 +14,7 @@ import FurnituresPage from "./pages/furnituresPage.jsx";
 import BeautySkincarePage from "./pages/beautySkincarePage.jsx";
 import DecorePage from "./pages/decorePage.jsx";
 import Footer from "./components/Footer.jsx";
+import MultipurposComponent from "./components/multipurposComponent.jsx";
 import ProductListingPage from "./pages/productListingPage.jsx";
 import ProductDetailsPage from "./pages/productDetailsPage.jsx";
 import ElectronicsHomePage from "./pages/electronicsPage.jsx";
@@ -40,6 +41,7 @@ createRoot(document.getElementById("root")).render(
           <Route path="/productListings" element={<ProductListingPage />} />
           <Route path="/productDetails" element={<ProductDetailsPage />} />
           <Route path="/imageSlider" element={<ImageSlider />} />
+          <Route path="/multipurpose" element={<MultipurposComponent />} />
         </Routes>
         <Footer />
       </BrowserRouter>

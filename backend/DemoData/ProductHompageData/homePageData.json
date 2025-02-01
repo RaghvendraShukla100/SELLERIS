@@ -1,0 +1,96 @@
+{
+  "mainSlider": [
+    "https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2025/UBS/Jan/9-5._CB551720094_.jpg",
+    "https://images-eu.ssl-images-amazon.com/images/G/31/MA2025/UBS/GW/HERO/2-1._CB551724485_.jpg",
+    "https://images-eu.ssl-images-amazon.com/images/G/31/Symbol/2025/UBS/Jan/1-5._CB551715463_.jpg",
+    "https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wireless/vinambia/70x10499/D128157385_Update_DesktopHeroTemplate_3000x1200_ref._CB551732423_.jpg",
+    "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Furniture/2025/Branddays/Brand_days_-_TSC_-_GW-04._CB551778303_.jpg"
+  ],
+
+  "multipurposeComponentTypeOne": [
+    {
+      "heading": "Min. 50% off | Fun toys for little ones | Amazon brands",
+      "products": [
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW_CPB_/QC_CC/Baby_toys/baby/QC_PC_186x116_9._SY116_CB563558900_.jpg",
+          "name": "Min. 50% off | soft toys"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW_CPB_/QC_CC/Baby_toys/toys/QC_PC_186x116_15._SY116_CB541414575_.jpg",
+          "name": "Min. 60% off | indore games"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW_CPB_/QC_CC/Baby_toys/toys/QC_PC_186x116_11._SY116_CB541414575_.jpg",
+          "name": "Min. 50% off | Ride ons"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img21/AmazonBrands/GW_CPB_/QC_CC/Baby_toys/toys/QC_PC_186x116_16._SY116_CB541411275_.jpg",
+          "name": "Min. 60% off | outdore games"
+        }
+      ]
+    },
+    {
+      "heading": "Starting ₹199 | Amazon Brands & more",
+      "products": [
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_2._SY116_CB567468236_.jpg",
+          "name": "Starting at 199 | Bedsheets"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_3._SY116_CB567468236_.jpg",
+          "name": "Starting at 199 | Curtains"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_4._SY116_CB567468236_.jpg",
+          "name": "Min. 40% off | Ironing board & more"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/img23/PB/March/Bikram/PC_QC_HOME_SIZE_186_1._SY116_CB567468236_.jpg",
+          "name": "up to 60% | home decore"
+        }
+      ]
+    },
+    {
+      "heading": "Revamp your home in style",
+      "products": [
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_furnishings_2._SY116_CB555624324_.jpg",
+          "name": "cusion covers, bedsheets and more"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_decor_1._SY116_CB555624324_.jpg",
+          "name": "figureins, vases and more"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_storage_1._SY116_CB555624324_.jpg",
+          "name": "home storage"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG20/Home/2024/Gateway/BTFGW/PCQC/New/1x/final/186x116_Home_lighting_2._SY116_CB555624324_.jpg",
+          "name": "lighting solutions"
+        }
+      ]
+    },
+    {
+      "heading": "Appliances for your home | Up to 55% off",
+      "products": [
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08RDL6H79._SY116_CB667322346_.jpg",
+          "name": "Air conditioners"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B08345R1ZW._SY116_CB667322346_.jpg",
+          "name": "Refrigerators"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/Appliances-QC-PC-186x116--B07G5J5FYP._SY116_CB667322346_.jpg",
+          "name": "Microwaves"
+        },
+        {
+          "image": "https://images-eu.ssl-images-amazon.com/images/G/31/IMG15/Irfan/GATEWAY/MSO/186x116---wm._SY116_CB667322346_.jpg",
+          "name": "Washing machine"
+        }
+      ]
+    }
+  ]
+}
