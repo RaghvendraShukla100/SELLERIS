@@ -58,6 +58,13 @@ const productSchema = new Schema(
     // Additional Info
     additionalFeatures: [String],
     inBox: String,
+
+    // Seller Reference
+    sellerId: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: "Seller",
+      required: true,
+    },
   },
   { timestamps: true }
 );
