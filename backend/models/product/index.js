@@ -1,5 +1,3 @@
-// /models/product/index.js
-
 import mongoose from "mongoose";
 
 const { Schema } = mongoose;
@@ -21,7 +19,7 @@ const productSchema = new Schema(
     // Descriptions
     description: String,
     detailsAboutThisItem: [String],
-    tags: [String],
+    tags: { type: [String], required: true }, // Made tags a required field
 
     // Pricing and Stock
     price: { type: Number, required: true, min: 0 },
@@ -68,7 +66,6 @@ const productSchema = new Schema(
 productSchema.set("discriminatorKey", "productType");
 
 // Indexes for optimized queries
-productSchema.index({ sku: 1 });
 productSchema.index({ category: 1 });
 productSchema.index({ brand: 1 });
 

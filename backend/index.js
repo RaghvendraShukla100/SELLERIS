@@ -3,19 +3,7 @@
 import express from "express";
 import cors from "cors";
 import mongoose from "mongoose";
-
-import {
-  getProductsByType,
-  getProductById,
-  createProduct,
-  updateProduct,
-  deleteProduct,
-} from "./controllers/productsController.js";
-
-import { getHomepageSection } from "./controllers/homepageController.js";
-
-import { validateProductType } from "./middleware/validateProductType.js";
-import { cacheMiddleware } from "./middleware/cacheMiddleware.js";
+import apiRoutes from "./routes/index.js"; // Import the main router
 
 const app = express();
 const port = 3000;
@@ -26,37 +14,14 @@ app.use(express.json());
 
 // Connect to MongoDB
 mongoose
-  .connect("mongodb://localhost:27017/your-database-name", {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-  })
+  .connect(
+    "mongodb+srv://shuklaraghvendra76:xxCMXl6kRyQFZ9sL@selleris-data.pjmv7.mongodb.net/SELLERIS?retryWrites=true&w=majority&appName=selleris-data"
+  )
   .then(() => console.log("MongoDB connected"))
-  .catch((err) => console.log("MongoDB connection error:", err));
+  .catch((err) => console.error("MongoDB connection error:", err)); // Corrected catch block
 
-// Products Routes
-
-// GET all products of a type
-app.get("/api/products/:productType", validateProductType, getProductsByType);
-
-// GET a single product by ID
-app.get("/api/products/:productType/:id", validateProductType, getProductById);
-
-// CREATE a new product
-app.post("/api/products/:productType", validateProductType, createProduct);
-
-// UPDATE a product by ID
-app.put("/api/products/:productType/:id", validateProductType, updateProduct);
-
-// DELETE a product by ID
-app.delete(
-  "/api/products/:productType/:id",
-  validateProductType,
-  deleteProduct
-);
-
-// Homepage Routes
-
-app.get("/api/homepage/:section", cacheMiddleware, getHomepageSection);
+// Use API routes
+app.use("/api", apiRoutes); // All routes under /api will be handled by apiRoutes
 
 // Start the server
 app.listen(port, () => {
