@@ -61,7 +61,7 @@ function BeautySkincarePage() {
               </h1>
             </div>
             <div className="grid grid-cols-4 pb-10">
-              {productData.iconicSelection.map((elm, index) => (
+              {productData?.iconicSelection?.map((elm, index) => (
                 <div key={index} className="mb-5">
                   <div className="px-10  ">
                     <img
@@ -84,17 +84,18 @@ function BeautySkincarePage() {
               discover prime picks
             </h2>
             <div className="flex justify-center pb-10">
-              {Object.entries(productData.discoverPrimePicks).map(
-                ([key, value]) => (
-                  <div
-                    key={key}
-                    className="mx-2 uppercase text-3xl font-semibold cursor-pointer"
-                    onClick={() => handlePrimePicks(value)}
-                  >
-                    {key}
-                  </div>
-                )
-              )}
+              {productData?.discoverPrimePicks &&
+                Object.entries(productData.discoverPrimePicks).map(
+                  ([key, value]) => (
+                    <div
+                      key={key}
+                      className="mx-2 uppercase text-3xl font-semibold cursor-pointer"
+                      onClick={() => handlePrimePicks(value)}
+                    >
+                      {key}
+                    </div>
+                  )
+                )}
             </div>
             <div className="gap-1 w-10/12 mx-auto my-5 grid grid-cols-4">
               {primePicks.map((elm, index) => (
@@ -134,7 +135,7 @@ function BeautySkincarePage() {
             <div className=" w-11/12 grid gap-2  grid-cols-12 mx-auto ">
               <div className="col-span-8">
                 <video
-                  src={productData?.experienceTheArtOfGifting.videolink}
+                  src={productData?.experienceTheArtOfGifting?.videolink}
                   autoPlay
                   loop
                   controls={false}
@@ -160,7 +161,7 @@ function BeautySkincarePage() {
               <h1 className="text-center text-3xl">SHOP BY CATEGORY</h1>
             </div>
             <div className="w-10/12 mx-auto grid grid-cols-4 gap-2">
-              {productData.shopByCatigory.map((elm, index) => (
+              {productData?.shopByCatigory?.map((elm, index) => (
                 <div>
                   <img src={elm.link} className="cursor-pointer" />
                   <span
@@ -175,7 +176,7 @@ function BeautySkincarePage() {
           </div>
           {/* advertising section */}
           <div className="w-11/12 mx-auto gap-x-3 grid py-20 grid-cols-2">
-            {productData?.beautiAdvertisement.map((elm, index) => (
+            {productData?.beautiAdvertisement?.map((elm, index) => (
               <React.Fragment key={index}>
                 {/* video */}
                 <div>

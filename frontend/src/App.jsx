@@ -24,13 +24,13 @@ function App() {
   );
   return (
     <>
-      <div className="-mb-64 z-0">
+      <div className=" z-0">
         <Slider1
           imagesArray={homePageData?.mainSlider}
           customSettings={customSettings}
         />
       </div>
-      {/* multipurpose component */}
+      multipurpose component
       <div className="flex flex-wrap gap-2 pl-1">
         {homePageData?.multipurposeComponentTypeOne?.map((elm, index) => (
           <MultipurposComponent
@@ -40,7 +40,7 @@ function App() {
           />
         ))}
         {/* Related To Your Viewed Item component */}
-        <RelatedToYourViewedItem />
+        {/* <RelatedToYourViewedItem /> */}
       </div>
     </>
   );

@@ -1,8 +1,7 @@
-// /backend/controllers/homepageController.js
-
 import path from "path";
 import fs from "fs/promises";
 import { fileURLToPath } from "url";
+import logger from "../utils/logger.js";
 
 // Helper to get __dirname in ES modules
 const __filename = fileURLToPath(import.meta.url);
@@ -11,12 +10,13 @@ const __dirname = path.dirname(__filename);
 // Cache to store loaded data
 const homepageDataCache = {};
 
+// Get homepage section data
 export const getHomepageSection = async (req, res) => {
   const section = req.params.section.toLowerCase();
 
   try {
     if (homepageDataCache[section]) {
-      // Serve from cache if available
+      logger.info(`Homepage section served from cache: ${section}`);
       return res.json(homepageDataCache[section]);
     }
 
@@ -58,9 +58,28 @@ export const getHomepageSection = async (req, res) => {
     // Store in cache
     homepageDataCache[section] = parsedData;
 
+    logger.info(`Homepage section fetched: ${section}`);
     res.json(parsedData);
   } catch (error) {
-    console.error("Error reading homepage data:", error);
+    logger.error(`Error fetching homepage section: ${error.message}`);
+    res.status(500).json({ error: "Server error" });
+  }
+};
+
+// Refresh homepage cache
+export const refreshHomepageCache = async (req, res) => {
+  const { section } = req.body;
+
+  try {
+    if (!homepageDataCache[section]) {
+      return res.status(404).json({ error: "Section not found in cache" });
+    }
+
+    delete homepageDataCache[section];
+    logger.info(`Homepage cache refreshed for section: ${section}`);
+    res.json({ message: "Cache refreshed successfully" });
+  } catch (error) {
+    logger.error(`Error refreshing homepage cache: ${error.message}`);
     res.status(500).json({ error: "Server error" });
   }
 };

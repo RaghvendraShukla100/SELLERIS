@@ -1,11 +1,8 @@
-// /models/furniture/index.js
-
 import mongoose from "mongoose";
-import Product from "../product/index.js";
+import Product from "./products.js";
 
 const { Schema } = mongoose;
 
-// Furniture Schema
 const furnitureSchema = new Schema({
   colors: [String],
   material: String,
@@ -13,11 +10,10 @@ const furnitureSchema = new Schema({
   cushionMaterial: String,
   assemblyRequired: Boolean,
   careInstructions: String,
-  maxLoadCapacity: Number, // in kg
-  roomType: [String], // e.g., ["Living Room", "Bedroom"],
+  maxLoadCapacity: Number,
+  roomType: [String],
 });
 
-// Furniture Model
 const Furniture = Product.discriminator("Furniture", furnitureSchema);
 
 export default Furniture;

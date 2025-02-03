@@ -5,28 +5,19 @@ const { Schema } = mongoose;
 // Base Product Schema
 const productSchema = new Schema(
   {
-    // Core Identifiers
-    sku: { type: String, required: true, unique: true }, // Stock Keeping Unit
+    sku: { type: String, required: true, unique: true },
     name: { type: String, required: true },
     genericName: { type: String },
     brand: { type: String },
     productType: { type: String, required: true },
-
-    // Classification
     category: { type: String, required: true },
     subCategory: { type: String },
-
-    // Descriptions
     description: String,
     detailsAboutThisItem: [String],
-    tags: { type: [String], required: true }, // Made tags a required field
-
-    // Pricing and Stock
+    tags: { type: [String], required: true },
     price: { type: Number, required: true, min: 0 },
     stocks: { type: Number, required: true, min: 0 },
     discountsOrOffers: String,
-
-    // Visuals
     images: [
       {
         color: String,
@@ -34,12 +25,8 @@ const productSchema = new Schema(
       },
     ],
     specialPromotionalImages: [String],
-
-    // Customer Service
     warranty: String,
     customerServiceContact: String,
-
-    // Shipping Details
     shippingDetails: {
       cost: { type: Number, min: 0 },
       estimatedDelivery: String,
@@ -50,33 +37,30 @@ const productSchema = new Schema(
         weight: Number,
       },
     },
-
-    // Product Attributes
     material: String,
     colors: [String],
-
-    // Additional Info
     additionalFeatures: [String],
     inBox: String,
-
-    // Seller Reference
     sellerId: {
       type: mongoose.Schema.Types.ObjectId,
       ref: "Seller",
       required: true,
     },
+    // New field to store average rating
+    averageRating: {
+      type: Number,
+      default: null,
+      min: 0,
+      max: 5,
+    },
   },
   { timestamps: true }
 );
 
-// Set discriminator key
 productSchema.set("discriminatorKey", "productType");
-
-// Indexes for optimized queries
 productSchema.index({ category: 1 });
 productSchema.index({ brand: 1 });
 
-// Base Product Model
 const Product = mongoose.model("Product", productSchema);
 
 export default Product;

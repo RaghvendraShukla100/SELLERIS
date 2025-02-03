@@ -1,11 +1,8 @@
-// /models/electronics/index.js
-
 import mongoose from "mongoose";
-import Product from "../product/index.js";
+import Product from "./products.js";
 
 const { Schema } = mongoose;
 
-// Electronics Schema
 const electronicsSchema = new Schema({
   os: String,
   RAM: [String],
@@ -13,19 +10,18 @@ const electronicsSchema = new Schema({
   display: {
     size: String,
     resolution: String,
-    type: String, // e.g., "LCD", "OLED"
+    type: String,
   },
   processor: String,
   batteryLife: String,
-  connectivityOptions: [String], // e.g., ["Bluetooth", "WiFi", "NFC"]
+  connectivityOptions: [String],
   technicalSpecifications: {
     type: Map,
     of: String,
   },
-  inBox: [String], // e.g., ["Charger", "Earphones"],
+  inBox: [String],
 });
 
-// Electronics Model
 const Electronics = Product.discriminator("Electronics", electronicsSchema);
 
 export default Electronics;

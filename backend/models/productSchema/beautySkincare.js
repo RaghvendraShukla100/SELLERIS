@@ -1,15 +1,12 @@
-// /models/beautySkincare/index.js
-
 import mongoose from "mongoose";
-import Product from "../product/index.js";
+import Product from "./products.js";
 
 const { Schema } = mongoose;
 
-// Beauty and Skincare Schema
 const beautySkincareSchema = new Schema({
   sizes: [String],
   ingredients: [String],
-  skinType: [String], // e.g., ["Oily", "Dry", "Sensitive"]
+  skinType: [String],
   usageInstructions: String,
   safetyWarnings: String,
   expiryDate: Date,
@@ -18,7 +15,6 @@ const beautySkincareSchema = new Schema({
   isCrueltyFree: Boolean,
 });
 
-// BeautySkincare Model
 const BeautySkincare = Product.discriminator(
   "BeautySkincare",
   beautySkincareSchema

@@ -1,5 +1,3 @@
-// /backend/routes/products.js
-
 import express from "express";
 import {
   getProductsByType,
@@ -9,6 +7,7 @@ import {
   deleteProduct,
 } from "../controllers/productsController.js";
 import { validateProductType } from "../middleware/validateProductType.js";
+import { authenticate } from "../middleware/authMiddleware.js";
 
 const router = express.Router();
 
@@ -18,13 +17,23 @@ router.get("/:productType", validateProductType, getProductsByType);
 // GET a single product by ID
 router.get("/:productType/:id", validateProductType, getProductById);
 
-// CREATE a new product
-router.post("/:productType", validateProductType, createProduct);
+// CREATE a new product (protected route, seller only)
+router.post("/:productType", authenticate, validateProductType, createProduct);
 
-// UPDATE a product by ID
-router.put("/:productType/:id", validateProductType, updateProduct);
+// UPDATE a product by ID (protected route, seller only)
+router.put(
+  "/:productType/:id",
+  authenticate,
+  validateProductType,
+  updateProduct
+);
 
-// DELETE a product by ID
-router.delete("/:productType/:id", validateProductType, deleteProduct);
+// DELETE a product by ID (protected route, seller only)
+router.delete(
+  "/:productType/:id",
+  authenticate,
+  validateProductType,
+  deleteProduct
+);
 
 export default router;

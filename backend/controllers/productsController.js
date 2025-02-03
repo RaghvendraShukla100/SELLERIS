@@ -1,12 +1,11 @@
-// /backend/controllers/productsController.js
-
 import {
   Clothing,
   Electronics,
   BeautySkincare,
   Furniture,
   HomeDecor,
-} from "../models/index.js";
+} from "../models/productSchema/index.js";
+import logger from "../utils/logger.js";
 
 // Helper function to get the model based on product type
 const getModelByProductType = (productType) => {
@@ -26,7 +25,7 @@ const getModelByProductType = (productType) => {
   }
 };
 
-// **GET /api/products/:productType**
+// Get products by type
 export const getProductsByType = async (req, res) => {
   const productType = req.params.productType.toLowerCase();
   const { page = 1, limit = 10, sortBy = "name", order = "asc" } = req.query;
@@ -47,6 +46,7 @@ export const getProductsByType = async (req, res) => {
       .skip((page - 1) * limit)
       .exec();
 
+    logger.info(`Products fetched for type: ${productType}`);
     res.json({
       products,
       pagination: {
@@ -57,12 +57,12 @@ export const getProductsByType = async (req, res) => {
       },
     });
   } catch (error) {
-    console.error("Error fetching products:", error);
+    logger.error(`Error fetching products: ${error.message}`);
     res.status(500).json({ error: "Server error" });
   }
 };
 
-// **GET /api/products/:productType/:id**
+// Get product by ID
 export const getProductById = async (req, res) => {
   const productType = req.params.productType.toLowerCase();
   const { id } = req.params;
@@ -78,14 +78,15 @@ export const getProductById = async (req, res) => {
       return res.status(404).json({ error: "Product not found" });
     }
 
+    logger.info(`Product fetched: ${product.name}`);
     res.json(product);
   } catch (error) {
-    console.error("Error fetching product:", error);
+    logger.error(`Error fetching product: ${error.message}`);
     res.status(500).json({ error: "Server error" });
   }
 };
 
-// **POST /api/products/:productType**
+// Create product
 export const createProduct = async (req, res) => {
   const productType = req.params.productType.toLowerCase();
   const productData = req.body;
@@ -99,19 +100,15 @@ export const createProduct = async (req, res) => {
     const newProduct = new model(productData);
     await newProduct.save();
 
+    logger.info(`Product created: ${newProduct.name}`);
     res.status(201).json(newProduct);
   } catch (error) {
-    console.error("Error creating product:", error);
-
-    if (error.name === "ValidationError") {
-      return res.status(400).json({ error: error.message });
-    }
-
+    logger.error(`Error creating product: ${error.message}`);
     res.status(500).json({ error: "Server error" });
   }
 };
 
-// **PUT /api/products/:productType/:id**
+// Update product
 export const updateProduct = async (req, res) => {
   const productType = req.params.productType.toLowerCase();
   const { id } = req.params;
@@ -132,19 +129,15 @@ export const updateProduct = async (req, res) => {
       return res.status(404).json({ error: "Product not found" });
     }
 
+    logger.info(`Product updated: ${updatedProduct.name}`);
     res.json(updatedProduct);
   } catch (error) {
-    console.error("Error updating product:", error);
-
-    if (error.name === "ValidationError") {
-      return res.status(400).json({ error: error.message });
-    }
-
+    logger.error(`Error updating product: ${error.message}`);
     res.status(500).json({ error: "Server error" });
   }
 };
 
-// **DELETE /api/products/:productType/:id**
+// Delete product
 export const deleteProduct = async (req, res) => {
   const productType = req.params.productType.toLowerCase();
   const { id } = req.params;
@@ -161,9 +154,10 @@ export const deleteProduct = async (req, res) => {
       return res.status(404).json({ error: "Product not found" });
     }
 
+    logger.info(`Product deleted: ${deletedProduct.name}`);
     res.json({ message: "Product deleted successfully" });
   } catch (error) {
-    console.error("Error deleting product:", error);
+    logger.error(`Error deleting product: ${error.message}`);
     res.status(500).json({ error: "Server error" });
   }
 };
