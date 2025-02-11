@@ -1,34 +1,33 @@
-// backend/routes/sellerRoutes.js
+// backend/routes/sellersRoutes.js
 import express from "express";
 import {
-  getSellers,
-  getSellerById,
   createSeller,
   updateSeller,
   deleteSeller,
+  getSellerById,
+  getSellers,
 } from "../controllers/sellerController.js";
-import { authenticateSeller } from "../middleware/authSellerMiddleware.js";
-import { isAdmin } from "../middleware/roleMiddleware.js";
 import {
   validateSellerCreation,
   validateSellerUpdate,
 } from "../middleware/validationMiddleware.js";
+import { authenticateUser } from "../middleware/authUserMiddleware.js";
 
 const router = express.Router();
 
-// CREATE a new seller (public route)
-router.post("/register", validateSellerCreation, createSeller);
-
 // GET all sellers (admin only)
-router.get("/", authenticateSeller, isAdmin, getSellers);
+router.get("/", authenticateUser, getSellers);
 
-// GET a single seller by ID (protected route)
-router.get("/:id", authenticateSeller, getSellerById);
+// GET a single seller by ID
+router.get("/:id", authenticateUser, getSellerById);
 
-// UPDATE a seller by ID (protected route)
-router.put("/:id", authenticateSeller, validateSellerUpdate, updateSeller);
+// CREATE a new seller
+router.post("/", validateSellerCreation, createSeller);
+
+// UPDATE a seller by ID
+router.put("/:id", authenticateUser, validateSellerUpdate, updateSeller);
 
 // DELETE a seller by ID (admin only)
-router.delete("/:id", authenticateSeller, isAdmin, deleteSeller);
+router.delete("/:id", authenticateUser, deleteSeller);
 
 export default router;

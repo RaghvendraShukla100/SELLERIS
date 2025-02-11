@@ -1,2 +1,3 @@
 {"level":"error","message":"Error registering admin: Missing credentials for \"PLAIN\""}
 {"level":"error","message":"Error registering admin: Missing credentials for \"PLAIN\""}
+{"level":"error","message":"Error registering user: Missing credentials for \"PLAIN\""}
