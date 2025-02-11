@@ -19,11 +19,13 @@ import ProductListingPage from "./pages/productListingPage.jsx";
 import ProductDetailsPage from "./pages/productDetailsPage.jsx";
 import ElectronicsHomePage from "./pages/electronicsPage.jsx";
 import ImageSlider from "./components/ImageSlider.jsx";
-import UserRegistrationForm from "./components/userRegistration.jsx";
 import LoginForm from "./components/userLogin.jsx";
 import ReviewRating from "./components/reviewRating.jsx";
-import RegisterSeller from "./components/registerSeller .jsx";
+
 import SellersPanel from "./pages/SellersPanel.jsx";
+import AdminRegistration from "./components/AdminRegistration .jsx";
+import RegisterSeller from "./components/SellerRegistration.jsx";
+import UserRegistration from "./components/UserRegistration.jsx";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
@@ -47,10 +49,11 @@ createRoot(document.getElementById("root")).render(
           <Route path="/productDetails" element={<ProductDetailsPage />} />
           <Route path="/imageSlider" element={<ImageSlider />} />
           <Route path="/multipurpose" element={<MultipurposComponent />} />
-          <Route path="/user-registration" element={<UserRegistrationForm />} />
           <Route path="/user-login" element={<LoginForm />} />
           <Route path="/review-rating" element={<ReviewRating />} />
           <Route path="/seller-registration" element={<RegisterSeller />} />
+          <Route path="/user-registration" element={<UserRegistration />} />
+          <Route path="/admin-registration" element={<AdminRegistration />} />
           <Route path="/sellers-panel" element={<SellersPanel />} />
         </Routes>
         <Footer />

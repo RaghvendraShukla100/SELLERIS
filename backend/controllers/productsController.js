@@ -4,7 +4,7 @@ import {
   BeautySkincare,
   Furniture,
   HomeDecor,
-} from "../models/productSchema/index.js";
+} from "../models/productSchema/products.js";
 import logger from "../utils/logger.js";
 
 // Helper function to get the model based on product type

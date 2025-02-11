@@ -46,7 +46,6 @@ const productSchema = new Schema(
       ref: "Seller",
       required: true,
     },
-    // New field to store average rating
     averageRating: {
       type: Number,
       default: null,
@@ -62,5 +61,84 @@ productSchema.index({ category: 1 });
 productSchema.index({ brand: 1 });
 
 const Product = mongoose.model("Product", productSchema);
+
+// Discriminators for different product types
+const beautySkincareSchema = new Schema({
+  sizes: [String],
+  ingredients: [String],
+  skinType: [String],
+  usageInstructions: String,
+  safetyWarnings: String,
+  expiryDate: Date,
+  isNatural: Boolean,
+  isOrganic: Boolean,
+  isCrueltyFree: Boolean,
+});
+export const BeautySkincare = Product.discriminator(
+  "BeautySkincare",
+  beautySkincareSchema
+);
+
+const clothingSchema = new Schema({
+  sizes: [String],
+  fit: String,
+  style: String,
+  occasionToWear: [String],
+  gender: { type: String, enum: ["Men", "Women", "Unisex", "Kids"] },
+  productDimensions: {
+    chest: Number,
+    waist: Number,
+    hip: Number,
+    length: Number,
+    sleeveLength: Number,
+  },
+});
+export const Clothing = Product.discriminator("Clothing", clothingSchema);
+
+const electronicsSchema = new Schema({
+  os: String,
+  RAM: [String],
+  ROM: [String],
+  display: {
+    size: String,
+    resolution: String,
+    type: String,
+  },
+  processor: String,
+  batteryLife: String,
+  connectivityOptions: [String],
+  technicalSpecifications: {
+    type: Map,
+    of: String,
+  },
+  inBox: [String],
+});
+export const Electronics = Product.discriminator(
+  "Electronics",
+  electronicsSchema
+);
+
+const furnitureSchema = new Schema({
+  colors: [String],
+  material: String,
+  frameMaterial: String,
+  cushionMaterial: String,
+  assemblyRequired: Boolean,
+  careInstructions: String,
+  maxLoadCapacity: Number,
+  roomType: [String],
+});
+export const Furniture = Product.discriminator("Furniture", furnitureSchema);
+
+const homeDecorSchema = new Schema({
+  colors: [String],
+  material: String,
+  style: String,
+  roomType: [String],
+  theme: String,
+  isHandmade: Boolean,
+  artisan: String,
+});
+export const HomeDecor = Product.discriminator("HomeDecor", homeDecorSchema);
 
 export default Product;

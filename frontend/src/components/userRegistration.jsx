@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const UserRegistrationForm = () => {
+const UserRegistration = () => {
   const [formData, setFormData] = useState({
     firstName: "",
     lastName: "",
@@ -77,7 +77,10 @@ const UserRegistrationForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post("/api/users/register", formData);
+      const response = await axios.post(
+        "http://localhost:3000/api/user/register",
+        formData
+      );
       alert("Registration successful!");
       console.log(response.data);
     } catch (error) {
@@ -315,4 +318,4 @@ const UserRegistrationForm = () => {
   );
 };
 
-export default UserRegistrationForm;
+export default UserRegistration;

@@ -1,7 +1,7 @@
 // /backend/middleware/authUserMiddleware.js
 
 import jwt from "jsonwebtoken";
-import User from "../models/user.js";
+import User from "../models/userSchema/users.js";
 
 export const authenticateUser = async (req, res, next) => {
   const token = req.header("Authorization")?.replace("Bearer ", "");

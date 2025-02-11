@@ -1,4 +1,4 @@
-import Admin from "../models/admin.js";
+import Admin from "../models/userSchema/admin.js";
 import jwt from "jsonwebtoken";
 import bcrypt from "bcrypt";
 import { sendVerificationEmail } from "../utils/emailService.js";
@@ -6,7 +6,15 @@ import logger from "../utils/logger.js";
 
 // Admin registration
 export const createAdmin = async (req, res) => {
-  const { firstName, lastName, email, password, phone } = req.body;
+  const {
+    firstName,
+    lastName,
+    email,
+    password,
+    phone,
+    dateOfBirth,
+    profilePicture,
+  } = req.body;
 
   try {
     // Check if admin already exists
@@ -22,6 +30,8 @@ export const createAdmin = async (req, res) => {
       email,
       password,
       phone,
+      dateOfBirth,
+      profilePicture,
     });
 
     await newAdmin.save();
